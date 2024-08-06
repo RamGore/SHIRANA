@@ -36,13 +36,14 @@ include 'header.php';
 	<section class="ulockd-team-two">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3 text-center">
+				<div class="abt-section">
 					<div class="ulockd-main-title">
-						<p>NAGARI VIKAS SEVABHAVI SANSTHA Trust seeks donation to increase the corpus
+						<p class>NAGARI VIKAS SEVABHAVI SANSTHA Trust seeks donation to increase the corpus
 of the Trust so that it can be used to benefit the women of AURANGABAD
 MAHARASHTRA through Vocational training of Computer Hardware & Networking,
 Handicrafts and Mobile Repairing. FOR WOMEN LIVING WITH POVERTY .</p>
 					</div>
+					<div></div>
 				</div>
 			</div>
 			<div class="row">
