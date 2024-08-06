@@ -122,6 +122,7 @@ include 'header.php';
 								<div class="col-md-6">
 									<div class="form-group">
 										<input id="form_name" name="form_name" class="form-control ulockd-form-fg required" placeholder="Your name" required="required" data-error="Name is required." type="text">
+										<span id="nameError" class="error-message"></span>
 										<div class="help-block with-errors"></div>
 									</div>
 								</div>
@@ -129,6 +130,7 @@ include 'header.php';
 								<div class="col-md-6">
 									<div class="form-group">
 										<input id="form_email" name="form_email" class="form-control ulockd-form-fg required email" placeholder="Your email" required="required" data-error="Email is required." type="email">
+										<span id="emailError" class="error-message"></span>
 										<div class="help-block with-errors"></div>
 									</div>
 								</div>
@@ -136,6 +138,7 @@ include 'header.php';
 								<div class="col-md-6">
 									<div class="form-group">
 										<input id="form_phone" name="form_phone" class="form-control ulockd-form-fg required" placeholder="Phone" required="required" data-error="Phone Number is required." type="text">
+										<span id="mobileError" class="error-message"></span>
 										<div class="help-block with-errors"></div>
 									</div>
 								</div>
@@ -143,6 +146,7 @@ include 'header.php';
 								<div class="col-md-6">
 									<div class="form-group">
 										<input id="form_subject" name="form_subject" class="form-control ulockd-form-fg required" placeholder="Subject" required="required" data-error="Subject is required." type="text">
+										<span id="subjectError" class="error-message"></span>
 										<div class="help-block with-errors"></div>
 									</div>
 								</div>
@@ -173,6 +177,67 @@ include 'header.php';
 		</div>	
 
 	</section>
+
+
+
+
+
+	<script>
+						document.getElementById('inquiryForm').onsubmit = function (event) {
+							// Prevent form submission
+							event.preventDefault();
+
+							// Get form field values
+							var name = document.getElementById('form_name').value.trim();
+							var email = document.getElementById('form_email').value.trim();
+							var mobile = document.getElementById('form_phone').value.trim();
+							var service = document.getElementById('form_subject').value;
+							var message = document.getElementById('form_message').value.trim();
+
+							// Simple email validation regex
+							var emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+							// Simple mobile number validation regex (10 digits)
+							var mobilePattern = /^\d{10}$/;
+							// Name should not contain numbers
+							var namePattern = /^[A-Za-z\s]+$/;
+
+							// Clear previous error messages
+							document.getElementById('nameError').innerText = '';
+							document.getElementById('emailError').innerText = '';
+							document.getElementById('mobileError').innerText = '';
+							document.getElementById('subjectError').innerText = '';
+							// document.getElementById('messageError').innerText = '';
+
+							// Validation checks
+							var isValid = true;
+
+							if (name === '' || !namePattern.test(name)) {
+								document.getElementById('nameError').innerText = 'Please enter a valid name (letters and spaces only).';
+								isValid = false;
+							}
+							if (email === '' || !emailPattern.test(email)) {
+								document.getElementById('emailError').innerText = 'Please enter a valid email address.';
+								isValid = false;
+							}
+							if (mobile === '' || !mobilePattern.test(mobile)) {
+								document.getElementById('mobileError').innerText = 'Please enter a valid mobile number (10 digits).';
+								isValid = false;
+							}
+							if (service === 'Select Service*' || service === '') {
+								document.getElementById('subjectError').innerText = 'Please select a service.';
+								isValid = false;
+							}
+							// if (message === '') {
+							// 	document.getElementById('messageError').innerText = 'Please enter your message.';
+							// 	isValid = false;
+							// }
+
+							// If all validations pass, submit the form
+							if (isValid) {
+								document.getElementById('inquiryForm').submit();
+							}
+						};
+					</script>
 
 
 
