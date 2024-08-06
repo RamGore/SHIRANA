@@ -15,6 +15,7 @@
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/theme-color.css">
 <link rel="stylesheet" href="css/custom.css">
+<link rel="stylesheet" href="css/custom-3.css">
 <!-- Responsive stylesheet -->
 <link rel="stylesheet" href="css/responsive.css">
 <!-- Title -->
@@ -264,7 +265,7 @@
 					                        </ul>
 					                    </li>
                         <li class="dropdown">
-                            <a href="our-activity  ">Our Activities</a>
+                            <a href="our-activity">Our Activities</a>
                         </li>
                         <li class="dropdown">
                             <a href="events  ">Events</a>
