@@ -79,7 +79,6 @@
 <script type="text/javascript" src="js/jquery.barfiller.js"></script>
 <script type="text/javascript" src="js/timepicker.js"></script>
 <script type="text/javascript" src="js/tweetie.js"></script>
-<script type="text/javascript" src="vendor/s-customizer/js/color-switcher.js"></script>
 <script type="text/javascript" src="js/script.js"></script>
 </body>
 

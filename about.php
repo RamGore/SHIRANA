@@ -1,4 +1,6 @@
-
+<?php
+include 'header.php';
+?>
 
 	<!-- Home Design Inner Pages -->
 	<div class="ulockd-inner-home">
@@ -442,4 +444,6 @@ Handicrafts and Mobile Repairing. FOR WOMEN LIVING WITH POVERTY .</p>
 		</div>
 	</section>
 
-	
+	<?php
+include 'footer.php';
+?>
