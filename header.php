@@ -14,6 +14,7 @@
 <link rel="stylesheet" href="css/all-plugins.css">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/theme-color.css">
+<link rel="stylesheet" href="css/custom.css">
 <!-- Responsive stylesheet -->
 <link rel="stylesheet" href="css/responsive.css">
 <!-- Title -->
@@ -53,80 +54,6 @@
 	  					<p class="ulockd-welcntxt">Welcome To Our<span class="color-black31"> Be aHand</span> Charity Organizations</p>
   					</div>
   				</div>
-  				<div class="col-md-4">
-  					<div class="welcm-ht text-right">
-						<ul class="list-inline">
-							<li>
-								<div class="dropdown lang-button text-center">
-									<button class="dropbtn">Language</button>
-									<div class="dropdown-content">
-									    <a href="#">English</a>
-									    <a href="#">French</a>
-									    <a href="#">Spanish</a>
-									</div>
-								</div>
-							</li>
-							<li>
-								<a href="#">
-									<div data-toggle="modal" data-target=".bs-example-modal-lg" data-whatever="@mdo">Sign In | Sign Up</div>
-								</a>
-		        				<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog">
-		        				    <div class="modal-dialog modal-lg" role="document">
-			        				    <div class="modal-content">
-			        				        <div class="modal-header">
-				        				        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				        				        <h4 class="modal-title text-center" id="exampleModalLabel">Login or Register</h4>
-				        				        <p class="text-center">Sign in and choose your service to have access to all our service.</p>
-			        				        </div>
-			        				        <div class="modal-body">
-				        				      	<div class="row">
-				        				      		<div class="col-sm-12 col-md-6 col-lg-5 text-center hvr-float-shadow">
-				        						        <form class="ulockd-login-form">
-				        						        	<h3><span class="flaticon-lock"></span> Login</h3>
-				        						        	<p>Enter username and password to login:</p>
-				        						            <div class="form-group">
-				            								    <input type="email" class="form-control" id="email" placeholder="Email">
-				            								</div>
-				            								<div class="form-group">
-				            								    <input type="password" class="form-control" placeholder="Password">
-				            								</div>
-				        						            <button type="submit" class="btn btn-default ulockd-btn-thm2">Login to account</button>
-				        						        </form>
-				        				      		</div>
-				        				      		<div class="col-sm-12 col-lg-7 hvr-float-shadow">
-				        						        <form class="ulockd-reg-form text-center">
-				        						        	<h3> <span class="flaticon-house-key"></span> Register</h3>
-				        						        	<p>Join our community today:</p>
-				        						            <div class="form-group">
-				            								    <input type="text" class="form-control" id="exampleInputNamexa" placeholder="First Name">
-				            								</div>
-				        						            <div class="form-group">
-				            								    <input type="text" class="form-control" id="exampleInputNamexb" placeholder="Last Name">
-				            								</div>
-				        						            <div class="form-group">
-				            								    <input type="email" class="form-control" id="exampleInputEmailx" placeholder="Email">
-				            								</div>
-				            								<div class="form-group">
-				            								    <input type="password" class="form-control" placeholder="Password">
-				            								</div>
-				            								<div class="form-group">
-				            								    <input type="password" class="form-control" placeholder="Repeat password">
-				            								</div>
-				            								<div class="form-group text-center">
-				            						        	<button type="submit" class="btn btn-default ulockd-btn-thm2">Sign Me Up</button>
-				            								</div>
-				        						        </form>
-				        				      		</div>
-				        				      	</div>	
-			        				        </div>
-			        				        <!-- modal footer start here-->
-			        				    </div>
-		        				    </div>
-		        				</div>
-							</li>
-						</ul>
-  					</div>
-  				</div>
   			</div>
   		</div>
   	</div>
@@ -143,7 +70,7 @@
 						<div class="ulockd-icon pull-left text-thm2"><span class="flaticon-email-filled-closed-envelope"></span></div>
 						<div class="ulockd-info">
 							<h3>Mail Us</h3>
-							<p class="ulockd-addrss"><strong>Email:</strong> beahand@email.com</p>
+							<p class="ulockd-addrss">beahand@email.com</p>
 						</div>
 					</div>
   				</div>
@@ -312,41 +239,6 @@
 			        <!-- End Top Search -->
 
 			        <div class="container ulockd-pad90">
-			            <!-- Start Atribute Navigation -->
-			            <div class="attr-nav">
-			                <ul>
-			                    <li class="dropdown">
-			                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" >
-			                            <i class="fa fa-shopping-bag"></i>
-			                            <span class="badge">3</span>
-			                        </a>
-			                        <ul class="dropdown-menu cart-list">
-			                            <li>
-			                                <a href="#" class="photo"><img src="images/shop/s1.jpg" class="cart-thumb" alt="s1.jpg" /></a>
-			                                <h6><a href="#">Delica omtantur </a></h6>
-			                                <p>2x - <span class="price">$99.99</span></p>
-			                            </li>
-			                            <li>
-			                                <a href="#" class="photo"><img src="images/shop/s2.jpg" class="cart-thumb" alt="s2.jpg" /></a>
-			                                <h6><a href="#">Omnes ocurreret</a></h6>
-			                                <p>1x - <span class="price">$33.33</span></p>
-			                            </li>
-			                            <li>
-			                                <a href="#" class="photo"><img src="images/shop/s3.jpg" class="cart-thumb" alt="s3.jpg" /></a>
-			                                <h6><a href="#">Agam facilisis</a></h6>
-			                                <p>2x - <span class="price">$99.99</span></p>
-			                            </li>
-			                            <li class="total">
-			                                <span class="pull-right"><strong>Total</strong>: $0.00</span>
-			                                <a href="#" class="btn btn-default btn-cart">Cart</a>
-			                            </li>
-			                        </ul>
-			                    </li>
-			                    <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
-			                    <li class="side-menu"><a href="#"><i class="fa fa-bars"></i></a></li>
-			                </ul>
-			            </div>
-			            <!-- End Atribute Navigation -->
 
 			            <!-- Start Header Navigation -->
 			            <div class="navbar-header">
@@ -357,233 +249,29 @@
 			            <!-- End Header Navigation -->
 
 			            <!-- Collect the nav links, forms, and other content for toggling -->
-			            <div class="collapse navbar-collapse" id="navbar-menu">
-			                <ul class="nav navbar-nav navbar-left" data-in="fadeIn">
-			                    <li class="dropdown">
-			                        <a href="#" class="dropdown-toggle active" data-toggle="dropdown">Home</a>
-			                        <ul class="dropdown-menu">
-										<li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Multipage</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="index-multipage.html">Multipage One</a></li>
-												<li><a href="index-multipage2.html">Multipage Two</a></li>
-					                        </ul>
-					                    </li>
-										<li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Single Page</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="index-singlepage.html">Single Page One</a></li>
-												<li><a href="index-singlepage2.html">Single Page Two</a></li>
-					                        </ul>
-					                    </li>
-										<li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Boxed Style</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="index-multipage-boxed.html">Multipage One Boxed</a></li>
-												<li><a href="index-multipage2-boxed.html">Multipage Two Boxed</a></li>
-												<li><a href="index-singlepage-boxed.html">Single Page One Boxed</a></li>
-												<li><a href="index-singlepage2-boxed.html">Single Page Two Boxed</a></li>
-					                        </ul>
-					                    </li>
-										<li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">RTL Style</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="index-multipage-rtl.html">Multipage One RTL</a></li>
-												<li><a href="index-multipage2-rtl.html">Multipage Two RTL</a></li>
-												<li><a href="index-singlepage-rtl.html">Single Page One RTL</a></li>
-												<li><a href="index-singlepage2-rtl.html">Single Page Two RTL</a></li>
-					                        </ul>
-					                    </li>
-			                        </ul>
-			                    </li>
-			                    <li class="dropdown">
-			                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Feature</a>
-			                        <ul class="dropdown-menu">
-					                    <li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="page-about.html">About</a></li>
-												<li><a href="page-about2.html">About Two</a></li>
-												<li><a href="page-about3.html">About Three</a></li>
-					                        </ul>
-					                    </li>
-					                    <li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Causes</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="page-causes-grid.html">Causes Grid</a></li>
-												<li><a href="page-causes-list.html">Causes List</a></li>
-												<li><a href="page-causes-single.html">Causes Single</a></li>
-					                        </ul>
-					                    </li>
-					                    <li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Volunteer</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="page-team-one.html">Volunteer One</a></li>
-												<li><a href="page-team-two.html">Volunteer Two</a></li>
-												<li><a href="page-team-details.html">Volunteer Details</a></li>
-												<li><a href="page-team-registration.html">Volunteer Registration</a></li>
-					                        </ul>
-					                    </li>
-					                    <li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Booking Form</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="ulockd-booking-form.html">Form One</a></li>
-												<li><a href="ulockd-booking-form2.html">Form Two</a></li>
-												<li><a href="ulockd-booking-form3.html">Form Three</a></li>
-					                        </ul>
-					                    </li>
-					                    <li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Job Apply Form</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="ulockd-job-apply-form.html">Form One</a></li>
-												<li><a href="ulockd-job-apply-form2.html">Form Two</a></li>
-					                        </ul>
-					                    </li>
-			                        </ul>
-			                    </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog</a>
-                                    <ul class="dropdown-menu">
-										<li class="dropdown">
-											<a href="blog-grid-one.html" class="dropdown-toggle" data-toggle="dropdown">Blog Grid </a>
-	                                        <ul class="dropdown-menu">
-												<li><a href="blog-grid-one.html">Blog Grid One </a></li>
-												<li><a href="blog-grid-two.html">Blog Grid Two </a></li>
-												<li><a href="blog-grid-three.html">Blog Grid Three </a></li>
-	                                        </ul>
-										</li>
-										<li class="dropdown">
-											<a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog Single </a>
-	                                        <ul class="dropdown-menu">
-												<li><a href="blog-signle-left-sidebar.html">Sidebar left</a></li>
-												<li><a href="blog-signle-right-sidebar.html">Sidebar Right</a></li>
-												<li><a href="blog-signle-sidebar-less.html">Sidebar Less</a></li>
-	                                        </ul>
-										</li>
-										<li class="dropdown">
-											<a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog Classic</a>
-	                                        <ul class="dropdown-menu">
-												<li><a href="blog-left-sidebar.html">Sidebar left</a></li>
-												<li><a href="blog-right-sidebar.html">Sidebar Right</a></li>
-												<li><a href="blog-sidebar-less.html">Sidebar Less</a></li>
-	                                        </ul>
-										</li>
-                                    </ul>
-                                </li>
-			                    <li class="dropdown">
-			                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages</a>
-			                        <ul class="dropdown-menu">
-										<li><a href="page-appointment.html">Appointment</a></li>
-										<li><a href="page-coming-soon.html">Coming Soon</a></li>
-										<li><a href="page-donation.html">Donation Form</a></li>
-										<li><a href="page-error.html">Error</a></li>
-					                    <li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Event</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="page-event-grid.html">Event Grid</a></li>
-												<li><a href="page-event-list.html">Event List</a></li>
-												<li><a href="page-event-single.html">Event Single</a></li>
-					                        </ul>
-					                    </li>
-										<li><a href="page-faq.html">Faq</a></li>
-					                    <li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Google Calendar</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="page-fullcalendar.html">Monthly Event</a></li>
-												<li><a href="page-fullcalendar2.html">Weekly Event</a></li>
-					                        </ul>
-					                    </li>
-					                    <li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Gallery</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="page-gallery.html">Gallery One</a></li>
-												<li><a href="page-gallery2.html">Gallery Two</a></li>
-												<li><a href="page-gallery3.html">Gallery Three</a></li>
-					                        </ul>
-					                    </li>
-					                    <li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pricing</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="page-pricing.html">Pricing One</a></li>
-												<li><a href="page-pricing2.html">Pricing Two</a></li>
-					                        </ul>
-					                    </li>
-					                    <li class="dropdown">
-					                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Shop</a>
-					                        <ul class="dropdown-menu">
-												<li><a href="page-shop.html">Our Shop</a></li>
-												<li><a href="page-product-details.html">Product Details</a></li>
-												<li><a href="page-shoping-cart.html">Shopping Cart</a></li>
-												<li><a href="page-shoping-checkout.html">Shopping Checkout</a></li>
-					                        </ul>
-					                    </li>
-										<li><a href="page-sitemap.html">Sitemap</a></li>
-										<li><a href="page-under-construction.html">Under Construction</a></li>
-			                        </ul>
-			                    </li>
-			                    <li class="dropdown">
-			                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact</a>
-			                        <ul class="dropdown-menu">
-										<li><a href="page-contact.html">Contact Us</a></li>
-										<li><a href="page-contact2.html">Contact Us Two</a></li>
-			                        </ul>
-			                    </li>
-			                    <li class="dropdown megamenu-fw">
-			                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Megamenu</a>
-			                        <ul class="dropdown-menu megamenu-content" role="menu">
-			                            <li>
-			                                <div class="row">
-			                                    <div class="col-menu col-md-3">
-			                                        <h4 class="title">Blog Classic/Single</h4>
-			                                        <div class="content">
-			                                            <ul class="menu-col">
-			                                                <li><a href="blog-signle-left-sidebar.html">Blog Single Sidebar left</a></li>
-			                                                <li><a href="blog-left-sidebar.html">Blog Sidebar left</a></li>
-			                                                <li><a href="blog-right-sidebar.html">Blog Sidebar Right</a></li>
-			                                                <li><a href="blog-sidebar-less.html">Blog Sidebar Less</a></li>
-			                                            </ul>
-			                                        </div>
-			                                    </div><!-- end col-3 -->
-			                                    <div class="col-menu col-md-3">
-			                                        <h4 class="title">Shop Page</h4>
-			                                        <div class="content">
-			                                            <ul class="menu-col">
-			                                                <li><a href="page-shop.html">Our Shop</a></li>
-			                                                <li><a href="page-product-details.html">Product Details</a></li>
-			                                                <li><a href="page-shoping-cart.html">Shopping Cart</a></li>
-			                                                <li><a href="page-shoping-checkout.html">Shopping Checkout</a></li>
-			                                            </ul>
-			                                        </div>
-			                                    </div><!-- end col-3 -->
-			                                    <div class="col-menu col-md-3">
-			                                        <h4 class="title">Our Gallery</h4>
-			                                        <div class="content">
-			                                            <ul class="menu-col">
-			                                                <li><a href="page-gallery.html" target="_blank">Gallery One</a></li>
-			                                                <li><a href="page-gallery2.html" target="_blank">Gallery Two</a></li>
-			                                                <li><a href="page-gallery3.html" target="_blank">Gallery Three</a></li>
-			                                                <li><a href="shortcode-buttons.html">Sitemap</a></li>
-			                                            </ul>
-			                                        </div>
-			                                    </div>    
-			                                    <div class="col-menu col-md-3">
-			                                        <h4 class="title">Video Campaign</h4>
-			                                        <div class="content">
-			                                            <ul class="menu-col">
-			                                                <li>
-																<div class="ulockd-project-sm-thumb">
-																	<iframe src="https://player.vimeo.com/video/16405052?title=0&amp;byline=0&amp;portrait=0&amp;color=f2f2ea" width="140" height="120" allowfullscreen></iframe>
-																</div>
-			                                                </li>
-			                                            </ul>
-			                                        </div>
-			                                    </div><!-- end col-3 -->
-			                                </div><!-- end row -->
-			                            </li>
-					                </ul>
-			                    </li>
-			                </ul>
-			            </div><!-- /.navbar-collapse -->
+			           <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul class="nav navbar-nav navbar-left">
+                      
+                        <li class="dropdown">
+                            <a href="index  ">Home</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="About-Us  ">About US</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="our-activity  ">Our Activities</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="events  ">Events</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="gallery  ">Gallery</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="JoinUs  ">Contact Us</a>
+                        </li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
 			        </div>
 
 			        <!-- Start Side Menu -->
