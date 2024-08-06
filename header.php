@@ -53,7 +53,7 @@
   	</div>
   	<div class="header-middle">
   		<div class="container">
-  			<div class="row">
+  			<div class="row center">
   				<div class="col-xs-12 col-sm-6 col-lg-3 col-lg-3">
   					<div class="ulockd-welcm-hmddl">
 						<a href="index.html" class="ulockd-main-logo main-logo">NAGARI VIKAS<br>

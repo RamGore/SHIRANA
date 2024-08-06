@@ -58,6 +58,13 @@
     align-items: center;
   }
 
+  .header-middle .container .center{
+    align-items: center;
+    display: flex;
+
+  }
+
+
   @media (min-width: 320px) and (max-width: 1024px){
     .card-container{
       flex-direction: column;
