@@ -188,3 +188,10 @@ tr {
         margin-bottom: 1rem;
     }
 }
+.main-logo{
+    font-size:20px;
+    font-weight: 600;
+    color:#ffb606;
+    text-shadow: 2px 2px 4px rgba(130, 134, 61, 0.5);
+    font-family: Arial, Helvetica, sans-serif;
+}

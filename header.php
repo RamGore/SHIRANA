@@ -57,7 +57,8 @@
   			<div class="row">
   				<div class="col-xs-12 col-sm-6 col-lg-3 col-lg-3">
   					<div class="ulockd-welcm-hmddl">
-						<a href="index.html" class="ulockd-main-logo"><img src="images/header-logo.png" alt=""></a>
+						<a href="index.html" class="ulockd-main-logo main-logo">NAGARI VIKAS<br>
+						SEVABHAVI SANSTHA</a>
   					</div>
   				</div>
   				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
