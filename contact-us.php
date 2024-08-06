@@ -105,8 +105,8 @@ include 'header.php';
 					<h4>Email Id</h4>
 				</div>
 					<img class="border-image" src="https://www.salehasevabhavisansthahingoli.org.in/wp-content/uploads/2024/02/border_widget.png" alt="border_widget">
-					<a href="mailto:lalchandrajput1967@gmail.com">lalchandrajput1967@gmail.com</a>
-					<a href="mailto:sachintatu0009@gmail.com">sachintatu0009@gmail.com</a>
+					<a href="mailto:lalchandrajput1967@gmail.com">lalchandrajput1967@gmail.com,</a>
+					<a href="mailto:sachintatu0009@gmail.com"> sachintatu0009@gmail.com</a>
 				</div>
 			</div>
 
