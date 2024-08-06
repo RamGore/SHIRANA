@@ -261,7 +261,6 @@
 					                        <ul class="dropdown-menu">
 												<li><a href="org-profile.php">Organisation Profile</a></li>
 												<li><a href="doc-gallery.php">Document Gallery</a></li>
-												<li><a href="page-about3.html">Team Member</a></li>
 					                        </ul>
 					                    </li>
                         <li class="dropdown">
@@ -271,10 +270,10 @@
                             <a href="events  ">Events</a>
                         </li>
                         <li class="dropdown">
-                            <a href="gallery  ">Gallery</a>
+                            <a href="gallery.php ">Gallery</a>
                         </li>
                         <li class="dropdown">
-                            <a href="JoinUs  ">Contact Us</a>
+                            <a href="contact-us.php">Contact Us</a>
                         </li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
