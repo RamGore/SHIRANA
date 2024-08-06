@@ -256,7 +256,7 @@
                             <a href="index  ">Home</a>
                         </li>
                         <li class="dropdown">
-                            <a href="About-Us  ">About US</a>
+                            <a href="about.php">About US</a>
                         </li>
                         <li class="dropdown">
                             <a href="our-activity  ">Our Activities</a>
