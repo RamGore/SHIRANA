@@ -40,20 +40,13 @@
   	<div class="header-topped">
   		<div class="container">
   			<div class="row">
-  				<div class="col-md-4">
-  					<div class="social-linked">
-  						<ul class="list-inline">
-  							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-  							<li><a href="#"><i class="fa fa-rss"></i></a></li>
-  							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-  							<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-  							<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-  						</ul>
-  					</div>
+  				<div class="col-md-3">
+  					
   				</div>
-  				<div class="col-md-4">
+  				<div class="col-md-6">
   					<div class="welcm-ht text-center">
-	  					<p class="ulockd-welcntxt">Welcome To Our<span class="color-black31"> Be aHand</span> Charity Organizations</p>
+	  					<p class="ulockd-welcntxt"><span class="color-black31">SHIRANA WOMEN ENTERPENUAR DEVELOPMENT
+						  CENTER </span></p>
   					</div>
   				</div>
   			</div>
