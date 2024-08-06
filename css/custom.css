@@ -35,6 +35,7 @@
 }
 .abt-section{
     margin-top: -20px;
+    margin-bottom: -87px;
 }
 .abt-txt {
     position: relative;
@@ -83,7 +84,7 @@
     background-position: center;
     color: white;
     padding: 20px; */
-    background-color: #d5bf75;
+    background-color: #F0C900;
     padding: 10px;
     font-size:25px;
 }
@@ -152,13 +153,13 @@ th, td {
 }
 th {
     background-color: #ffffff;
-    color: rgb(115, 114, 114);
+    color: rgb(0, 0, 0);
     font-weight: 600;
     font-size: 25px;
 }
 tr {
     background-color: #f9f9f9;
-    color: rgb(115, 114, 114);
+    color: rgb(0, 0, 0);
     font-size: 20x;
     font-weight: 500;
 }

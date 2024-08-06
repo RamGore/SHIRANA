@@ -254,7 +254,7 @@
                     <ul class="nav navbar-nav navbar-left">
                       
                         <li class="dropdown">
-                            <a href="index  ">Home</a>
+                            <a href="index.php">Home</a>
                         </li>
 						<li class="dropdown">
 					                        <a href="about.php" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
