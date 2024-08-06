@@ -1,8 +1,3 @@
-<?php
-include 'header.php';
-?>
-<!-- Mirrored from unlockdesizn.com/html/nonprofit/be-ahand/blog-grid-one.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Jul 2024 05:33:32 GMT -->
-
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -1382,29 +1377,4 @@ include 'header.php';
 			</div>
 		</section>
 
-		</main>
-
-
-		<?php
-		include 'footer.php';
-		?>
-		<!-- Wrapper End -->
-		<script type="text/javascript" src="js/jquery-1.12.4.js"></script>
-		<script type="text/javascript" src="js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="js/bootsnav.js"></script>
-		<script type="text/javascript" src="js/parallax.js"></script>
-		<script type="text/javascript" src="js/scrollto.js"></script>
-		<script type="text/javascript" src="js/jquery-scrolltofixed-min.js"></script>
-		<script type="text/javascript" src="js/gallery.js"></script>
-		<script type="text/javascript" src="js/wow.min.js"></script>
-		<script type="text/javascript" src="js/slider.js"></script>
-		<script type="text/javascript" src="js/video-player.js"></script>
-		<script type="text/javascript" src="js/timepicker.js"></script>
-		<script type="text/javascript" src="js/tweetie.js"></script>
-		<!-- Custom script for all pages -->
-		<script type="text/javascript" src="js/script.js"></script>
-</body>
-
-<!-- Mirrored from unlockdesizn.com/html/nonprofit/be-ahand/blog-grid-one.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Jul 2024 05:33:34 GMT -->
-
-</html>
+		
