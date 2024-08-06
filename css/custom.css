@@ -55,8 +55,8 @@
     left: 0;
     width: 50px; /* Width of the border area */
     height: 50px; /* Height of the border area */
-    border-top: 6px solid #F0C900; /* Top border */
-    border-left: 6px solid #F0C900; /* Left border */
+    border-top: 6px solid #ffb606; /* Top border */
+    border-left: 6px solid #ffb606; /* Left border */
     border-radius: 0px; /* Rounded corner at the top-left */
 }
 
@@ -65,8 +65,8 @@
     right: 0;
     width: 50px; /* Width of the border area */
     height: 50px; /* Height of the border area */
-    border-bottom: 6px solid #F0C900; /* Bottom border */
-    border-right: 6px solid #F0C900; /* Right border */
+    border-bottom: 6px solid #ffb606; /* Bottom border */
+    border-right: 6px solid #ffb606; /* Right border */
     border-radius: 0px; /* Rounded corner at the bottom-right */
 }
 
@@ -84,7 +84,7 @@
     background-position: center;
     color: white;
     padding: 20px; */
-    background-color: #F0C900;
+    background-color: #ffb606;
     padding: 10px;
     font-size:25px;
 }
