@@ -142,6 +142,10 @@ h5 {
 }
 .img-whp {
   width: 100% !important;
+  min-height: 222px;
+  max-height: 222px;
+  border-radius: 20px;
+  padding: 7px;
 }
 .text-thm1 {
   color: #798590 !important;
@@ -3110,7 +3114,6 @@ article.ulockd-pd-content {
   transition: all 0.4s ease-in-out;
 }
 .gallery-thumb .overlayer::before {
-  border: 2px dashed #fff;
   bottom: 0;
   content: "";
   height: 90%;
@@ -3155,7 +3158,7 @@ article.ulockd-pd-content {
   transform: scale(1);
 }
 .lbox-caption a {
-  border: 1px solid #fff;
+  border: 1px solid #ffffff;
   border-radius: 50%;
   font-size: 18px;
   padding: 10px 12px;
@@ -3166,7 +3169,7 @@ article.ulockd-pd-content {
   transition: all 0.4s ease;
 }
 .lbox-caption a:hover {
-  background-color: #fff;
+  background-color: #ffb606;
 }
 .lbox-caption a:hover span {
   color: #333;
