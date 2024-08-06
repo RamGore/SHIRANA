@@ -1,7 +1,7 @@
 <?php
 include 'header.php';
 ?>
-
+<main class="about-page">	
 	<!-- Home Design Inner Pages -->
 	<div class="ulockd-inner-home">
 		<div class="container text-center">
@@ -32,20 +32,66 @@ include 'header.php';
 		</div>
 	</div>
 
-	<!-- about us section -->
-	<section class="ulockd-team-two">
+	<!-- about us section1 -->
+	<section class="ulockd-team-two abt-section">
 		<div class="container">
-			<div class="row">
-				<div class="abt-section">
-					<div class="ulockd-main-title">
-						<p class>NAGARI VIKAS SEVABHAVI SANSTHA Trust seeks donation to increase the corpus
-of the Trust so that it can be used to benefit the women of AURANGABAD
-MAHARASHTRA through Vocational training of Computer Hardware & Networking,
-Handicrafts and Mobile Repairing. FOR WOMEN LIVING WITH POVERTY .</p>
-					</div>
-					<div></div>
-				</div>
-			</div>
+		<div class="row">
+    <div class="col-md-8 col-lg-8 text-left">
+        <div class="ulockd-main-title">
+            <p class="abt-txt">
+                <span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA</span> Trust seeks donation to increase the corpus
+                of the Trust so that it can be used to benefit the women of <span class="text-thm2">AURANGABAD
+                MAHARASHTRA</span> through Vocational training of Computer Hardware & Networking,
+                Handicrafts and Mobile Repairing. <span class="text-thm2">FOR WOMEN LIVING WITH POVERTY</span>.
+            </p>
+        </div>
+    </div>
+    <div class="col-md-4 col-lg-4 text-right">
+        <img src="https://img.freepik.com/free-photo/people-stacking-hands-together-park_53876-63293.jpg" class="img-responsive custom-img" alt="image">
+    </div>
+</div>
+
+<!-- section2 -->
+<div class="row">
+	<h1 class="our-vision-credo">OUR VISION & CREDO</h1>
+<div class="col-md-4 col-lg-4 text-right">
+        <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1" alt="image">
+    </div>
+    <div class="col-md-8 col-lg-8 text-left">
+        <div class="ulockd-main-title">
+            <p class="abt-txt"><strong><span class="vision-sec"> “MAKE THE SELF SUPPORTED PEOPLE LIVING WITH POVERTY’’</span></strong><br>We believe that everyone have rights to live his life without stress and difficulties our first responsibility is to our society the people living surrounding us. If they are in distress society cannot be stable or peaceful to maintain this balance we must strengthen to
+                weaker people of society the people living with POVERTY in society need to fulfill their
+                needs so economically they should be self supported ..
+                Our second responsibility is to the communities in which we live. We must be a good
+                citizen-support good work and charity, and bear our fair share of taxes. We must
+                maintain in good order the property we are privileged to 
+            </p>
+        </div>
+    </div>
+    
+</div>
+
+
+<!-- section3 -->
+<div class="row">
+	<h1 class="our-vision-credo">CORE VALUES</h1>
+    <div class="col-md-8 col-lg-8 text-left">
+        <div class="ulockd-main-title">  <ul class="values-list">
+        <li>TRANSPARENCY</li>
+        <li>HONESTY</li>
+        <li>FAITH</li>
+        <li>INTEGRITY</li>
+        <li>DISCIPLINE</li>
+    </ul>
+        </div>
+    </div>
+<div class="col-md-4 col-lg-4 text-right">
+        <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1" alt="image">
+    </div>
+    
+</div>
+
+
 			<div class="row">
 				<div class="col-xs-12 col-sm-6 col-md-6">
 					<img src="images/about/2.jpg" alt="2.jpg">
@@ -444,6 +490,7 @@ Handicrafts and Mobile Repairing. FOR WOMEN LIVING WITH POVERTY .</p>
 			</div>
 		</div>
 	</section>
+	</main>
 
 	<?php
 include 'footer.php';
