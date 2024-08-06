@@ -1,4 +1,6 @@
-
+<?php
+include 'header.php';
+?>
 
 	<!-- Home Design -->
 	<div class="ulockd-home-slider">
@@ -1073,5 +1075,9 @@
 			</div>
 		</div>
 	</section>
+
+	<?php
+include 'footer.php';
+?>
 
 	
