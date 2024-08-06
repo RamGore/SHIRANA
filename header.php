@@ -255,9 +255,14 @@
                         <li class="dropdown">
                             <a href="index  ">Home</a>
                         </li>
-                        <li class="dropdown">
-                            <a href="about.php">About US</a>
-                        </li>
+						<li class="dropdown">
+					                        <a href="about.php" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
+					                        <ul class="dropdown-menu">
+												<li><a href="org-profile.php">Organisation Profile</a></li>
+												<li><a href="doc-gallery.php">Document Gallery</a></li>
+												<li><a href="page-about3.html">Team Member</a></li>
+					                        </ul>
+					                    </li>
                         <li class="dropdown">
                             <a href="our-activity  ">Our Activities</a>
                         </li>
