@@ -45,8 +45,8 @@
   				</div>
   				<div class="col-md-6">
   					<div class="welcm-ht text-center">
-	  					<p class="ulockd-welcntxt"><span class="color-black31">SHIRANA WOMEN ENTERPENUAR DEVELOPMENT
-						  CENTER </span></p>
+	  					<p class="ulockd-welcntxt">SHIRANA WOMEN ENTERPENUAR DEVELOPMENT
+						  CENTER</p>
   					</div>
   				</div>
   			</div>
