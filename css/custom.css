@@ -1,3 +1,110 @@
+.about-page{
+    margin:0;
+    padding: 0;
+    background-color: #f0efeb;
+}
+.custom-img {
+    max-width: 100%;
+    width: 80%; /* Adjust this value to make the image smaller */
+    height: 170px !important;
+    border: 2px solid #ddd;
+    border-radius: 18px !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: -10px; /* Adjust as needed */
+    opacity: 0;
+    transform: translateX(100%);
+    animation: slideIn 2s forwards;
+}
+
+@keyframes slideIn {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+.abt-txt{
+    font-size: 18px;
+}
 .abt-section{
-    font-size: 25px;
+    margin-top: -20px;
+}
+.abt-txt {
+    position: relative;
+    padding: 20px; /* Adjust padding to ensure borders are visible */
+    border-radius: 8px; /* Optional: Rounded corners for other corners */
+}
+
+.abt-txt::before,
+.abt-txt::after {
+    content: '';
+    position: absolute;
+    border: 0px solid #ddd; /* Solid border color and thickness */
+}
+
+.abt-txt::before {
+    top: 0;
+    left: 0;
+    width: 50px; /* Width of the border area */
+    height: 50px; /* Height of the border area */
+    border-top: 6px solid #F0C900; /* Top border */
+    border-left: 6px solid #F0C900; /* Left border */
+    border-radius: 0px; /* Rounded corner at the top-left */
+}
+
+.abt-txt::after {
+    bottom: 0;
+    right: 0;
+    width: 50px; /* Width of the border area */
+    height: 50px; /* Height of the border area */
+    border-bottom: 6px solid #F0C900; /* Bottom border */
+    border-right: 6px solid #F0C900; /* Right border */
+    border-radius: 0px; /* Rounded corner at the bottom-right */
+}
+
+.custom-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 0px; /* Optional: Rounded corners for the image */
+}
+.our-vision-credo{
+    color: #000000!important;
+    text-align: center;
+    margin-bottom: 54px; 
+    background-image: url('https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV8zNl9jbGVhbl9taW5pbWFsX3Bob3RvX29mX3Rvcm5fc3RyaXBfb2ZfcGFwZXJfeV9lNDA2MjMwZS01ZjI2LTRiZmEtYjAzZi05YWY5N2U4OWQ2YjBfMS5qcGc.jpg');
+    background-size: cover; /* Adjust the size of the image */
+    background-position: center; /* Center the image */
+    color: white; /* Adjust text color to ensure readability */
+    padding: 20px; /* Add some padding */
+    text-align: center;
+}
+.vision-sec{
+    color:rgb(109, 67, 0)
+}
+.custom-img1{
+    max-width: 100%;
+    width: 80%; /* Adjust this value to make the image smaller */
+    height: 211px !important;
+    border: 2px solid #ddd;
+    border-radius: 18px !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 31px; /* Adjust as needed */
+    opacity: 0;
+    transform: translateX(100%);
+    animation: slideIn 2s forwards;
+} 
+.values-list {
+    list-style-type: disc; /* Adds bullets */
+    padding-left: 20px; /* Adjust space for bullets */
+    margin: 0;
+    text-align: left;
+    font-size: 20px;
+    color: black; /* Align text to the left */
 }
