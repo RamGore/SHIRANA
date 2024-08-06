@@ -1,8 +1,6 @@
-
 <?php
 include 'header.php';
 ?>
-
 	<!-- Home Design -->
 	<div class="ulockd-home-slider">
 		<div class="container-fluid">
