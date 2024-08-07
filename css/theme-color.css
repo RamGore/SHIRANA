@@ -160,7 +160,7 @@ nav.navbar li.dropdown ul.dropdown-menu {
 .ulockd-bb-dashed {
 	border-bottom: 1px dashed #ffb606;
 }
-.main-slider2 .owl-next, .main-slider2 .owl-prev, .ulockd-contact-form .ulockd-form-fg {
+.main-slider2 .owl-next, .main-slider2 .owl-prev{
     border: 2px dashed #ffb606;
 }
 .pagination>.active>a,
