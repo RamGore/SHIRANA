@@ -192,19 +192,15 @@ tr {
         margin-bottom: 1rem;
     }
 }
-.main-logo{
-    font-size:20px;
-    font-weight: 600;
-    color:#ffb606;
-    text-shadow: 2px 2px 4px rgba(130, 134, 61, 0.5);
-    font-family: Arial, Helvetica, sans-serif;
-}
 
 .end-padding{
     padding-bottom:0px;
 }
 p{
     margin:0px !important;
+}
+.topppp{
+    color:rgb(255, 255, 255) !important;
 }
 
 
