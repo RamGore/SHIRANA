@@ -9,7 +9,19 @@ include 'header.php';
 				<div class="ulockd-inner-conraimer-details">
 					<div class="col-md-12">
 						<h1 class="text-uppercase">About Us</h1>
-                        <ul class="list-inline ulockd-icd-sub-menu">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Home Design Inner Pages -->
+	<div class="ulockd-inner-page">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="ulockd-icd-layer">
+						<ul class="list-inline ulockd-icd-sub-menu">
 							<li><a href="index.php"> HOME </a></li>
 							<li><a href="#"> > </a></li>
 							<li> <a href="#"> ABOUT US </a> </li>
@@ -20,11 +32,10 @@ include 'header.php';
 		</div>
 	</div>
 
-
 	<!-- about us section1 -->
-	<section class="ulockd-team-two abt-section end-padding">
+	<section class="ulockd-team-two abt-section">
 		<div class="container">
-		<div class="row about1">
+		<div class="row">
     <div class="col-md-8 col-lg-8 text-left">
         <div class="ulockd-main-title">
             <p class="abt-txt">
@@ -41,7 +52,7 @@ include 'header.php';
 </div>
 
 <!-- section2 -->
-<div class="row about2">
+<div class="row">
 	<h1 class="our-vision-credo">OUR VISION & CREDO</h1>
 <div class="col-md-4 col-lg-4 text-right">
         <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1" alt="image">
@@ -81,7 +92,7 @@ include 'header.php';
 </div>
 
 <!-- section4 -->
-<div class="row about3">
+<div class="row">
 	<h1 class="our-vision-credo">PURPOSE</h1>
 <div class="col-md-4 col-lg-4 text-right">
         <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1" alt="image">
@@ -89,15 +100,17 @@ include 'header.php';
     <div class="col-md-8 col-lg-8 text-left">
         <div class="ulockd-main-title">
             <p class="abt-txt"><strong><span class="vision-sec">
-			INCOME, EMPLOYMENT, ECONOMIC GROWTH AND INNOVATIONS.</span></strong><br>
+			INCOME, EMPLOYMENT, ECONOMIC GROWTH AND INNOVATIONS</span></strong><br>
 Vocational training is training for a specific career or trade, excluding the professions.
 Vocational training focuses on practical applications of skills learned, and is generally
 unconcerned with theory or traditional academic skills. A large part of the education in
 vocational schools is hands-on training. Vocational training thus provides a link between education and the working world. It is usually provided either at the high school level or
-in a postsecondary trade school.<br>1. Art & Craft<br>
+in a postsecondary trade school.<br><span class="vision-sec">1. Art & Craft<br>
 2. Tailoring and Garments Making<br>
  3. Computer Hardware<br>
- 4. Mobile Reparing.
+ 4. Mobile Reparing</span>
+
+
             </p>
         </div>
     </div>

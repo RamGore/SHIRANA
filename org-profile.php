@@ -8,18 +8,6 @@ include 'header.php';
 				<div class="ulockd-inner-conraimer-details">
 					<div class="col-md-12">
 						<h1 class="text-uppercase">Organisation Profile</h1>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<!-- Home Design Inner Pages -->
-	<div class="ulockd-inner-page">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="ulockd-icd-layer">
 						<ul class="list-inline ulockd-icd-sub-menu">
 							<li><a href="index.php"> HOME </a></li>
 							<li><a href="#"> > </a></li>
@@ -30,6 +18,8 @@ include 'header.php';
 			</div>
 		</div>
 	</div>
+
+	
 
 
 
