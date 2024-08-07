@@ -87,6 +87,7 @@
     background-color: #ffb606;
     padding: 10px;
     font-size:25px;
+    margin-top:0px !important;
 }
 .vision-sec{
     color:#ffb606
@@ -114,14 +115,15 @@
 .custom-img2{
     max-width: 100%;
     width: 80%; /* Adjust this value to make the image smaller */
-    height: 184px !important;
+    height: 180px !important;
     border: 2px solid #ddd;
     border-radius: 18px !important;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin-top: -34px; /* Adjust as needed */
+    margin-top: -24px; /* Adjust as needed */
     opacity: 0;
     transform: translateX(100%);
     animation: slideIn 2s forwards;
+    margin-bottom:20px;
 } 
 .custom-img6{
     max-width: 100%;
@@ -136,7 +138,7 @@
     animation: slideIn 2s forwards;
 } 
 .headingg{
-    margin-top: 35px;
+    margin-top:0px;
 }
 table {
     width: 70%;
@@ -201,7 +203,9 @@ tr {
 .end-padding{
     padding-bottom:0px;
 }
-
+p{
+    margin:0px !important;
+}
 
 
 
