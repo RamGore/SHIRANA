@@ -248,26 +248,26 @@
                     <ul class="nav navbar-nav navbar-left">
                       
                         <li class="dropdown">
-                            <a href="index.php">Home</a>
+                            <a href="index">Home</a>
                         </li>
 						<li class="dropdown">
-					                        <a href="about.php" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
+					                        <a href="about" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
 					                        <ul class="dropdown-menu">
-												<li><a href="org-profile.php">Organisation Profile</a></li>
-												<li><a href="doc-gallery.php">Document Gallery</a></li>
+												<li><a href="org-profile">Organisation Profile</a></li>
+												<li><a href="doc-gallery">Document Gallery</a></li>
 					                        </ul>
 					                    </li>
                         <li class="dropdown">
                             <a href="our-activity">Our Activities</a>
                         </li>
                         <li class="dropdown">
-                            <a href="events  ">Events</a>
+                            <a href="events">Events</a>
                         </li>
                         <li class="dropdown">
-                            <a href="gallery.php ">Gallery</a>
+                            <a href="gallery">Gallery</a>
                         </li>
                         <li class="dropdown">
-                            <a href="contact-us.php">Contact Us</a>
+                            <a href="contact-us">Contact Us</a>
                         </li>
                     </ul>
                 </div><!-- /.navbar-collapse -->

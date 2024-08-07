@@ -34,6 +34,8 @@
     font-size: 18px;
 }
 /* .abt-section{
+    margin-top: -20px;
+    margin-bottom: -87px;
 } */
 .abt-txt {
     position: relative;
@@ -201,7 +203,7 @@ tr {
     height:445px;
 }
 .about3{
-    height: 528px;
+    height:473px;
 }
 .end-padding{
     padding-bottom:0px;

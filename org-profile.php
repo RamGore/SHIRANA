@@ -7,12 +7,7 @@ include 'header.php';
 			<div class="row">
 				<div class="ulockd-inner-conraimer-details">
 					<div class="col-md-12">
-						<h1 class="text-uppercase">Organisation Profile</h1>
-						<ul class="list-inline ulockd-icd-sub-menu">
-							<li><a href="index.php"> HOME </a></li>
-							<li><a href="#"> > </a></li>
-							<li> <a href="#"> ABOUT US </a> </li>
-						</ul>
+						<h1 class="text-uppercase">CONTACT US</h1>
 					</div>
 				</div>
 			</div>
