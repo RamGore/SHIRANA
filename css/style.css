@@ -1612,7 +1612,7 @@ background-color: #232323;
 .scrollToHome {
 background-color: #798590;
 border: 2px solid #fff;
-bottom: 15px;
+bottom: 15%;
 color: #ffffff;
 display: none;
 font-size: 20px;
@@ -1978,13 +1978,13 @@ margin-top: 0;
   position: relative;
 }
 .ulockd-about2 {
-  padding: 90px 0;
+  padding: 50px 0;
 }
 
 /* ---------- OUR CAUSES  ---------- */
 .ulockd-causes {
-  padding-bottom: 90px;
-  padding-top: 90px;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 /* ---------- FIRST FEATURE PROJECT ONE  ---------- */
@@ -3834,9 +3834,7 @@ article.ulockd-pd-content {
   padding-right: 0;
 }
 .ulockd-footer-font-icon a {
-  border: 1px solid;
-  color: #fff;
-  font-size: 16px;
+  font-size: 25px;
   line-height: 20px;
   padding: 5px 8px;
   -webkit-transition: all 300ms ease-in-out;
@@ -3850,7 +3848,7 @@ article.ulockd-pd-content {
   font-size: 16px;
   line-height: 20px;
 }
-.ulockd-footer-font-icon a:hover {
+.ulockd-footer-font-icon a:hover{
   color: #fff;
 }
 /* Footer contact Widget */

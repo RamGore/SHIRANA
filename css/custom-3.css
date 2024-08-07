@@ -60,7 +60,6 @@
 
   .header-middle .container .center{
     align-items: center;
-    display: flex;
 
   }
 
@@ -78,10 +77,21 @@
     padding-right: 25px;
   }
 
+  /* footer */
+
+  .cont-cent{
+    display: flex;
+    justify-content: space-between;
+  }
 
   @media (min-width: 320px) and (max-width: 1024px){
     .card-container{
       flex-direction: column;
     } 
+
+    .cont-cent{
+      display: block;
+      
+    }
 
   }
