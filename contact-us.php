@@ -43,11 +43,12 @@ include 'header.php';
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 text-center">
 					<div class="ulockd-cp-title">
-						<!-- <p>Our contact address</p> -->
-						<h2 class="text-uppercase">Quick Contact Address</h2>
+						 <!-- <p>Our contact address</p> -->
+						<h2 class="text-uppercase">Quick Contact <span class="text-thm2">Address</span></h2>
 					</div>
 				</div>
 			</div>
+
 
 			<!-- contact-card -->
 			<div class="card-container">
@@ -65,9 +66,10 @@ include 'header.php';
 						<h4>Phone Number</h4>
 					</div>
 					<img class="border-image" src="https://www.salehasevabhavisansthahingoli.org.in/wp-content/uploads/2024/02/border_widget.png" alt="border_widget">
-					<a href="">+91 8308136689</a><br>
-					<a href="">+91 8668615130</a>
-				</div>
+					<a href="tel:+91 8308136689" class="ulockd-addrss">+91 8308136689</a><br>
+					<a href="tel:+91 8668615130" class="ulockd-addrss">+91 8668615130</a>
+
+					</div>
 				<div class="card">
 					<div class="center">
 						<i class="fa-solid fa-envelope" style="color: #FFD43B;"></i>
@@ -82,13 +84,15 @@ include 'header.php';
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 text-center">
 					<div class="ulockd-cp-title">
-						<p>Let's Say Hi</p>
-						<h2 class="text-uppercase">Contact With Us.</h2>
+						 <!-- <p>Our contact address</p> -->
+						<h2 class="text-uppercase">Contact Our <span class="text-thm2">Support.</span></h2>
+
 					</div>
 				</div>
 			</div>
 
-			<div class="container">
+
+			<div class="container for-cent">
 				<div class="row">
 					<div class="col-md-6 ">
 						<div class="ulockd-contact-form">
@@ -128,7 +132,7 @@ include 'header.php';
 										</div>
 									</div>
 									<!-- Message Field -->
-									<div class="col-md-12">
+									<div class="col-md-12 mesg-cont">
 										<div class="form-group">
 											<textarea id="form_message" name="form_message" class="form-control ulockd-form-tb required" rows="12" placeholder="Your message" required="required" data-error="Message is required."></textarea>
 											<div class="help-block with-errors"></div>

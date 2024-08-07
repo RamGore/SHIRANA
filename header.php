@@ -65,7 +65,9 @@
 						<div class="ulockd-icon pull-left text-thm2"><span class="flaticon-email-filled-closed-envelope"></span></div>
 						<div class="ulockd-info">
 							<h3>Mail Us</h3>
-							<p class="ulockd-addrss">beahand@email.com</p>
+							<a href="mailto:sachintatu0009@gmail.com"> sachintatu0009@gmail.com</a>
+
+
 						</div>
 					</div>
   				</div>
@@ -74,7 +76,8 @@
 						<div class="ulockd-icon pull-left text-thm2"><span class="flaticon-old-handphone"></span></div>
 						<div class="ulockd-info">
 							<h3>Call Us</h3>
-							<p class="ulockd-addrss">+98 9875 5968 54</p>
+							<a href="tel:+91 8308136689" class="ulockd-addrss">+91 8308136689</a>
+
 						</div>
 					</div>
   				</div>

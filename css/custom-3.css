@@ -3,7 +3,7 @@
 .card-container {
     display: flex;
     justify-content: space-between;
-    margin:0px 10px 40px 10px;
+    margin:0px 10px 55px 10px;
     gap: 20px;
     
   }
@@ -62,6 +62,20 @@
     align-items: center;
     display: flex;
 
+  }
+
+  .ulockd-google-map{
+    padding-right: 20px;
+  }
+
+  .for-cent .col-md-6{
+    padding-right: 26px;
+    padding-left: 10px;
+  }
+
+  .for-cent .mesg-cont{
+    padding-left: 9px;
+    padding-right: 25px;
   }
 
 
