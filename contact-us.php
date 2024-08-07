@@ -19,27 +19,23 @@ include 'header.php';
 					<div class="col-md-12">
 						<h1 class="text-uppercase">CONTACT US</h1>
 					</div>
-				</div>
-			</div>
-		</div>
-	</div>
 
-	<!-- Home Design Inner Pages -->
-	<div class="ulockd-inner-page">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="ulockd-icd-layer">
-						<ul class="list-inline ulockd-icd-sub-menu">
-							<li><a href="#"> HOME </a></li>
-							<li><a href="#"> > </a></li>
-							<li> <a href="#"> CONTACT US </a> </li>
-						</ul>
+
+
+					<div class="col-md-12">
+						<div class="ulockd-icd-layer">
+							<ul class="list-inline ulockd-icd-sub-menu">
+								<li><a href="index.php"> HOME </a></li>
+								<li><a href="#"> > </a></li>
+								<li> <a href="#"> CONTACT US </a> </li>
+							</ul>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
+
 
 	<!-- Inner Pages Main Section -->
 	<section class="ulockd-contact-page">
@@ -47,7 +43,8 @@ include 'header.php';
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 text-center">
 					<div class="ulockd-cp-title">
-						<h2 class="text-uppercase">CONTACT US</h2>
+						<!-- <p>Our contact address</p> -->
+						<h2 class="text-uppercase">Quick Contact Address</h2>
 					</div>
 				</div>
 			</div>
@@ -82,6 +79,14 @@ include 'header.php';
 				</div>
 			</div>
 
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2 text-center">
+					<div class="ulockd-cp-title">
+						<p>Let's Say Hi</p>
+						<h2 class="text-uppercase">Contact With Us.</h2>
+					</div>
+				</div>
+			</div>
 
 			<div class="container">
 				<div class="row">
