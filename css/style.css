@@ -3416,7 +3416,7 @@ article.ulockd-pd-content {
 }
 /* ---------- OUT TEAM LAYOUT TWO SECTION  ---------- */
 .ulockd-team-two {
-  padding: 90px 0;
+  padding: 54px 0;
 }
 .ulockd-teampz {
   padding: 0;
@@ -4040,7 +4040,11 @@ article.ulockd-pd-content {
   position: relative;
 }
 .ulockd-icd-sub-menu > li a {
+<<<<<<< HEAD
   color: #fff;
+=======
+  color: #ffffff;
+>>>>>>> ab8ac03c0dab5eeb308a9043953d064a7e79601a
 }
 /* APPOINTMENT FORM STYLE */
 .appointment_form{
