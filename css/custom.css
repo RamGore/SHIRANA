@@ -170,6 +170,7 @@ tr {
     justify-content: center;
     margin: 0 auto;
     max-width: 100%;
+    margin-bottom: 43px;
 }
 
 .image-container img {
@@ -196,15 +197,21 @@ tr {
     text-shadow: 2px 2px 4px rgba(130, 134, 61, 0.5);
     font-family: Arial, Helvetica, sans-serif;
 }
-.about1{
-    height: 215px;
-}
-.about2{
-    height:445px;
-}
-.about3{
-    height:473px;
-}
+
 .end-padding{
     padding-bottom:0px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
