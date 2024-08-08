@@ -19,7 +19,7 @@ include 'header.php';
     </div>
 
     <!--diwali-->
-    <div class="container">
+    <div class="container diwaliii">
         <div class="row about2 align-items-center">
             <h1 class="our-vision-credo">CELEBRATION OF DIWALI</h1>
 
@@ -168,7 +168,7 @@ include 'header.php';
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://instantbharatnews.in/wp-content/uploads/2024/04/Happy-gudi-padwa.webp"
-                    class="img-responsive custom-img1 img11" alt="image">
+                    class="img-responsive custom-img1 img11 gudi-img" alt="image">
             </div>
 
 
@@ -188,7 +188,7 @@ include 'header.php';
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://marketplace.canva.com/EAFap1V35Zg/1/0/1600w/canva-blue-illustrative-simple-8-march-international-womens-day-instagram-post-9Aa_0jK1Nd8.jpg"
-                    class="img-responsive custom-img1" alt="image">
+                    class="img-responsive custom-img1 womens-day" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
@@ -216,7 +216,7 @@ include 'header.php';
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://i.pinimg.com/736x/66/03/50/6603505f093f120d7271630cedaf4ef1.jpg" class="img-responsive custom-img1"
+            <img src="https://i.pinimg.com/736x/66/03/50/6603505f093f120d7271630cedaf4ef1.jpg" class="img-responsive custom-img1 womens-day1"
                 alt="image">
         </div>
     </div>
@@ -225,7 +225,7 @@ include 'header.php';
 
     <div class="col-md-4 col-lg-4 text-right">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4mX3NMip1e8H0GRpuXYbcYLNS2j2ESbnxlpf0SVBESgXHA5fqwwa4YF-ttxrY7nWdq8&usqp=CAU"
-                class="img-responsive custom-img1" alt="image">
+                class="img-responsive custom-img1 womens-day2" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -291,7 +291,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://designimages.appypie.com/allimages/hivaidsposter8.png"
-                    class="img-responsive custom-img1 img11" alt="image">
+                    class="img-responsive custom-img1 img11 aids-image" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
@@ -378,7 +378,7 @@ Hanumannagar.Around 140 peoples gone through this camp benefits.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://media.assettype.com/bloombergquint%2F2023-06%2Fefa07034-8196-42e0-9642-ff53c822150b%2Fpiyush_09_05_08.jpg?auto=format%2Ccompress&w=1200" class="img-responsive custom-img1"
+            <img src="https://media.assettype.com/bloombergquint%2F2023-06%2Fefa07034-8196-42e0-9642-ff53c822150b%2Fpiyush_09_05_08.jpg?auto=format%2Ccompress&w=1200" class="img-responsive custom-img1 yoga-img1"
                 alt="image">
         </div>
     </div>
@@ -387,7 +387,7 @@ Hanumannagar.Around 140 peoples gone through this camp benefits.
 
     <div class="col-md-4 col-lg-4 text-right">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvSPWX5cJDfAYzV4chRyfI8n-sSGrpvkFIiN1FhHkt_a_ei2_9-626MUoHZDDzHSlYvo&usqp=CAU"
-                class="img-responsive custom-img1" alt="image">
+                class="img-responsive custom-img1 yoga-img2" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -433,7 +433,7 @@ Everybody enjoyed the celebration.
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://d16qttj5aycdv0.cloudfront.net/upload/book_image/resize_bigVysan_Mukti_Hindi_-_Tital_1607664570.jpg"
-                    class="img-responsive custom-img1 img11" alt="image">
+                    class="img-responsive custom-img1 img11 vysan-mukti" alt="image">
             </div>
 
 
@@ -454,7 +454,7 @@ Everybody enjoyed the celebration.
     <h1 class="our-vision-credo">CELEBRATION OF MAKAR SANKRANTI</h1>
     <div class="col-md-4 col-lg-4 text-right">
             <img src="https://as1.ftcdn.net/v2/jpg/03/13/76/20/1000_F_313762037_7NTqtrZnEGK0CZtOqp8TsEQPJG0GURWR.jpg"
-                class="img-responsive custom-img1" alt="image">
+                class="img-responsive custom-img1 makar1" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -487,7 +487,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/272862111104999.5ffc14553015a.jpg" class="img-responsive custom-img1"
+            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/272862111104999.5ffc14553015a.jpg" class="img-responsive custom-img1 makar2"
                 alt="image">
         </div>
     </div>
@@ -580,7 +580,7 @@ bags blood was collected. Celebration ended by distributing sweets and fruits.
             </div>
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://www.careinsurance.com/upload_master/media/posts/June2024/world-environment-day.webp"
-                    class="img-responsive custom-img1" alt="image">
+                    class="img-responsive custom-img1 environment1" alt="image">
             </div>
         </div>
 
