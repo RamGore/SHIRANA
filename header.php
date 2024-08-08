@@ -262,10 +262,10 @@
 					                        </ul>
 					                    </li>
                         <li class="dropdown">
-                            <a href="activity">Our Activities</a>
+                            <a href="our-activity">Our Activities</a>
                         </li>
                         <li class="dropdown">
-                            <a href="event">Events</a>
+                            <a href="events">Events</a>
                         </li>
                         <li class="dropdown">
                             <a href="gallery">Gallery</a>
