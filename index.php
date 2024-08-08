@@ -10,13 +10,13 @@ include 'header.php';
 			<div class="col-md-12 ulockd-pmz">
 				<div class="cd-hero">
 					<ul class="cd-hero-slider autoplay">
-						<li class="selected">
+						<li class="move-left">
 							<div class="cd-full-width">
 								<h1><span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA</span></h1>
 							</div> <!-- .cd-full-width -->
 						</li>
 
-						<li>
+						<li class="selected from-right">
 							<div class="cd-full-width">
 								<h1>We Are <span class="text-thm2"> NAGARI VIKAS SEVABHAVI SANSTHA
 									</span></h1>
@@ -25,7 +25,7 @@ include 'header.php';
 							</div> <!-- .cd-half-width -->
 						</li>
 
-						<li>
+						<li class="">
 
 							<div class="cd-full-width">
 
@@ -36,19 +36,7 @@ include 'header.php';
 							</div> <!-- .cd-full-width -->
 
 						</li>
-					</ul> <!-- .cd-hero-slider -->
-
-					<div class="cd-slider-nav">
-						<nav>
-							<span class="cd-marker item-1"></span>
-
-							<ul>
-								<li class="selected"><a href=""></a></li>
-								<li><a href=""></a></li>
-								<li><a href=""></a></li>
-							</ul>
-						</nav>
-					</div> <!-- .cd-slider-nav -->
+					</ul>
 				</div>
 			</div>
 		</div>
@@ -122,7 +110,7 @@ include 'header.php';
 			</div>
 			<div class="col-sm-12 col-md-5">
 				<div class="ab-thumb">
-					<img class="img-responsive img-whp" src="images/about/1.jpg" alt="1.jpg">
+					<img class="img-responsive img-whp" src="https://img.freepik.com/free-photo/people-stacking-hands-together-park_53876-63293.jpg" alt="1.jpg">
 				</div>
 
 			</div>
@@ -209,99 +197,98 @@ include 'header.php';
 <!-- ============ -->
 
 <!-- Our CAUSES -->
+<!-- Include Swiper's CSS -->
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+
 <section class="recent-causes">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2 text-center">
-				<div class="ulockd-main-title">
-					<h2 class="text-uppercase">our <span class="text-thm2">Activity</span></h2>
-				</div>
-			</div>
-		</div>
-		<section id="testimonials" class="testimonials section light-background">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-center">
+                <div class="ulockd-main-title">
+                    <h2 class="text-uppercase">Our <span class="text-thm2">Events</span></h2>
+                </div>
+            </div>
+        </div>
 
-			<div class="container">
+        <!-- Swiper Slider -->
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
 
-				<div class="row align-items-center">
+                <!-- Slide 1 -->
+                <div class="swiper-slide">
+                    <div class="card h-100">
+                        <img class="card-img-top" src="images/gallery/1.jpg" alt="Event Image">
+                        <div class="card-body">
+                            <h4 class="card-title">26th <span class="text-thm2">January</span></h4>
+                            <p class="card-text">
+                                Republic Day was celebrated on 26th January 2024 with the citizens of New Hanuman Colony. Flag hoisting was done by the President of Nagari Vikas Sevabhavi Sanstha, followed by the National Anthem, Pledge, and Constitution. Patriotic songs were sung, sweets and snacks were distributed, and a short awareness session on Equality and Integrity was organized. The program ended with the President’s Speech. Republic Day was celebrated with great enthusiasm.
+                            </p>
+                        </div>
+                    </div>
+                </div>
 
-					<!-- Left side: Heading and text -->
-					<!-- <div class="col-lg-5 info" data-aos="fade-up" data-aos-delay="100">
-						<h2 class="title-bottom ulockd-mrgn630">our <span class="text-thm2">Activity</span></h2>
-						<p>
-							Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-							velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-						</p>
-					</div> -->
+                <!-- Slide 2 -->
+                <div class="swiper-slide">
+                    <div class="card h-100">
+                        <img class="card-img-top" src="images/gallery/2.jpg" alt="Event Image">
+                        <div class="card-body">
+                            <h4 class="card-title">Event Title</h4>
+                            <p class="card-text">Event description goes here. It gives a brief overview of the event details and encourages visitors to learn more or participate.</p>
+                        </div>
+                    </div>
+                </div>
 
-					<!-- Right side: Swiper slider -->
-					<div class="col-lg-12 swiper-initialized" data-aos="fade-up" data-aos-delay="200">
+                <!-- Slide 3 -->
+                <div class="swiper-slide">
+                    <div class="card h-100">
+                        <img class="card-img-top" src="images/gallery/3.jpg" alt="Event Image">
+                        <div class="card-body">
+                            <h4 class="card-title">Event Title</h4>
+                            <p class="card-text">Event description goes here. It gives a brief overview of the event details and encourages visitors to learn more or participate.</p>
+                        </div>
+                    </div>
+                </div>
 
-						<!-- Swiper container -->
-						<div class="swiper init-swiper">
-							<!-- Swiper configuration in JSON format -->
-							<script type="application/json" class="swiper-config">
-								{
-									"loop": true,
-									"speed": 600,
-									"autoplay": {
-										"delay": 5000
-									},
-									"slidesPerView": "auto",
-									"pagination": {
-										"el": ".swiper-pagination",
-										"type": "bullets",
-										"clickable": true
-									}
-								}
-							</script>
+                <!-- Additional slides can be added here -->
 
-							<!-- Swiper wrapper -->
-							<div class="swiper-wrapper">
+            </div>
 
-								<!-- Testimonial item 1 -->
-								<div class="swiper-slide">
-									<div class="testimonial-item">
-										<div class="d-flex">
-											<img src="images/gallery/1.jpg" class="testimonial-img flex-shrink-0" alt="">
-										</div>
-										<div class="slid-par">
-											<h4>Ceo &amp; Founder</h4>
-											<p>
-												<i class="bi bi-quote quote-icon-left"></i>
-												<span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
-												<i class="bi bi-quote quote-icon-right"></i>
-											</p>
-										</div>
+            <!-- Add Pagination -->
+            <div class="swiper-pagination"></div>
 
-									</div>
-								</div><!-- End testimonial item -->
+            <!-- Add Navigation -->
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div><!-- End Swiper Slider -->
+    </div><!-- End Container -->
+</section><!-- End Recent Causes Section -->
 
-								<!-- Testimonial item 1 -->
-								<div class="swiper-slide">
-									<div class="testimonial-item">
-										<div class="d-flex">
-											<img src="images/gallery/1.jpg" class="testimonial-img flex-shrink-0" alt="">
-										</div>
-										<div class="slid-par">
-											<h4>Ceo Founder</h4>
-											<p>
-												<i class="bi bi-quote quote-icon-left"></i>
-												<span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
-												<i class="bi bi-quote quote-icon-right"></i>
-											</p>
-										</div>
+<!-- Include Swiper's JS -->
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
-									</div>
-								</div><!-- End testimonial item -->
-							</div>
-							<div class="swiper-pagination"></div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-	</div>
-</section>
+<!-- Initialize Swiper -->
+<script>
+    var swiper = new Swiper('.swiper-container', {
+        loop: true,
+        speed: 600,
+        autoplay: {
+            delay: 5000,
+        },
+        slidesPerView: 1,
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+    });
+</script>
+
+<!-- End Recent Causes Section -->
+
+
 
 
 <!-- Our Causes -->
