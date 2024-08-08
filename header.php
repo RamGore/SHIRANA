@@ -97,7 +97,7 @@ CENTER</title>
 								    <div class="modal-content">
 								    	<div class="modal-header text-center">
 								        	<button type="button" class="close" data-dismiss="modal">&times;</button>
-								        	<h3> <span class="flaticon-make-a-donation text-thm2"></span> DONATION FORM</h3>
+								        	<h3> <span class="text-thm2"></span> DONATION FORM</h3>
 								        	<p>Your Donation Can Save Lot's Of Life</p>
 								    	</div>
 								    	<div class="modal-body">
@@ -107,7 +107,7 @@ CENTER</title>
 			        				      			<ul class="list-inline selected-amount">
 			        				      				<li class="amount-box">
 				        				      				<input id="radio-one" type="radio" name="payment-group">
-			        				      					<label for="radio-one"> $10</label>
+			        				      					<label for="radio-one"> 10</label>
 			        				      				</li>
 			        				      				<li class="amount-box">
 				        				      				<input id="radio-two" type="radio" name="payment-group">
@@ -266,7 +266,7 @@ CENTER</title>
                             <a href="activity">Our Activities</a>
                         </li>
                         <li class="dropdown">
-                            <a href="events">Events</a>
+                            <a href="event">Events</a>
                         </li>
                         <li class="dropdown">
                             <a href="gallery">Gallery</a>

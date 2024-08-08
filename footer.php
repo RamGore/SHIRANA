@@ -5,7 +5,7 @@
 			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
 				<div class="ulockd-footer-fst-col">
 						<div class="ulockd-welcm-hmddl">
-							<p href="index.html" class="ulockd-main-logo main-logo">NAGARI VIKAS<br>
+							<p href="index.html" class="ulockd-main-logo main-logo footer-logo">NAGARI VIKAS<br>
 								SEVABHAVI SANSTHA</p>
 						</div>
 					<!-- <img alt="" src="images/footer-logo.png" class="img-responsive ulockd-footer-log"> -->

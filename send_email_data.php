@@ -3,11 +3,11 @@
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $mailto = "gore64643@gmail.com"; // Your email where you want to receive inquiries
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $mobile = $_POST['mobile'];
-    $service_name = $_POST['subject_name'];
-    $messagee = $_POST['message'];
+    $name = $_POST['form_name'];
+    $email = $_POST['form_email'];
+    $mobile = $_POST['form_phone'];
+    $service_name = $_POST['form_subject'];
+    $messagee = $_POST['form_message'];
 
     $subject = "For Services Inquiry";
     $user_message = "Dear " . $name . ",\n\nThank you for your inquiry regarding the donation'" . $service_name . "'. We will get back to you shortly.\n\nBest regards,\n WebsarITSolutions";
@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     if ($result1 && $user_result) {
         $success = "Your message was sent successfully!";
-        header('Location: thankyou-page.html');
+        header('Location: thankyou.php');
     } else {
         $failed = "Sorry! Message was not sent. Please try again.";
     }
