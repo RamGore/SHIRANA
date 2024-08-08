@@ -13,11 +13,11 @@ include 'header.php';
                 </div>
                 <div class="col-md-12">
                     <div class="ulockd-icd-layer">
-                        <ul class="list-inline ulockd-icd-sub-menu">
-                            <li><a href="index.php"> HOME </a></li>
-                            <li><a href="#"> > </a></li>
-                            <li> <a class="text-uppercase" href="#">About US</a></li>
-                        </ul>
+                    <ul class="list-inline ulockd-icd-sub-menu topppp">
+                        <li><a href="index.php"> HOME </a></li>
+                        <li><a href="#"> > </a></li>
+                        <li> <a href="#"> ABOUT US </a> </li>
+                    </ul>
                     </div>
                 </div>
             </div>

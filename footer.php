@@ -17,12 +17,12 @@
 				<div class="ulockd-footer-qlink">
 					<h3 class="text-uppercase">NAVIGATI<span class="text-thm2">ON</span></h3>
 					<ul class="list-unstyled">
-						<li><a href="index.php">Home</a></li>
-						<li><a href="about.php">About Us</a></li>
-						<li><a href="activity.php">Our Activity</a></li>
-						<li><a href="#">Events</a></li>
-						<li><a href="gallery.php">Gallery</a></li>
-						<li><a href="contact-us.php">Contact Us</a></li>
+						<li><a href="index">Home</a></li>
+						<li><a href="about">About Us</a></li>
+						<li><a href="activity">Our Activity</a></li>
+						<li><a href="event">Events</a></li>
+						<li><a href="gallery">Gallery</a></li>
+						<li><a href="contact-us">Contact Us</a></li>
 					</ul>
 				</div>
 			</div>

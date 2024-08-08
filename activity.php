@@ -1,17 +1,17 @@
 <?php
 include 'header.php';
 ?>
-
+<main class="activity-page">
     <!-- Home Design Inner Pages -->
     <div class="ulockd-inner-home">
         <div class="container text-center">
             <div class="row">
                 <div class="ulockd-inner-conraimer-details col-12">
                     <h1 class="text-uppercase">Our Activities </h1>
-                    <ul class="list-inline ulockd-icd-sub-menu topppp">
+                    <ul class="list-inline ulockd-icd-sub-menu toppppp">
                         <li><a href="index.php"> HOME </a></li>
                         <li><a href="#"> > </a></li>
-                        <li> <a href="#"> ABOUT US </a> </li>
+                        <li> <a href="#"> ACTIVITY </a> </li>
                     </ul>
                 </div>
             </div>

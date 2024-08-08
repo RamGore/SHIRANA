@@ -204,10 +204,10 @@ include 'header.php';
 				document.getElementById('mobileError').innerText = 'Please enter a valid mobile number (10 digits).';
 				isValid = false;
 			}
-			if (service === 'Select Service*' || service === '') {
-				document.getElementById('subjectError').innerText = 'Please select a service.';
-				isValid = false;
-			}
+			//if (service === 'Select Subject*' || service === '') {
+			//	document.getElementById('subjectError').innerText = 'Please select a subject.';
+			//	isValid = false;
+			//}
 			// if (message === '') {
 			// 	document.getElementById('messageError').innerText = 'Please enter your message.';
 			// 	isValid = false;

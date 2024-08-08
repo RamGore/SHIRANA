@@ -1,6 +1,7 @@
 <?php
 include 'header.php';
 ?>
+<main class="events-page">
 
     <!-- Home Design Inner Pages -->
     <div class="ulockd-inner-home">

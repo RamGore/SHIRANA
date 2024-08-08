@@ -6,11 +6,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_POST['name'];
     $email = $_POST['email'];
     $mobile = $_POST['mobile'];
-    $service_name = $_POST['service_name'];
+    $service_name = $_POST['subject_name'];
     $messagee = $_POST['message'];
 
     $subject = "For Services Inquiry";
-    $user_message = "Dear " . $name . ",\n\nThank you for your inquiry regarding the service '" . $service_name . "'. We will get back to you shortly.\n\nBest regards,\n WebsarITSolutions";
+    $user_message = "Dear " . $name . ",\n\nThank you for your inquiry regarding the donation'" . $service_name . "'. We will get back to you shortly.\n\nBest regards,\n WebsarITSolutions";
 
     // Send email to the person who filled the form
     $user_subject = "Thank you for your inquiry";
@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = "Name of Person: " . $name . "\n"
         . "Email: " . $email . "\n"
         . "Mobile: " . $mobile . "\n"
-        . "Name of Service: "  . $service_name . "\n"
+        . "Name of Service: "  . $subject_name . "\n"
         . "Message: "  . $messagee;
 
     $headers = "From: " . $email;
@@ -32,7 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $success = "Your message was sent successfully!";
         header('Location: thankyou-page.html');
     } else {
-        $failed = "Sorry! Message was not sent. Please try again later.";
+        $failed = "Sorry! Message was not sent. Please try again.";
     }
 }
  else {

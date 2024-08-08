@@ -255,3 +255,12 @@ margin-bottom:30px;
 .sambhaji-para{
     margin-top:50px;
 }
+.list-inline>li{
+    color: rgb(255, 255, 255) !important;
+}
+.toppppp{
+    color: rgb(255, 255, 255) !important;
+}
+.activity-page, .events-page{
+    background-color: #f0efeb;
+}
