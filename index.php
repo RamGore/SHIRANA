@@ -108,16 +108,17 @@ include 'header.php';
 				
 
 					<p class="abt-txt">
-					<span class="font-s ulockd-mrgn630">About <span class="text-thm2"> Us</span></span><br>
+					<span class="font-s ulockd-mrgn630">About <span class="text-thm2"> Us</span></span><br><br>
                             <span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA</span> Trust seeks donation to increase the corpus
                             of the Trust so that it can be used to benefit the women of <span class="text-thm2">AURANGABAD
                             MAHARASHTRA</span> through Vocational training of Computer Hardware & Networking,
                             Handicrafts and Mobile Repairing. <span class="text-thm2">FOR WOMEN LIVING WITH POVERTY</span>.
                         </p>
-                    </div>
-					<div class="col-md-12 cont-cent">
+						<div class="col-md-12 cont-cent">
 						<a href="about.php" class="btn btn-default ulockd-btn-thm2">Read More</a>
 					</div>
+                    </div>
+					
 			</div>
 			<div class="col-sm-12 col-md-5">
 				<div class="ab-thumb">
