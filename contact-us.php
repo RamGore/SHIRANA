@@ -161,7 +161,7 @@ include 'header.php';
 
 
 
-
+<script src="./send_email_data.php"></script>
 
 	<script>
 		document.getElementById('inquiryForm').onsubmit = function(event) {
