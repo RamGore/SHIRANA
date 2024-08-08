@@ -105,26 +105,25 @@ include 'header.php';
 		<div class="row">
 			<div class="col-sm-12 col-md-7">
 				<div class="ulockd-main-title">
-				
+
 
 					<p class="abt-txt">
-					<span class="font-s ulockd-mrgn630">About <span class="text-thm2"> Us</span></span><br><br>
-                            <span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA</span> Trust seeks donation to increase the corpus
-                            of the Trust so that it can be used to benefit the women of <span class="text-thm2">AURANGABAD
-                            MAHARASHTRA</span> through Vocational training of Computer Hardware & Networking,
-                            Handicrafts and Mobile Repairing. <span class="text-thm2">FOR WOMEN LIVING WITH POVERTY</span>.
-                        </p>
-						<div class="col-md-12 cont-cent">
+						<span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA</span> Trust seeks donation to increase the corpus
+						of the Trust so that it can be used to benefit the women of <span class="text-thm2">AURANGABAD
+							MAHARASHTRA</span> through Vocational training of Computer Hardware & Networking,
+						Handicrafts and Mobile Repairing. <span class="text-thm2">FOR WOMEN LIVING WITH POVERTY</span>.
+					</p>
+					<div class="col-md-12 cont-cent">
 						<a href="about.php" class="btn btn-default ulockd-btn-thm2">Read More</a>
 					</div>
-                    </div>
-					
+				</div>
+
 			</div>
 			<div class="col-sm-12 col-md-5">
 				<div class="ab-thumb">
 					<img class="img-responsive img-whp" src="images/about/1.jpg" alt="1.jpg">
 				</div>
-				
+
 			</div>
 		</div>
 	</div>
@@ -133,91 +132,6 @@ include 'header.php';
 <!-- ================ -->
 
 
-<section id="testimonials" class="testimonials section light-background">
-
-	<div class="container">
-
-		<div class="row align-items-center">
-
-			<!-- Left side: Heading and text -->
-			<div class="col-lg-5 info" data-aos="fade-up" data-aos-delay="100">
-				<h2 class="title-bottom ulockd-mrgn630">our <span class="text-thm2">Activity</span></h2>
-				<p>
-					Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-					velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-				</p>
-			</div>
-
-			<!-- Right side: Swiper slider -->
-			<div class="col-lg-7 swiper-initialized" data-aos="fade-up" data-aos-delay="200">
-
-				<!-- Swiper container -->
-				<div class="swiper init-swiper">
-					<!-- Swiper configuration in JSON format -->
-					<script type="application/json" class="swiper-config">
-						{
-							"loop": true,
-							"speed": 600,
-							"autoplay": {
-								"delay": 5000
-							},
-							"slidesPerView": "auto",
-							"pagination": {
-								"el": ".swiper-pagination",
-								"type": "bullets",
-								"clickable": true
-							}
-						}
-					</script>
-
-					<!-- Swiper wrapper -->
-					<div class="swiper-wrapper">
-
-						<!-- Testimonial item 1 -->
-						<div class="swiper-slide">
-							<div class="testimonial-item">
-								<div class="d-flex">
-									<img src="images/gallery/1.jpg" class="testimonial-img flex-shrink-0" alt="">
-								</div>
-								<div class="slid-par">
-									<h4>Ceo &amp; Founder</h4>
-									<p>
-										<i class="bi bi-quote quote-icon-left"></i>
-										<span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
-										<i class="bi bi-quote quote-icon-right"></i>
-									</p>
-								</div>
-
-							</div>
-						</div><!-- End testimonial item -->
-
-						<!-- Testimonial item 1 -->
-						<div class="swiper-slide">
-							<div class="testimonial-item">
-								<div class="d-flex">
-									<img src="images/gallery/1.jpg" class="testimonial-img flex-shrink-0" alt="">
-								</div>
-								<div class="slid-par">
-									<h4>Ceo Founder</h4>
-									<p>
-										<i class="bi bi-quote quote-icon-left"></i>
-										<span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
-										<i class="bi bi-quote quote-icon-right"></i>
-									</p>
-								</div>
-
-							</div>
-						</div><!-- End testimonial item -->
-
-						
-
-					</div>
-					<div class="swiper-pagination"></div>				
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 
 
 
@@ -235,86 +149,91 @@ include 'header.php';
 			<div class="col-md-8 col-md-offset-2 text-center">
 				<div class="ulockd-main-title">
 					<h2 class="text-uppercase">our <span class="text-thm2">Activity</span></h2>
-					<h4>Your Attention Is Changed The Part Of World.Give a helping hand to those who need it!</h4>
 				</div>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-sm-6 col-md-6 col-lg-3 fservice-box">
-				<div class="db-thumb">
-					<img class="img-responsive img-whp" src="images/causes/4.jpg" alt="4.jpg">
-					<div class="db-overlayer"></div>
-				</div>
-				<div class="db-details text-left">
-					<h3>Sponsor a Child</h3>
-					<p>Charity, institutional and modern clothing offices clean extensive amounts of textures in an extensive.</p>
-					<button type="submit" class="btn btn-default ulockd-btn-thm2">Read More</button>
-				</div>
-			</div>
-			<div class="col-sm-6 col-md-6 col-lg-3 fservice-box">
-				<div class="db-thumb">
-					<img class="img-responsive img-whp" src="images/causes/5.jpg" alt="5.jpg">
-					<div class="db-overlayer"></div>
-				</div>
-				<div class="db-details text-left">
-					<div id="bar2" class="barfiller ulockd-mrgn1225">
-						<div class="tipWrap">
-							<span class="tip"></span>
-						</div>
-						<span class="fill ulockd-bgthm" data-percentage="70"></span>
+		<section id="testimonials" class="testimonials section light-background">
+
+			<div class="container">
+
+				<div class="row align-items-center">
+
+					<!-- Left side: Heading and text -->
+					<div class="col-lg-5 info" data-aos="fade-up" data-aos-delay="100">
+						<h2 class="title-bottom ulockd-mrgn630">our <span class="text-thm2">Activity</span></h2>
+						<p>
+							Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+							velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+						</p>
 					</div>
-					<ul class="list-inline">
-						<li><strong>Raised:</strong> $45000</li>
-						<li><strong>Goal:</strong> <span class="text-thm2">$70000</span></li>
-					</ul>
-					<h3>Sponsor a Child</h3>
-					<p>Charity, institutional and modern clothing offices clean extensive amounts of textures in an extensive.</p>
-					<button type="submit" class="btn btn-default ulockd-btn-thm2">Read More</button>
-				</div>
-			</div>
-			<div class="col-sm-6 col-md-6 col-lg-3 fservice-box">
-				<div class="db-thumb">
-					<img class="img-responsive img-whp" src="images/causes/6.jpg" alt="6.jpg">
-					<div class="db-overlayer"></div>
-				</div>
-				<div class="db-details text-left">
-					<div id="bar3" class="barfiller ulockd-mrgn1225">
-						<div class="tipWrap">
-							<span class="tip"></span>
+
+					<!-- Right side: Swiper slider -->
+					<div class="col-lg-7 swiper-initialized" data-aos="fade-up" data-aos-delay="200">
+
+						<!-- Swiper container -->
+						<div class="swiper init-swiper">
+							<!-- Swiper configuration in JSON format -->
+							<script type="application/json" class="swiper-config">
+								{
+									"loop": true,
+									"speed": 600,
+									"autoplay": {
+										"delay": 5000
+									},
+									"slidesPerView": "auto",
+									"pagination": {
+										"el": ".swiper-pagination",
+										"type": "bullets",
+										"clickable": true
+									}
+								}
+							</script>
+
+							<!-- Swiper wrapper -->
+							<div class="swiper-wrapper">
+
+								<!-- Testimonial item 1 -->
+								<div class="swiper-slide">
+									<div class="testimonial-item">
+										<div class="d-flex">
+											<img src="images/gallery/1.jpg" class="testimonial-img flex-shrink-0" alt="">
+										</div>
+										<div class="slid-par">
+											<h4>Ceo &amp; Founder</h4>
+											<p>
+												<i class="bi bi-quote quote-icon-left"></i>
+												<span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+												<i class="bi bi-quote quote-icon-right"></i>
+											</p>
+										</div>
+
+									</div>
+								</div><!-- End testimonial item -->
+
+								<!-- Testimonial item 1 -->
+								<div class="swiper-slide">
+									<div class="testimonial-item">
+										<div class="d-flex">
+											<img src="images/gallery/1.jpg" class="testimonial-img flex-shrink-0" alt="">
+										</div>
+										<div class="slid-par">
+											<h4>Ceo Founder</h4>
+											<p>
+												<i class="bi bi-quote quote-icon-left"></i>
+												<span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+												<i class="bi bi-quote quote-icon-right"></i>
+											</p>
+										</div>
+
+									</div>
+								</div><!-- End testimonial item -->
+							</div>
+							<div class="swiper-pagination"></div>
 						</div>
-						<span class="fill ulockd-bgthm" data-percentage="77"></span>
 					</div>
-					<ul class="list-inline">
-						<li><strong>Raised:</strong> $45000</li>
-						<li><strong>Goal:</strong> <span class="text-thm2">$70000</span></li>
-					</ul>
-					<h3>Sponsor a Child</h3>
-					<p>Charity, institutional and modern clothing offices clean extensive amounts of textures in an extensive.</p>
-					<button type="submit" class="btn btn-default ulockd-btn-thm2">Read More</button>
 				</div>
 			</div>
-			<div class="col-sm-6 col-md-6 col-lg-3 fservice-box">
-				<div class="db-thumb">
-					<img class="img-responsive img-whp" src="images/causes/7.jpg" alt="7.jpg">
-					<div class="db-overlayer"></div>
-				</div>
-				<div class="db-details text-left">
-					<div id="bar4" class="barfiller ulockd-mrgn1225">
-						<div class="tipWrap">
-							<span class="tip"></span>
-						</div>
-						<span class="fill ulockd-bgthm" data-percentage="85"></span>
-					</div>
-					<ul class="list-inline">
-						<li><strong>Raised:</strong> $45000</li>
-						<li><strong>Goal:</strong> <span class="text-thm2">$70000</span></li>
-					</ul>
-					<h3>Sponsor a Child</h3>
-					<p>Charity, institutional and modern clothing offices clean extensive amounts of textures in an extensive.</p>
-					<button type="submit" class="btn btn-default ulockd-btn-thm2">Read More</button>
-				</div>
-			</div>
-		</div>
+		</section>
 	</div>
 </section>
 
