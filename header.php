@@ -266,7 +266,7 @@ CENTER</title>
                             <a href="activity">Our Activities</a>
                         </li>
                         <li class="dropdown">
-                            <a href="event">Events</a>
+                            <a href="events">Events</a>
                         </li>
                         <li class="dropdown">
                             <a href="gallery">Gallery</a>

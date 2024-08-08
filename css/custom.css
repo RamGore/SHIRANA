@@ -199,32 +199,26 @@ tr {
 p{
     margin:0px !important;
 }
+.topppp{
+    color:rgb(255, 255, 255) !important;
+}
 
 .img11{
     margin:0px;
 }
-.diwaliii{
-    margin-top:30px;
-}
-.gudi-img{
-    margin-top: 33px;
-}
-.womens-day{
-    margin: 0 auto;
-}
-.womens-day1{
-    margin-top: 49px;
-}
 
-.womens-day2
-{
-    margin-bottom:30px;
-    margin-top:-20px;
-}
-.aids-image{
-margin-bottom:30px;
-}
 
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+=======
 .yoga-img1{
     margin-top:0px !important;
 }
@@ -255,6 +249,7 @@ margin-bottom:30px;
 .sambhaji-para{
     margin-top:50px;
 }
+<<<<<<< HEAD
 .list-inline>li{
     color: rgb(255, 255, 255) !important;
 }
@@ -264,3 +259,6 @@ margin-bottom:30px;
 .activity-page, .events-page{
     background-color: #f0efeb;
 }
+=======
+>>>>>>> 41b8224e21ccc4ceba6129cb11c6d9194bab0238
+>>>>>>> 8a253ba2ea45c1929b5bd0d5cca120a6a6b5755a

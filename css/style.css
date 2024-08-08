@@ -2034,7 +2034,7 @@ margin-top: 0;
   position: relative;
 }
 .title-bottom:before {
-  bottom: -15px;
+  bottom: -10px;
   content: "";
   height: 2px;
   left: 0;
