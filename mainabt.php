@@ -1,0 +1,149 @@
+<?php
+include 'header.php';
+?>
+<main class="about-page">	
+	<!-- Home Design Inner Pages -->
+	<div class="ulockd-inner-home">
+		<div class="container text-center">
+			<div class="row">
+				<div class="ulockd-inner-conraimer-details">
+					<div class="col-md-12">
+						<h1 class="text-uppercase">About Us</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Home Design Inner Pages -->
+	<div class="ulockd-inner-page">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="ulockd-icd-layer">
+						<ul class="list-inline ulockd-icd-sub-menu">
+							<li><a href="index.php"> HOME </a></li>
+							<li><a href="#"> > </a></li>
+							<li> <a href="#"> ABOUT US </a> </li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- about us section1 -->
+	<section class="ulockd-team-two abt-section">
+		<div class="container">
+		<div class="row">
+    <div class="col-md-8 col-lg-8 text-left">
+        <div class="ulockd-main-title">
+            <p class="abt-txt">
+                <span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA</span> Trust seeks donation to increase the corpus
+                of the Trust so that it can be used to benefit the women of <span class="text-thm2">AURANGABAD
+                MAHARASHTRA</span> through Vocational training of Computer Hardware & Networking,
+                Handicrafts and Mobile Repairing. <span class="text-thm2">FOR WOMEN LIVING WITH POVERTY</span>.
+            </p>
+        </div>
+    </div>
+    <div class="col-md-4 col-lg-4 text-right">
+        <img src="https://img.freepik.com/free-photo/people-stacking-hands-together-park_53876-63293.jpg" class="img-responsive custom-img" alt="image">
+    </div>
+</div>
+
+<!-- section2 -->
+<div class="row">
+	<h1 class="our-vision-credo">OUR VISION & CREDO</h1>
+<div class="col-md-4 col-lg-4 text-right">
+        <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1" alt="image">
+    </div>
+    <div class="col-md-8 col-lg-8 text-left">
+        <div class="ulockd-main-title">
+            <p class="abt-txt"><strong><span class="vision-sec"> “MAKE THE SELF SUPPORTED PEOPLE LIVING WITH POVERTY’’</span></strong><br>We believe that everyone have rights to live his life without stress and difficulties our first responsibility is to our society the people living surrounding us. If they are in distress society cannot be stable or peaceful to maintain this balance we must strengthen to
+                weaker people of society the people living with POVERTY in society need to fulfill their
+                needs so economically they should be self supported ..
+                Our second responsibility is to the communities in which we live. We must be a good
+                citizen-support good work and charity, and bear our fair share of taxes. We must
+                maintain in good order the property we are privileged to 
+            </p>
+        </div>
+    </div>
+    
+</div>
+
+
+<!-- section3 -->
+<div class="row">
+	<h1 class="our-vision-credo">CORE VALUES</h1>
+    <div class="col-md-8 col-lg-8 text-left">
+        <div class="ulockd-main-title">  <ul class="values-list">
+        <li>TRANSPARENCY</li>
+        <li>HONESTY</li>
+        <li>FAITH</li>
+        <li>INTEGRITY</li>
+        <li>DISCIPLINE</li>
+    </ul>
+        </div>
+    </div>
+<div class="col-md-4 col-lg-4 text-right">
+        <img src="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2018-11/shutterstock_1129474973.jpg?itok=4yynA7YP" class="img-responsive custom-img2" alt="image">
+    </div>
+    
+</div>
+
+<!-- section4 -->
+<div class="row">
+	<h1 class="our-vision-credo">PURPOSE</h1>
+<div class="col-md-4 col-lg-4 text-right">
+        <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1" alt="image">
+    </div>
+    <div class="col-md-8 col-lg-8 text-left">
+        <div class="ulockd-main-title">
+            <p class="abt-txt"><strong><span class="vision-sec">
+			INCOME, EMPLOYMENT, ECONOMIC GROWTH AND INNOVATIONS</span></strong><br>
+Vocational training is training for a specific career or trade, excluding the professions.
+Vocational training focuses on practical applications of skills learned, and is generally
+unconcerned with theory or traditional academic skills. A large part of the education in
+vocational schools is hands-on training. Vocational training thus provides a link between education and the working world. It is usually provided either at the high school level or
+in a postsecondary trade school.<br><span class="vision-sec">1. Art & Craft<br>
+2. Tailoring and Garments Making<br>
+ 3. Computer Hardware<br>
+ 4. Mobile Reparing</span>
+
+
+            </p>
+        </div>
+    </div>
+    
+</div>
+<!-- section5 -->
+<div class="row">
+	<h1 class="our-vision-credo headingg">DESCRIPTION OF PROJECT</h1>
+    <div class="col-md-8 col-lg-8 text-left">
+        <div class="ulockd-main-title">
+            <p class="abt-txt">From they can help to earn money and when they suffering with poverty not able to do
+hard work or work away from home they would be expected to support them. However,
+distressed people are normally considered a financial burden and, due to poverty, no
+special provision is provided for them.There are many examples of girls being left at
+home, alone all day while their parents, brothers and sisters work in tree he fields. Now
+at the age of 15 to 35 they are too old to begin. Therefore in addition to teaching art and
+craft they also need to be taught basic number skills, computer skills, reading and
+writing.
+            </p>
+        </div>
+    </div>
+    <div class="col-md-4 col-lg-4 text-right">
+        <img src="https://www.globalsocialleaders.com/wp-content/uploads/2021/02/sb-game-hacker.jpg" class="img-responsive custom-img6" alt="image">
+    </div>
+</div>
+
+
+
+		
+
+	
+	</main>
+
+	<?php
+include 'footer.php';
+?>

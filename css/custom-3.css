@@ -1,0 +1,136 @@
+/*===== Contact-Page =====*/
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    margin:0px 10px 55px 10px;
+    gap: 20px;
+    
+  }
+  
+  /* Individual card styles */
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    flex: 1;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  /* Card image styling */
+  .card img {
+    margin: 0 auto 0px;
+    width: 20%;
+  }
+  
+  /* Card header styling */
+  .card h4 {
+    margin-left: 10px;
+    /* font-size: 18px; */
+    font-weight: bold;
+    display: inline;
+  }
+  
+  /* Card text styling */
+  .card p {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  /* Border image styling */
+  .card .border-image {
+    margin: 20px 0;
+    width: 100%;
+  }
+  
+  .para_des {
+      font-weight: 400;
+  }
+
+  .card-container .fa-solid{
+    font-size: 35px;
+  }
+  .card-container .center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .header-middle .container .center{
+    align-items: center;
+
+  }
+
+  .ulockd-google-map{
+    padding-right: 20px;
+  }
+
+  .for-cent .col-md-6{
+    padding-right: 26px;
+    padding-left: 10px;
+  }
+
+  .for-cent .mesg-cont{
+    padding-left: 9px;
+    padding-right: 25px;
+  }
+
+/* slider-home-activity */
+.testimonial-img{
+  width: 100%;
+  border-radius: 20px;
+  padding-left: 1px;
+}
+
+.slid-par{
+  padding: 10px;
+
+}
+
+.slid-par> h4{
+  margin: 0px;
+}
+
+.swiper-initialized{
+  padding-top: 20px;
+}
+.swiper-pagination-bullets{
+  display: flex;
+  justify-content: center;
+}
+.swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+  bottom: var(--swiper-pagination-bottom, 0px )!important;
+}
+
+.testimonial-item{
+  display: flex;
+}
+
+#testimonials > .container{
+  padding-bottom: 3%;
+}
+
+.font-s{
+  font-size: 30px;
+}
+
+  /* footer */
+
+  .cont-cent{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  @media (min-width: 320px) and (max-width: 1024px){
+    .card-container{
+      flex-direction: column;
+    } 
+
+    .cont-cent{
+      display: block;
+      
+    }
+
+  }

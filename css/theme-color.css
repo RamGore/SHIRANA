@@ -70,14 +70,12 @@ li.ui-timepicker-selected {
 .partner-slider .owl-dot.active span, 
 .partner-slider .owl-dot:hover span,
 .partner-slider .owl-dot:focus span,
-.ulockd-footer-font-icon a:hover,
 .nav.fcauses-tab>li>a:focus,
 .nav.fcauses-tab>li>a:hover,
 .fcauses-tab>li.active>a:before,
 .fcauses-tab>li.active>a,
 .fcauses-tab>li.active>a:focus, 
 .fcauses-tab>li.active>a:hover,
-.ulockd-main-title:before,
 .title-bottom:before {
 	background-color: #ffb606;
 }
@@ -102,8 +100,8 @@ li.ui-timepicker-selected {
 .ulockd-uconctruction::before {
 	background-color: rgba(255, 182, 6, .98);
 }
-.ulockd-frst-divider.style1::before,
-.gallery-thumb .overlayer {
+.ulockd-frst-divider.style1::before
+{
 	background-color: rgba(255, 182, 6, .75);
 }
 .flickr-widget li .thumb .overlay,
@@ -161,7 +159,7 @@ nav.navbar li.dropdown ul.dropdown-menu {
 .ulockd-bb-dashed {
 	border-bottom: 1px dashed #ffb606;
 }
-.main-slider2 .owl-next, .main-slider2 .owl-prev, .ulockd-contact-form .ulockd-form-fg {
+.main-slider2 .owl-next, .main-slider2 .owl-prev{
     border: 2px dashed #ffb606;
 }
 .pagination>.active>a,
