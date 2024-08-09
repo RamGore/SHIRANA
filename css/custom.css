@@ -462,19 +462,13 @@ p {
   .responsive23 {
    margin:0 auto;
   }
-  .col-md-8 {
-    order: 1;
-}
-.col-md-4 {
-    order: 2;
-}
-.reverse{
-  display: flex;
-  flex-direction: column-reverse;
-}
+
 
 }
-@media (max-width: 1280px)   {
+
+
+
+@media (max-width: 800px)   {
     .responsive {
      margin:0 auto;
     }
@@ -548,12 +542,13 @@ p {
     .responsive23 {
      margin:0 auto;
     }
-    .col-md-8 {
-        order: 1;
-    }
-    .col-md-4 {
-        order: 2;
-    }
+    
+    
+.reverse{
+  display: flex;
+  flex-direction: column-reverse;
+  margin: 0 auto;
+}
   }
 
 
