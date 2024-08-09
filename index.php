@@ -29,20 +29,31 @@ include 'header.php';
 
 							<div class="cd-full-width">
 
-								<a href="#0" class="cd-btn btn btn-default ulockd-btn-thm2">About Us</a>
-								<a href="#0" class="cd-btn btn btn-default ulockd-btn-thm2">Learn More</a>
+								<a href="about.php" class="cd-btn btn btn-default ulockd-btn-thm2">About Us</a>
+								<a href="activity.php" class="cd-btn btn btn-default ulockd-btn-thm2">Learn More</a>
 								<h2>Give a small! Change a lot.</h2>
 								<h3>Family Is The Orphan's Happiness</h3>
 							</div> <!-- .cd-full-width -->
 
 						</li>
 					</ul>
+					<div class="cd-slider-nav">
+						<nav>
+							<span class="cd-marker item-2"></span>
+
+							<ul>
+								<li class=""><a href=""></a></li>
+								<li class="selected"><a href=""></a></li>
+								<li class=""><a href=""></a></li>
+							</ul>
+						</nav>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-	<!-- Our Features -->
+<!-- Our Features -->
 <section class="service1 ulockd-bgthm">
 	<div class="container-fluid text-center">
 		<div class="row cont-cent">
@@ -84,7 +95,7 @@ include 'header.php';
 <!-- content start -->
 <section class="ulockd-about2">
 	<div class="container">
-	<div class="row">
+		<div class="row">
 			<div class="col-md-8 col-md-offset-2 text-center">
 				<div class="ulockd-main-title">
 					<h2 class="title-bottom ulockd-main-title text-uppercase">About <span class="text-thm2">us</span></h2>
@@ -126,57 +137,53 @@ include 'header.php';
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2 text-center">
 				<div class="ulockd-main-title">
-					<h2 class="title-bottom ulockd-main-title text-uppercase">Our <span class="text-thm2">Activity</span></h2>
+					<h2 class="title-bottom ulockd-main-title text-uppercase">Our Recent  <span class="text-thm2">Activity</span></h2>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="images/project/1a.jpg" alt="1a.jpg">
+					<img class="img-responsive img-whp" src="https://i0.wp.com/bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2019/04/Disability-Exercise-2.jpg?resize=660%2C371&ssl=1" alt="1a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
-					<h3>Clean Water</h3>
-					<p>Consectetur adipisicing elit</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore modi repellendus aspernatur necessitatibus quidem nostrum, iure illum perferendis.</p>
-					<a href="#" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<h3>HANDICAPPED TRAINING PROGRAM</h3>
+					<p>On March 24, 2022, a small home-based business training session was conducted for 24 handicapped students. The training covered skills such as bookbinding, photo frame making, and screen printing, empowering the participants to explore self-employment opportunities.</p>
+					<a class="text-thm2" href="activity.php#HANDICAPPED" class="">More Details <span class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="images/project/2a.jpg" alt="2a.jpg">
+					<img class="img-responsive img-whp" src="https://media.assettype.com/bloombergquint%2F2023-06%2Fefa07034-8196-42e0-9642-ff53c822150b%2Fpiyush_09_05_08.jpg?auto=format%2Ccompress&w=1200" alt="2a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
-					<h3>Education For Child</h3>
-					<p>Consectetur adipisicing elit</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore modi repellendus aspernatur necessitatibus quidem nostrum, iure illum perferendis.</p>
-					<a href="#" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<h3>INTERNATIONAL YOGA DAY</h3>
+					<p>On June 21, 2022, International Yoga Day was celebrated in Hanuman Nagar. The event highlighted the benefits of yoga for fitness and overcoming personal challenges. Yoga trainer Mrs. Sangeeta Tatu demonstrated some simple exercises, while Mr. Lalchand Tatu emphasized the importance of incorporating yoga into daily life.</p>
+					<a class="text-thm2" href="activity.php#YOGA" class="">More Details <span class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 		</div>
 		<div class="row ulockd-mrgn1225">
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="images/project/3a.jpg" alt="3a.jpg">
-					
+					<img class="img-responsive img-whp" src="https://batonrougeclinic.com/wp-content/uploads/2022/01/Baldwin-1-10-Reasons-to-Donate-Blood-e1641235978110.jpg" alt="3a.jpg">
+
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
-					<h3>Health For All</h3>
-					<p>Consectetur adipisicing elit</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore modi repellendus aspernatur necessitatibus quidem nostrum, iure illum perferendis.</p>
-					<a href="#" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<h3>BLOOD DONATION CAMP</h3>
+					<p>On February 19, Chhatrapati Shivaji Maharaj's birth anniversary was marked with a ceremony honoring his legacy. The President of the organization delivered a speech on his bravery, and a blood donation camp organized by Lokmanya Blood Bank collected 43 bags of blood. Multi-vitamins were given to donors, and the event concluded with sweets and fruits.</p>
+					<a class="text-thm2" class="text-thm2" href="activity.php#CAMP" class="">More Details <span class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="images/project/4a.jpg" alt="4a.jpg">
-					
+					<img class="img-responsive img-whp" src="https://img.jagranjosh.com/images/2021/June/262021/World-Environment-Day-History.png" alt="4a.jpg">
+
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
-					<h3>Refugee Save</h3>
-					<p>Consectetur adipisicing elit</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore modi repellendus aspernatur necessitatibus quidem nostrum, iure illum perferendis.</p>
-					<a href="#" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<h3>WORLD ENVIRONMENT DAY</h3>
+					<p>On June 5, 2022, Village Jatwada celebrated World Environmental Day with tree planting and conservation activities organized by Mr. Lalchand Tatu. The event included caring for plants, presenting tree saplings to a local institute, and distributing 1,000 pamphlets on water conservation in Garkheda Aurangabad.</p>
+					<a class="text-thm2" href="activity.php#ENVIRONMENT" class="">More Details <span class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 		</div>
@@ -197,127 +204,150 @@ include 'header.php';
 <!-- ============ -->
 
 <!-- Our CAUSES -->
-<!-- Include Swiper's CSS -->
-<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
-
 <section class="recent-causes">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2 text-center">
-                <div class="ulockd-main-title">
-                    <h2 class="text-uppercase">Our <span class="text-thm2">Events</span></h2>
-                </div>
-            </div>
-        </div>
-
-        <!-- Swiper Slider -->
-        <div class="swiper-container">
-            <div class="swiper-wrapper">
-
-                <!-- Slide 1 -->
-                <div class="swiper-slide">
-                    <div class="card h-100">
-                        <img class="card-img-top" src="images/gallery/1.jpg" alt="Event Image">
-                        <div class="card-body">
-                            <h4 class="card-title">26th <span class="text-thm2">January</span></h4>
-                            <p class="card-text">
-                                Republic Day was celebrated on 26th January 2024 with the citizens of New Hanuman Colony. Flag hoisting was done by the President of Nagari Vikas Sevabhavi Sanstha, followed by the National Anthem, Pledge, and Constitution. Patriotic songs were sung, sweets and snacks were distributed, and a short awareness session on Equality and Integrity was organized. The program ended with the President’s Speech. Republic Day was celebrated with great enthusiasm.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Slide 2 -->
-                <div class="swiper-slide">
-                    <div class="card h-100">
-                        <img class="card-img-top" src="images/gallery/2.jpg" alt="Event Image">
-                        <div class="card-body">
-                            <h4 class="card-title">Event Title</h4>
-                            <p class="card-text">Event description goes here. It gives a brief overview of the event details and encourages visitors to learn more or participate.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Slide 3 -->
-                <div class="swiper-slide">
-                    <div class="card h-100">
-                        <img class="card-img-top" src="images/gallery/3.jpg" alt="Event Image">
-                        <div class="card-body">
-                            <h4 class="card-title">Event Title</h4>
-                            <p class="card-text">Event description goes here. It gives a brief overview of the event details and encourages visitors to learn more or participate.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Additional slides can be added here -->
-
-            </div>
-
-            <!-- Add Pagination -->
-            <div class="swiper-pagination"></div>
-
-            <!-- Add Navigation -->
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
-        </div><!-- End Swiper Slider -->
-    </div><!-- End Container -->
-</section><!-- End Recent Causes Section -->
-
-<!-- Include Swiper's JS -->
-<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-
-<!-- Initialize Swiper -->
-<script>
-    var swiper = new Swiper('.swiper-container', {
-        loop: true,
-        speed: 600,
-        autoplay: {
-            delay: 5000,
-        },
-        slidesPerView: 1,
-        pagination: {
-            el: '.swiper-pagination',
-            clickable: true,
-        },
-        navigation: {
-            nextEl: '.swiper-button-next',
-            prevEl: '.swiper-button-prev',
-        },
-    });
-</script>
-
-<!-- End Recent Causes Section -->
-
-
-
-
-<!-- Our Causes -->
-<section class="ulockd-causes">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2 text-center">
 				<div class="ulockd-main-title">
-					<h2 class="text-uppercase">Welcome To <span class="text-thm2">Be a Hand.</span> Join With Us, Your Attention is changed the part of world.</h2>
-					<h4>We are Charity/ Non-profit/ Fundraising/ NGO organizations.Help a child Without Family.</h4>
+					<h2 class="title-bottom ulockd-main-title text-uppercase">Our Recent  <span class="text-thm2">Events</span></h2>
 				</div>
 			</div>
 		</div>
-	</div>
-</section>
+		<section id="testimonials" class="testimonials section light-background">
 
+			<div class="container">
 
-<!-- Our Why Choose -->
-<section class="ulockd-divider1">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2 text-center">
-				<h5>We are Charity/ Non-profit/ Fundraising/ NGO organizations.Help a child Without Family.</h5>
-				<h2 class="text-uppercase ulockd-mrgn640">Join With Us, Your Attention is changed the part of world.</h2>
-				<p class=" ulockd-mrgn620">Cupiditate qui molestias fugit voluptatibus laudantium maxime voluptate corrupti ab repudiandae dolor repellendus? laudantium maxime voluptate corrupti ab repudiandae dolor repellendus?</p>
-				<button type="submit" class="btn btn-lg ulockd-btn-thm2 ulockd-mrgn315" data-toggle="modal" data-target=".bs-example-modal-default">Donate now</button>
-				<button type="submit" class="btn btn-lg ulockd-btn-styledark">Join With Us</button>
+				<div class="row align-items-center">
+					<div class="col-lg-12 swiper-initialized" data-aos="fade-up" data-aos-delay="200">
+
+						<!-- Swiper container -->
+						<div class="swiper init-swiper">
+							<!-- Swiper configuration in JSON format -->
+							<script type="application/json" class="swiper-config">
+								{
+									"loop": true,
+									"speed": 600,
+									"autoplay": {
+										"delay": 5000
+									},
+									"slidesPerView": "auto",
+							
+									"pagination": {
+										"el": ".swiper-pagination",
+										"type": "bullets",
+										"clickable": true
+									}
+								} 
+							</script>
+
+							<!-- Swiper wrapper -->
+							<div class="swiper-wrapper">
+
+							
+								<!-- Events item 1 -->
+								<div class="swiper-slide">
+									<div class="testimonial-item">
+										<div class="row">
+											<!-- Left Side: Image -->
+											<div class="col-md-6 d-flex justify-content-center align-items-center">
+												<img src="https://t4.ftcdn.net/jpg/05/00/42/77/360_F_500427775_ifULmeH1wJ2axNamQaR6HmU2a6imqqt2.jpg"class="testimonial-img" alt="">
+											</div>
+											<!-- Right Side: Text -->
+											<div class="col-md-6">
+												<h3 class="text-thm2" >MAHARASHTRA <span class="ulockd-mrgn630">DIN </span></h3>
+												<p>
+													<i class="bi bi-quote quote-icon-left"></i>
+													<span>Republic Day was celebrated on 26th January 2024 with the citizens of New Hanuman colony. Flag hoisting was done by the President of Nagari Vikas Sevabhavi Sanstha, followed by National Anthem, Pledge, and Constitution. Patriotic songs were sung to glorify our great super freedom fighter heroes. Sweets and snacks were distributed. A short awareness session on Equality and Integrity was also organized. The program ended with the President’s Speech. Republic Day was celebrated with great enthusiasm.</span>
+													<i class="bi bi-quote quote-icon-right"></i>
+												</p>
+												<a class="text-thm2" href="event.php" class="">More Details <span class="flaticon-right-arrow"></span></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- End Events item -->
+
+								
+								<!-- Events item 2 -->
+								<div class="swiper-slide">
+									<div class="testimonial-item">
+										<div class="row">
+											<!-- Left Side: Image -->
+											<div class="col-md-6 d-flex justify-content-center align-items-center">
+												<img src="https://www.vmcdn.ca/f/files/bradfordtoday/images/town-of-bradford/3_flag-aug17.png;w=800" class="testimonial-img" alt="">
+											</div>
+											<!-- Right Side: Text -->
+											<div class="col-md-6">
+												<h3 class="text-thm2" >CELEBRATION OF INDEPENDENCE DAY <span class="ulockd-mrgn630"></span></h3>
+												<p>
+													<i class="bi bi-quote quote-icon-left"></i>
+													<span>Independence day celebration was organized by Nagari vikas sevabhavi sanstha at lamakanwadi. Marathawada youth president Mr. Kalpesh Tatu was invited as chief guest. The programme schedule contained Flag hoisting, National Anthem, Constitution, Pledge, Vande Mataram song was sung with great dedication. Flag was hoisted by the chief guest Mr. Kalpesh Tatu along with Sarpanch and Up- Sarpanch of Lamakanwadi. Special lunch was organized on the occasion of Independence Day for the villagers. Chief Guest and Sarpanch expressed their opinions about the dedication of freedom fighters for their country and their sacrifice for Independent India. Up-Sarpanch proposed vote of thanks to all villagers and organisers for arranging the celebration.</span>
+													<i class="bi bi-quote quote-icon-right"></i>
+												</p>
+												<a class="text-thm2" href="event.php" class="">More Details <span class="flaticon-right-arrow"></span></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- End Events item -->
+
+								
+								<!-- Events item 3 -->
+								<div class="swiper-slide">
+									<div class="testimonial-item">
+										<div class="row">
+											<!-- Left Side: Image -->
+											<div class="col-md-6 d-flex justify-content-center align-items-center">
+												<img src="https://www.hindustantimes.com/ht-img/img/2023/10/04/550x309/F7gKwhVW4AAfbvc_1696424901264_1696425115431.jfif" class="testimonial-img" alt="">
+											</div>
+											<!-- Right Side: Text -->
+											<div class="col-md-6">
+												<h3 class="text-thm2" >TEACHERS <span class="ulockd-mrgn630">DAY </span></h3>
+												<p>
+													<i class="bi bi-quote quote-icon-left"></i>
+													<span>On 5th Sept 2023 Teacher’s day celebrated at Nagari sevabhavi santha office, New Hanuman nagar, Garkheda Aurangabad. We faliciated the teachers by honoring them with shawl and coconut. Around 43 teachers were invited from various schools for this program. Teachers were honored for their dedication towards moulding the future of children which is their contribution in creating a progressed country. The program was ended with a special lunch.</span>
+													<i class="bi bi-quote quote-icon-right"></i>
+												</p>
+												<a class="text-thm2" href="event.php" class="">More Details <span class="flaticon-right-arrow"></span></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- End Events item -->
+
+								
+
+								<!-- Events item 4 -->
+								<div class="swiper-slide">
+									<div class="testimonial-item">
+										<div class="row">
+											<!-- Left Side: Image -->
+											<div class="col-md-6 d-flex justify-content-center align-items-center">
+												<img src="https://cdnjs.angroos.com/wp-content/uploads/2024/01/1-1.jpg" class="testimonial-img" alt="">
+											</div>
+											<!-- Right Side: Text -->
+											<div class="col-md-6">
+												<h3 class="text-thm2" >CELEBRATION OF REPUBLIC  <span class="ulockd-mrgn630">DAY </span></h3>
+												<p>
+													<i class="bi bi-quote quote-icon-left"></i>
+													<span>Republic Day was celebrated on 26th January 2024 with the citizens of New Hanuman colony. Flag hoisting was done by the President of Nagari Vikas Sevabhavi Sanstha, followed by National Anthem, Pledge, and Constitution. Patriotic songs were sung to glorify our great super freedom fighter heroes. Sweets and snacks were distributed. A short awareness session on Equality and Integrity was also organized. The program ended with the President’s Speech. Republic Day was celebrated with great enthusiasm.</span>
+													<i class="bi bi-quote quote-icon-right"></i>
+												</p>
+												<a class="text-thm2" href="event.php" class="">More Details <span class="flaticon-right-arrow"></span></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- End Events item -->
+
+								
+							</div>
+						</div>
+						<div class="swiper-pagination"></div>
+					</div>
+				</div>
 			</div>
-		</div>
+		</section>
 	</div>
 </section>
 
@@ -610,121 +640,7 @@ include 'header.php';
 <!-- Our Project -->
 
 
-<!-- Our First Divider -->
-<section class="divider ulockd-bgthm">
-	<div class="container">
-		<div class="row">
-			<div class="col-sm-6 col-md-12 text-center">
-				<div class="subscriber-form subscribe">
-					<h1 class="color-white">Don’t miss out on the Latest News</h1>
-					<h3>We won’t spam you and we respect your privacy.</h3>
-					<input placeholder="Your Email">
-					<button>SUBSCRIBE</button>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 
-<!-- Our Team -->
-<section class="ulockd-team">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2 text-center">
-				<div class="ulockd-main-title">
-					<h2 class="text-uppercase">OUR <span class="text-thm2">VOLUNTEERS</span></h2>
-					<h4>Your Attention Is Changed The Part Of World.Give a helping hand to those who need it!</h4>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-xs-12 col-sm-6 col-md-3">
-				<div class="ulockd-team-member">
-					<div class="team-thumb">
-						<img class="img-responsive img-whp" src="images/team/1.jpg" alt="team1.jpg">
-						<div class="team-overlay">
-							<ul class="list-inline team-icon style2">
-								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-								<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="team-details text-left">
-						<h3 class="member-name">John Smith</h3>
-						<h5 class="member-post">- Volunteer</h5>
-						<p>Lorem ipsum dolor sit amet, esse consectetur adipisicing elit.</p>
-						<button type="submit" class="btn btn-default ulockd-btn-thm2">Read More</button>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-3">
-				<div class="ulockd-team-member">
-					<div class="team-thumb">
-						<img class="img-responsive img-whp" src="images/team/2.jpg" alt="2.jpg">
-						<div class="team-overlay">
-							<ul class="list-inline team-icon style2">
-								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-								<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="team-details text-left">
-						<h3 class="member-name">Ana Smith</h3>
-						<h5 class="member-post">- Volunteer</h5>
-						<p>Lorem ipsum dolor sit amet, esse consectetur adipisicing elit.</p>
-						<button type="submit" class="btn btn-default ulockd-btn-thm2">Read More</button>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-3">
-				<div class="ulockd-team-member">
-					<div class="team-thumb">
-						<img class="img-responsive img-whp" src="images/team/3.jpg" alt="3.jpg">
-						<div class="team-overlay">
-							<ul class="list-inline team-icon style2">
-								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-								<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="team-details text-left">
-						<h3 class="member-name">Jhon Smith</h3>
-						<h5 class="member-post">- Volunteer</h5>
-						<p>Lorem ipsum dolor sit amet, esse consectetur adipisicing elit.</p>
-						<button type="submit" class="btn btn-default ulockd-btn-thm2">Read More</button>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-3">
-				<div class="ulockd-team-member">
-					<div class="team-thumb">
-						<img class="img-responsive img-whp" src="images/team/6.jpg" alt="4.jpg">
-						<div class="team-overlay">
-							<ul class="list-inline team-icon style2">
-								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-								<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="team-details text-left">
-						<h3 class="member-name">Jhon Smith</h3>
-						<h5 class="member-post">- Volunteer</h5>
-						<p>Lorem ipsum dolor sit amet, esse consectetur adipisicing elit.</p>
-						<button type="submit" class="btn btn-default ulockd-btn-thm2">Read More</button>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 
 <!-- Our First Divider -->
 <section class="ulockd-frst-divider style1 parallax" data-stellar-background-ratio="0.3">
@@ -767,156 +683,13 @@ include 'header.php';
 	</div>
 </section>
 
-<!-- Our Testimonials -->
-<section class="ulockd-testimonial">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2 text-center">
-				<div class="ulockd-main-title">
-					<h2 class="text-uppercase">Our <span class="text-thm2">Testimonials</span></h2>
-					<h4>Your Attention Is Changed The Part Of World.Give a helping hand to those who need it!</h4>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-6 col-md-6 col-lg-4">
-				<div class="ulockd-testimonials">
-					<div class="testi-thumb pull-left"><img class="img-responsive img-whp thumbnail" src="images/testimonial/1.jpg" alt="1.jpg"></div>
-					<div class="testi-details">
-						<h4>Daniel Forg</h4>
-						<p class="text-thm2">-Oxford Professor</p>
-						<p>Consectetur adipisicing elit. Maiores a molestias, exercitationem at? Neque eaque modi minus consequuntur sapiente quasi amet? Animi.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4">
-				<div class="ulockd-testimonials">
-					<div class="testi-thumb pull-left"><img class="img-responsive img-whp thumbnail" src="images/testimonial/2.jpg" alt="2.jpg"></div>
-					<div class="testi-details">
-						<h4>Daniel Forg</h4>
-						<p class="text-thm2">-Oxford Professor</p>
-						<p>Consectetur adipisicing elit. Maiores a molestias, exercitationem at? Neque eaque modi minus consequuntur sapiente quasi amet? Animi.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-6 col-md-6 col-lg-4">
-				<div class="ulockd-testimonials">
-					<div class="testi-thumb pull-left"><img class="img-responsive img-whp thumbnail" src="images/testimonial/3.jpg" alt="3.jpg"></div>
-					<div class="testi-details">
-						<h4>Daniel Forg</h4>
-						<p class="text-thm2">-Oxford Professor</p>
-						<p>Consectetur adipisicing elit. Maiores a molestias, exercitationem at? Neque eaque modi minus consequuntur sapiente quasi amet? Animi.</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 
-<!-- Our Blog -->
-<section class="ulockd-blog">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2 text-center">
-				<div class="ulockd-main-title">
-					<h2 class="text-uppercase">LATEST <span class="text-thm2">NEWS</span></h2>
-					<h4>Your Attention Is Changed The Part Of World.Give a helping hand to those who need it!</h4>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-6 col-md-4">
-				<article class="ulockd-blog-post ulockd-mrgn630">
-					<div class="post-thumb">
-						<div class="img-post-icon ulockd-bgthm"><span class="fa fa-image"></span></div>
-						<img class="img-responsive img-whp" src="images/blog/1.jpg" alt="1.jpg">
-						<ul class="list-inline posted-date">
-							<li><a class="text-thm2" href="#"><span class="flaticon-people-2"></span> Diade3007</a></li>
-							<li><a class="text-thm2" href="#"><span class="flaticon-chat text-thm2"></span> 9 Comment</a></li>
-						</ul>
-					</div>
-					<div class="bp-details one text-left">
-						<div class="bp-date pull-left">
-							<span class="day">26</span> <br>
-							<span class="time">Sep 17</span>
-						</div>
-						<h3 class="post-title">Our Latest Post</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus consequatur hic, harum aliquid aperiam fuga beatae laudantium velit, laborum minus omnis itaque nostrum, nisi quod!</p>
-						<button type="submit" class="btn btn-default ulockd-btn-thm2">Read More</button>
-					</div>
-				</article>
-			</div>
-			<div class="col-sm-6 col-md-4">
-				<article class="ulockd-blog-post">
-					<div class="bp-details one text-left">
-						<div class="bp-date pull-left">
-							<span class="day">26</span> <br>
-							<span class="time">Sep 17</span>
-						</div>
-						<h3 class="post-title">Our Latest Post</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus consequatur hic, harum aliquid aperiam fuga beatae laudantium velit, laborum minus omnis itaque nostrum, nisi quod!</p>
-						<button type="submit" class="btn btn-default ulockd-btn-thm2">Read More</button>
-					</div>
-					<div class="post-thumb">
-						<div class="img-post-icon ulockd-bgthm"><span class="fa fa-image"></span></div>
-						<img class="img-responsive img-whp" src="images/blog/2.jpg" alt="2.jpg">
-						<ul class="list-inline posted-date">
-							<li><a class="text-thm2" href="#"><span class="flaticon-people-2"></span> Diade3007</a></li>
-							<li><a class="text-thm2" href="#"><span class="flaticon-chat text-thm2"></span> 9 Comment</a></li>
-						</ul>
-					</div>
-				</article>
-			</div>
-			<div class="col-sm-6 col-md-4">
-				<article class="ulockd-blog-post ulockd-mrgn630">
-					<div class="post-thumb">
-						<div class="img-post-icon ulockd-bgthm"><span class="fa fa-image"></span></div>
-						<img class="img-responsive img-whp" src="images/blog/3.jpg" alt="3.jpg">
-						<ul class="list-inline posted-date">
-							<li><a class="text-thm2" href="#"><span class="flaticon-people-2"></span> Diade3007</a></li>
-							<li><a class="text-thm2" href="#"><span class="flaticon-chat text-thm2"></span> 9 Comment</a></li>
-						</ul>
-					</div>
-					<div class="bp-details one text-left">
-						<div class="bp-date pull-left">
-							<span class="day">26</span> <br>
-							<span class="time">Sep 17</span>
-						</div>
-						<h3 class="post-title">Our Latest Post</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus consequatur hic, harum aliquid aperiam fuga beatae laudantium velit, laborum minus omnis itaque nostrum, nisi quod!</p>
-						<button type="submit" class="btn btn-default ulockd-btn-thm2">Read More</button>
-					</div>
-				</article>
-			</div>
-		</div>
-	</div>
-</section>
 
-<!-- Our Partner -->
-<section class="ulockd-partner">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="ulockd-partner-thumb text-center"><img src="images/partners/partner1.png" alt="partner1.png"></div>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="ulockd-partner-thumb text-center"><img src="images/partners/partner2.png" alt="partner2.png"></div>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="ulockd-partner-thumb text-center"><img src="images/partners/partner3.png" alt="partner3.png"></div>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="ulockd-partner-thumb text-center"><img src="images/partners/partner4.png" alt="partner4.png"></div>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="ulockd-partner-thumb text-center"><img src="images/partners/partner5.png" alt="partner5.png"></div>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="ulockd-partner-thumb text-center"><img src="images/partners/partner6.png" alt="partner6.png"></div>
-			</div>
-		</div>
-	</div>
-</section>
+
+
+
+
+
 
 <?php
 include 'footer.php';

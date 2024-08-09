@@ -5,29 +5,28 @@ require_once('connect.php');
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Establish database connection
-    // $conn = connect();
+    $conn = connect();
 
     // Retrieve form data
-    $name = mysqli_real_escape_string($conn, $_POST["fullname"]);
+    $name = mysqli_real_escape_string($conn, $_POST["name"]);
     $email = mysqli_real_escape_string($conn, $_POST["email"]);
-    $mobile = mysqli_real_escape_string($conn, $_POST["mobile_number"]);
-    $service = mysqli_real_escape_string($conn, $_POST["interested_in"]);
-    $product = mysqli_real_escape_string($conn, $_POST["product"]);
-    $message = mysqli_real_escape_string($conn, $_POST["description"]);
+    $mobile = mysqli_real_escape_string($conn, $_POST["mobile"]);
+    $subject = mysqli_real_escape_string($conn, $_POST["subject"]);
+    $message = mysqli_real_escape_string($conn, $_POST["message"]);
 
     // Prepare SQL query
-    $sql = "INSERT INTO contact (name, email, mobile, service, product, message) 
-            VALUES ('$name', '$email', '$mobile', '$service', '$product', '$message')";
+    $sql = "INSERT INTO contact (name, email, mobile, subject, message) 
+            VALUES ('$name', '$email', '$mobile', '$subject', '$message')";
 
     // Execute SQL query
     if ($conn->query($sql) === TRUE) {
         // Send email
         $mailto = "gore64643@gmail.com";
-        $subject = "For " . $service . " Service Inquiry ";
+        $subject = "For " . $subject;
         $email_message = "Full Name: " . $name . "\n"
             . "Email: " . $email . "\n"
             . "Mobile No.: " . $mobile . "\n"
-            . "Name of Services: " . $service . "\n"
+            . "Name of Subject: " . $subject . "\n"
             . "Message : " . $message;
         $headers = "From: " . $email;
 
