@@ -224,7 +224,7 @@ CENTER</title>
 	<!-- Header Styles -->
 	<header class="header-nav">
 		<div class="main-header-nav navbar-scrolltofixed">
-			<div class="container">
+			<div class="container back-colr">
 			    <nav class="navbar navbar-default bootsnav menu-style1">
 					<!-- Start Top Search -->
 			        <div class="top-search">
@@ -245,6 +245,10 @@ CENTER</title>
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
+							<div class="display welcm-ht text-center">
+								 <p class="ulockd-welcntxt">SHIRANA WOMEN ENTERPENUAR DEVELOPMENT
+							   CENTER</p>
+							</div>
 			            </div>
 			            <!-- End Header Navigation -->
 
