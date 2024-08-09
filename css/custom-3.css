@@ -1,5 +1,4 @@
 /*===== Contact-Page =====*/
-
 .card-container {
   display: flex;
   justify-content: space-between;
@@ -125,11 +124,22 @@
   font-size: 30px;
 }
 
+.navbar-header {
+  display: none;
+}
+
 /* footer */
 
 .cont-cent {
   display: flex;
   justify-content: space-between;
+}
+
+.ulockd-ftr-mail{
+  display: flex;
+}
+.ulockd-ftr-mail a{
+  color: #fff;
 }
 
 
@@ -143,14 +153,19 @@
 
   }
 
+  .navbar-header {
+    visibility: visible;
+  }
+
+
   .header-topped,
   .header-middle {
     display: none !important;
   }
 
-  .display .ulockd-welcntxt{
-  padding: 6px 0px 0px 8%;
-}
+  .display .ulockd-welcntxt {
+    padding: 6px 0px 0px 8%;
+  }
 
   nav.navbar.bootsnav .navbar-toggle {
     color: #fff;
@@ -158,10 +173,28 @@
   }
 
   .back-colr,
+  .header-nav .main-header-nav.navbar-scrolltofixed,
   nav.navbar.bootsnav.menu-style1 {
     background-color: #ffb606;
   }
 
+
+}
+
+
+@media (min-width: 480px) and (max-width: 768px) {
+  .project-box {
+    display: flex;
+    flex-direction: column;
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .project-box {
+    display: flex;
+    flex-direction: row;
+  }
 }
 
 
@@ -294,4 +327,28 @@
   .cd-slider-nav a::before {
     top: 18px;
   }
+}
+
+/* header-logo */
+.ulockd-welcm-hmddl .header-logo{
+  color: #ffb606;
+  text-align: center; 
+  margin: 10px 0; 
+  font-size: 24px;
+  display: flex;
+  line-height: 1.2;
+}
+
+.ulockd-main-logo {
+  font-family: 'Roboto Slab', serif; 
+  font-size: 24px;
+  color: #ffb606;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer-logo{
+  color:#ffb606;
+  line-height: 1.2;
+  margin: 20px 0px 11px !important;
 }

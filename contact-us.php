@@ -58,7 +58,7 @@ include 'header.php';
 						<h4>Office Address</h4>
 					</div>
 					<img class="border-image" src="https://www.salehasevabhavisansthahingoli.org.in/wp-content/uploads/2024/02/border_widget.png" alt="border_widget">
-					<p>House no 2 Lane no 12 ,Pundaliknagar Garkheda,Ch sambhajinagar 431001</p>
+					<p>House no 2 Lane no 12, Pundaliknagar Garkheda, Chh. Sambhajinagar 431001</p>
 				</div>
 				<div class="card">
 					<div class="center">
