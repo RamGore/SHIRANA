@@ -172,7 +172,7 @@ include 'header.php';
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>BLOOD DONATION CAMP</h3>
 					<p>On February 19, Chhatrapati Shivaji Maharaj's birth anniversary was marked with a ceremony honoring his legacy. The President of the organization delivered a speech on his bravery, and a blood donation camp organized by Lokmanya Blood Bank collected 43 bags of blood. Multi-vitamins were given to donors, and the event concluded with sweets and fruits.</p>
-					<a class="text-thm2" class="text-thm2" href="activity.php#CAMP" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<a class="text-thm2" class="text-thm2" href="activity.php#BLOOD" class="">More Details <span class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 			<div class="project-box">
