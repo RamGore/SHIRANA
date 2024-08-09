@@ -103,20 +103,21 @@ include 'header.php';
         <h1 class="our-vision-credo">HOLI CELEBRATION</h1>
 
 
-        <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://www.podareducation.org/Uploads/content/2024-3-22--14-40-21-311_The-Story-Behind-Why-Do-We-Celebrate-the-Holi-Festival-banner.jpg" class="img-responsive custom-img1 img11" alt="image">
-        </div>
-        <div class="col-md-8 col-lg-8 text-left">
-            <div class="ulockd-main-title">
-                <p class="abt-txt">
-                    <strong><span class="vision-sec">(8
-                            th March 2024)
-                        </span></strong><br>Holi was celebrated by Nagari vikas sevabhavi sanstha on 8th March 2024
-                    with the orphan children. Occasion like holi break sadness and aloneness among
-                    the orphan children. Holi was celebrated with colors and sweets to add beautiful
-                    colours in their life. Traditional sweets and snack were prepared and distributed
-                    to the children. They enjoyed a lot with colors and water. They seemed so
-                    energetic and enthusiastic about the celebration.
+            <div class="col-md-4 col-lg-4 text-right">
+                <img src="https://www.podareducation.org/Uploads/content/2024-3-22--14-40-21-311_The-Story-Behind-Why-Do-We-Celebrate-the-Holi-Festival-banner.jpg"
+                    class="img-responsive custom-img1 img11 responsive4" alt="image">
+            </div>
+            <div class="col-md-8 col-lg-8 text-left">
+                <div class="ulockd-main-title">
+                    <p class="abt-txt">
+                        <strong><span class="vision-sec">(8
+                                th March 2024)
+                            </span></strong><br>Holi was celebrated by Nagari vikas sevabhavi sanstha on 8th March 2024
+                        with the orphan children. Occasion like holi break sadness and aloneness among
+                        the orphan children. Holi was celebrated with colors and sweets to add beautiful
+                        colours in their life. Traditional sweets and snack were prepared and distributed
+                        to the children. They enjoyed a lot with colors and water. They seemed so
+                        energetic and enthusiastic about the celebration.
 
 
             </div>
@@ -126,13 +127,6 @@ include 'header.php';
 
     </div>
 </div>
-
-
-
-
-
-
-
 
 
 
@@ -162,17 +156,14 @@ include 'header.php';
             </div>
         </div>
 
-        <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://instantbharatnews.in/wp-content/uploads/2024/04/Happy-gudi-padwa.webp" class="img-responsive custom-img1 img11 gudi-img" alt="image">
-        </div>
+            <div class="col-md-4 col-lg-4 text-right">
+                <img src="https://instantbharatnews.in/wp-content/uploads/2024/04/Happy-gudi-padwa.webp"
+                    class="img-responsive custom-img1 img11 gudi-img responsive5" alt="image">
+            </div>
 
 
     </div>
 </div>
-
-
-
-
 
 
 
@@ -181,17 +172,18 @@ include 'header.php';
     <div class="row about2 align-items-center">
         <h1 class="our-vision-credo">WOMEN’S DAY CELEBRATION</h1>
 
-        <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://marketplace.canva.com/EAFap1V35Zg/1/0/1600w/canva-blue-illustrative-simple-8-march-international-womens-day-instagram-post-9Aa_0jK1Nd8.jpg" class="img-responsive custom-img1 womens-day" alt="image">
-        </div>
-        <div class="col-md-8 col-lg-8 text-left">
-            <div class="ulockd-main-title">
-                <p class="abt-txt">
-                    <strong><span class="vision-sec">(8 March 2022)
-                        </span></strong><br>Women’s Day was celebrated by Nagari Vikas Sevabhavi Sanstha in Garkheda area area. In this celebration women’s awareness program was conducted. In which womans were made aware about health and hygine of themselves and their families in the period of pandemic. Tips were shared to maintained health while living in condensed area. Masks and sanitization kit were distributed remembering them and their families health.
-                </p>
+            <div class="col-md-4 col-lg-4 text-right">
+                <img src="https://marketplace.canva.com/EAFap1V35Zg/1/0/1600w/canva-blue-illustrative-simple-8-march-international-womens-day-instagram-post-9Aa_0jK1Nd8.jpg"
+                    class="img-responsive custom-img1 womens-day responsive6" alt="image">
             </div>
-        </div>
+            <div class="col-md-8 col-lg-8 text-left">
+                <div class="ulockd-main-title">
+                    <p class="abt-txt">
+                        <strong><span class="vision-sec">(8 March 2022)
+                            </span></strong><br>Women’s Day was celebrated by Nagari Vikas Sevabhavi Sanstha in Garkheda area  area. In this celebration women’s awareness program was conducted. In which womans were made aware about health and hygine of themselves and their families in the period of pandemic. Tips were shared to maintained health while living in condensed area. Masks and sanitization kit were distributed remembering them and their families health.  
+                    </p>
+                </div>
+            </div>
 
 
 
@@ -210,14 +202,16 @@ include 'header.php';
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://i.pinimg.com/736x/66/03/50/6603505f093f120d7271630cedaf4ef1.jpg" class="img-responsive custom-img1 womens-day1" alt="image">
+            <img src="https://i.pinimg.com/736x/66/03/50/6603505f093f120d7271630cedaf4ef1.jpg" class="img-responsive custom-img1 womens-day1 responsive7"
+                alt="image">
         </div>
     </div>
 
     <div class="row">
 
-        <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4mX3NMip1e8H0GRpuXYbcYLNS2j2ESbnxlpf0SVBESgXHA5fqwwa4YF-ttxrY7nWdq8&usqp=CAU" class="img-responsive custom-img1 womens-day2" alt="image">
+    <div class="col-md-4 col-lg-4 text-right">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4mX3NMip1e8H0GRpuXYbcYLNS2j2ESbnxlpf0SVBESgXHA5fqwwa4YF-ttxrY7nWdq8&usqp=CAU"
+                class="img-responsive custom-img1 womens-day2 responsive8" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -232,13 +226,6 @@ include 'header.php';
         </div>
     </div>
 </div>
-
-
-
-
-
-
-
 
 
 <!-- handicap training programm -->
@@ -260,18 +247,14 @@ include 'header.php';
             </div>
         </div>
 
-        <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://i0.wp.com/bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2019/04/Disability-Exercise-2.jpg?resize=660%2C371&ssl=1" class="img-responsive custom-img1 img11" alt="image">
-        </div>
+            <div class="col-md-4 col-lg-4 text-right">
+                <img src="https://i0.wp.com/bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2019/04/Disability-Exercise-2.jpg?resize=660%2C371&ssl=1"
+                    class="img-responsive custom-img1 img11 responsive9" alt="image">
+            </div>
 
 
     </div>
 </div>
-
-
-
-
-
 
 <!-- aids awareness -->
 
@@ -280,14 +263,15 @@ include 'header.php';
         <h1 class="our-vision-credo">WORLD AIDS DAY-AIDS AWWARENESS PROGRAM </h1>
 
 
-        <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://designimages.appypie.com/allimages/hivaidsposter8.png" class="img-responsive custom-img1 img11 aids-image" alt="image">
-        </div>
-        <div class="col-md-8 col-lg-8 text-left">
-            <div class="ulockd-main-title">
-                <p class="abt-txt">
-                    <strong><span class="vision-sec">(1 December 2021)
-                        </span></strong><br>World Aids Day was celebrated by Nagari Vikas Sevabhavi Sanstha.Dr Anant Kale given the speech on AIDS and its precaution .This program was organized fore truch driver and citizens of Hanumannagar. In which prevention and treatment targets were discussed.Dr kale Given the anwers of attendees about HIV and AIDs.
+            <div class="col-md-4 col-lg-4 text-right">
+                <img src="https://designimages.appypie.com/allimages/hivaidsposter8.png"
+                    class="img-responsive custom-img1 img11 aids-image responsive10" alt="image">
+            </div>
+            <div class="col-md-8 col-lg-8 text-left">
+                <div class="ulockd-main-title">
+                    <p class="abt-txt">
+                        <strong><span class="vision-sec">(1 December 2021)
+                            </span></strong><br>World Aids Day was celebrated by Nagari Vikas Sevabhavi Sanstha.Dr Anant Kale  given the speech on AIDS and its precaution .This program was organized fore truch driver and citizens of Hanumannagar. In which prevention and treatment targets were discussed.Dr kale Given the anwers of attendees about HIV and AIDs.  
 
             </div>
         </div>
@@ -296,10 +280,6 @@ include 'header.php';
 
     </div>
 </div>
-
-
-
-
 
 
 <!-- health day -->
@@ -316,39 +296,38 @@ include 'header.php';
 
 
 
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://images.news9live.com/wp-content/uploads/2024/04/Untitled-design-2024-04-03T163630.109.png" class="img-responsive custom-img1" alt="image">
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://images.news9live.com/wp-content/uploads/2024/04/World-Health-Day-2024.jpg?w=1200&enlarge=true" class="img-responsive custom-img1" alt="image">
-            </div>
-            <div class="col-md-8 col-lg-8 text-left">
-                <div class="ulockd-main-title">
-                    <p class="abt-txt">
-                        <strong><span class="vision-sec">(7th April 2023)
-                            </span></strong><br>NAGARI VIKAS SEVABHAVI SANSTHA organized a Health campaign on
-                        behalf of the World Health Day on 7th April 2023 with the co-ordination of primary
-                        health centre of Aurangabad Their health staff came and gave prosperous and
-                        valuable information and guidance about self sanitation. Dr.Kale treated all the
-                        people. He gave importance and necessary precaution for their old age. He had
-                        done primary health check-up. He also gave health tips to the Senior Citizen’s
-                        there. Organisation Distributed some multi-vitamins supplements and tonics.
-                        Health camp completed in the presence of Dr Kale Anant and primary
-                        health centre and his team , President L.D Tatu and Body members and citizen of
-                        Hanumannagar.Around 140 peoples gone through this camp benefits.
-                    </p>
-                </div>
+        <div class="col-md-4 col-lg-4 text-right">
+            <img src="https://images.news9live.com/wp-content/uploads/2024/04/Untitled-design-2024-04-03T163630.109.png" class="img-responsive custom-img1 responsive11"
+                alt="image">
+        </div>
+     </div>
+     <div class="row">
+     <div class="col-md-4 col-lg-4 text-right">
+            <img src="https://images.news9live.com/wp-content/uploads/2024/04/World-Health-Day-2024.jpg?w=1200&enlarge=true"
+                class="img-responsive custom-img1 responsive12" alt="image">
+        </div>
+        <div class="col-md-8 col-lg-8 text-left">
+            <div class="ulockd-main-title">
+                <p class="abt-txt">
+                    <strong><span class="vision-sec">(7th April 2023)
+                        </span></strong><br>NAGARI VIKAS SEVABHAVI SANSTHA organized a Health campaign on 
+behalf of the World Health Day on 7th April 2023 with the co-ordination of primary 
+health centre of Aurangabad Their health staff came and gave prosperous and 
+valuable information and guidance about self sanitation. Dr.Kale treated all the 
+people. He gave importance and necessary precaution for their old age. He had 
+done primary health check-up. He also gave health tips to the Senior Citizen’s 
+there. Organisation Distributed some multi-vitamins supplements and tonics.
+ Health camp completed in the presence of Dr Kale Anant and primary 
+health centre and his team , President L.D Tatu and Body members and citizen of 
+Hanumannagar.Around 140 peoples gone through this camp benefits.
+                </p>
             </div>
         </div>
+     </div>
     </div>
 </div>
-
-
-
 
 
 <!-- yoga day -->
@@ -366,14 +345,16 @@ include 'header.php';
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://media.assettype.com/bloombergquint%2F2023-06%2Fefa07034-8196-42e0-9642-ff53c822150b%2Fpiyush_09_05_08.jpg?auto=format%2Ccompress&w=1200" class="img-responsive custom-img1 yoga-img1" alt="image">
+            <img src="https://media.assettype.com/bloombergquint%2F2023-06%2Fefa07034-8196-42e0-9642-ff53c822150b%2Fpiyush_09_05_08.jpg?auto=format%2Ccompress&w=1200" class="img-responsive custom-img1 yoga-img1 responsive13"
+                alt="image">
         </div>
     </div>
 
     <div class="row">
 
-        <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvSPWX5cJDfAYzV4chRyfI8n-sSGrpvkFIiN1FhHkt_a_ei2_9-626MUoHZDDzHSlYvo&usqp=CAU" class="img-responsive custom-img1 yoga-img2" alt="image">
+    <div class="col-md-4 col-lg-4 text-right">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvSPWX5cJDfAYzV4chRyfI8n-sSGrpvkFIiN1FhHkt_a_ei2_9-626MUoHZDDzHSlYvo&usqp=CAU"
+                class="img-responsive custom-img1 yoga-img2 responsive14" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -389,11 +370,6 @@ include 'header.php';
         </div>
     </div>
 </div>
-
-
-
-
-
 
 
 
@@ -417,17 +393,14 @@ include 'header.php';
             </div>
         </div>
 
-        <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://d16qttj5aycdv0.cloudfront.net/upload/book_image/resize_bigVysan_Mukti_Hindi_-_Tital_1607664570.jpg" class="img-responsive custom-img1 img11 vysan-mukti" alt="image">
-        </div>
+            <div class="col-md-4 col-lg-4 text-right">
+                <img src="https://d16qttj5aycdv0.cloudfront.net/upload/book_image/resize_bigVysan_Mukti_Hindi_-_Tital_1607664570.jpg"
+                    class="img-responsive custom-img1 img11 vysan-mukti responsive15" alt="image">
+            </div>
 
 
     </div>
 </div>
-
-
-
-
 
 
 
@@ -436,9 +409,10 @@ include 'header.php';
 
 
     <div class="row">
-        <h1 class="our-vision-credo">CELEBRATION OF MAKAR SANKRANTI</h1>
-        <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://as1.ftcdn.net/v2/jpg/03/13/76/20/1000_F_313762037_7NTqtrZnEGK0CZtOqp8TsEQPJG0GURWR.jpg" class="img-responsive custom-img1 makar1" alt="image">
+    <h1 class="our-vision-credo">CELEBRATION OF MAKAR SANKRANTI</h1>
+    <div class="col-md-4 col-lg-4 text-right">
+            <img src="https://as1.ftcdn.net/v2/jpg/03/13/76/20/1000_F_313762037_7NTqtrZnEGK0CZtOqp8TsEQPJG0GURWR.jpg"
+                class="img-responsive custom-img1 makar1 responsive16" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -471,13 +445,11 @@ include 'header.php';
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/272862111104999.5ffc14553015a.jpg" class="img-responsive custom-img1 makar2" alt="image">
+            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/272862111104999.5ffc14553015a.jpg" class="img-responsive custom-img1 makar2 responsive17"
+                alt="image">
         </div>
     </div>
 </div>
-
-
-
 
 
 
@@ -487,17 +459,18 @@ include 'header.php';
     <div class="row about2 align-items-center">
         <h1 class="our-vision-credo"> BLOOD DONATION CAMP</h1>
 
-        <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://images.onlymyhealth.com/imported/images/2024/June/14_Jun_2024/mn-donor.jpg" class="img-responsive custom-img1" alt="image">
-        </div>
-        <div class="col-md-8 col-lg-8 text-left">
-            <div class="ulockd-main-title">
-                <p class="abt-txt">
-                    <strong><span class="vision-sec">( 19thFeburary 2022)
-                        </span></strong><br>Birth anniversary of Chhatrapati Shivaji Maharaj was celebrated on 19thFeburary. Program begin by honoring the portrait of Chhatrapati Shivaji Maharaj with a garland by President of the organization. President gave speech on his works of bravery. Youths were encouraged by the works of Chhatrapati for Swaraj. Blood donation camp was organized by Lokmanya blood bank youths took actively part by donating the bood. Around 43 bags blood was collected. Multi-Vitamins and supplements were also distributed to the donors. Celebration ended by distributing sweets and fruits.
-                </p>
+            <div class="col-md-4 col-lg-4 text-right">
+                <img src="https://images.onlymyhealth.com/imported/images/2024/June/14_Jun_2024/mn-donor.jpg"
+                    class="img-responsive custom-img1 responsive18" alt="image">
             </div>
-        </div>
+            <div class="col-md-8 col-lg-8 text-left">
+                <div class="ulockd-main-title">
+                    <p class="abt-txt">
+                        <strong><span class="vision-sec">( 19thFeburary 2022)
+                            </span></strong><br>Birth anniversary of Chhatrapati Shivaji Maharaj was celebrated on 19thFeburary. Program begin by honoring the portrait of Chhatrapati Shivaji Maharaj with a garland by President of the organization. President gave speech on his works of bravery. Youths were encouraged by the works of Chhatrapati for Swaraj. Blood donation camp was organized by Lokmanya blood bank youths took actively part by donating the bood. Around 43 bags blood was collected. Multi-Vitamins and supplements were also distributed to the donors. Celebration ended by distributing sweets and fruits.  
+                    </p>
+                </div>
+            </div>
 
 
 
@@ -514,14 +487,16 @@ include 'header.php';
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://batonrougeclinic.com/wp-content/uploads/2022/01/Baldwin-1-10-Reasons-to-Donate-Blood-e1641235978110.jpg" class="img-responsive custom-img1" alt="image">
+            <img src="https://batonrougeclinic.com/wp-content/uploads/2022/01/Baldwin-1-10-Reasons-to-Donate-Blood-e1641235978110.jpg " class="img-responsive custom-img1 responsive19"
+                alt="image">
         </div>
     </div>
 
     <div class="row">
 
-        <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRD13hsVUIQSmBngDB3ZcDupEfc6sAYvPI308zKZnDn1U5yWqWJs5xY7of25Pgc-0Ri24&usqp=CAU" class="img-responsive custom-img1" alt="image">
+    <div class="col-md-4 col-lg-4 text-right">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRD13hsVUIQSmBngDB3ZcDupEfc6sAYvPI308zKZnDn1U5yWqWJs5xY7of25Pgc-0Ri24&usqp=CAU"
+                class="img-responsive custom-img1 responsive20" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -540,16 +515,24 @@ include 'header.php';
     </div>
 </div>
 
-
-
-
-
-
 <!-- environmental day -->
 <div id="ENVIRONMENT" class="container">
     <div class="row about2 align-items-center">
         <h1 class="our-vision-credo">WORLD ENVIRONMENT DAY</h1>
 
+            <div class="col-md-8 col-lg-8 text-left">
+                <div class="ulockd-main-title">
+                    <p class="abt-txt">
+                        <strong><span class="vision-sec">(5 June 2021)
+                            </span></strong><br>World Environment Day is celebrated every year on June 5th to raise awareness about environmental issues and to encourage people to take action to protect the planet. Our organisation celebrated World Environment Day by organizing a tree planting ceremony in which we planted 150 trees in Sindhephal. An awareness campaign was organized in which we distributed pamphlets and posters about environmental issues to the public. The tree planting ceremony was a great success. We planted a variety of trees, including native trees and fruit trees.  Many people took the time to read our pamphlets and posters. Overall, our World Environment Day celebration was a success. We raised awareness about environmental issues and encouraged people to take action to protect the planet.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-4 text-right">
+                <img src="https://www.careinsurance.com/upload_master/media/posts/June2024/world-environment-day.webp"
+                    class="img-responsive custom-img1 environment1 responsive21" alt="image">
+            </div>
+        </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -567,6 +550,16 @@ include 'header.php';
 
 
 
+        <div class="col-md-4 col-lg-4 text-right">
+            <img src="https://img.jagranjosh.com/images/2021/June/262021/World-Environment-Day-History.png" class="img-responsive custom-img1 responsive22"
+                alt="image">
+        </div>
+        <div class="col-md-8 col-lg-8 text-left">
+            <div class="ulockd-main-title">
+                <p class="abt-txt">
+                    <strong><span class="vision-sec">(5 June 2022)
+                        </span></strong><br>The World Environmental day was celebrated on 5 June 2022 in Village Jatwada sake of Environmental maintenance, natural balance and protection of natural resources. The aim was to protect nature’s gift from pollution and destruction. Mr. Lalchand Tatu arranged the plantation and the breeding of the plants and trees and spoke about soil and water conservation. All the jatawada Village families were  present and  people took part in the care of bushes and trees.Tree Plants presented to the institute in Jatwada.
+On this Importance of water and stop wastage of water “Save Water Save Earth”under this theme around 1000 phomplates distributed among civilians of Garkheda Aurangabad .
     <div class="col-md-4 col-lg-4 text-right">
         <img src="https://img.jagranjosh.com/images/2021/June/262021/World-Environment-Day-History.png" class="img-responsive custom-img1" alt="image">
     </div>
@@ -603,13 +596,6 @@ include 'header.php';
         <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/world-environment-day-1622817142.jpg" class="img-responsive custom-img1" alt="image">
     </div>
 </div>
-
-
-
-
-
-
-
 
 
 
