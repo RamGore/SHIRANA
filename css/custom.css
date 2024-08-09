@@ -207,6 +207,29 @@ p{
     margin:0px;
 }
 
+.diwaliii{
+    margin-top:30px;
+}
+.gudi-img{
+    margin-top: 33px;
+}
+.womens-day{
+    margin: 0 auto;
+}
+.womens-day1{
+    margin-top: 49px;
+}
+
+.womens-day2
+{
+    margin-bottom:30px;
+    margin-top:-20px;
+}
+.aids-image{
+margin-bottom:30px;
+}
+
+
 .yoga-img1{
     margin-top:0px !important;
 }
@@ -246,4 +269,7 @@ p{
 }
 .activity-page, .events-page{
     background-color: #f0efeb;
+}
+.footer-logo{
+    color:#ffb606;
 }

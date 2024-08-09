@@ -1104,7 +1104,7 @@ section {
 }
 .welcm-ht {
   position: relative;
-  margin-top: 10px;
+  margin: 10px;
 }
 .welcm-ht a {
   color: #fff;
@@ -1242,7 +1242,6 @@ form.ulockd-reg-form {
   margin-top: 15px;
 }
 .ulockd-ohour-info .ulockd-icon {
-  border-top: 1px solid #ddd;
   font-size: 26px;
   line-height: 1.3em;
   margin-right: 16px;
@@ -1612,7 +1611,7 @@ background-color: #232323;
 .scrollToHome {
 background-color: #798590;
 border: 2px solid #fff;
-bottom: 15%;
+bottom: 10%;
 color: #ffffff;
 display: none;
 font-size: 20px;
@@ -1692,8 +1691,8 @@ background-color: rgba(255, 255, 255, 0.75);
 font-size: 60px;
 position: absolute;
 opacity: .5;
-right: 20px;
-top: 35%;
+right: 4px;
+top: 29%;
 }
 .fclmn-one h3 {
 margin-top: 0;
@@ -1836,7 +1835,7 @@ z-index: 9
 /* ---------- RECENT CAUSES  ---------- */
 .recent-causes {
 background-color: #f9f9f9;
-padding: 90px 0;
+padding: 40px 0;
 }
 .fstory {
 position: relative;
@@ -1999,8 +1998,8 @@ margin-top: 0;
 
 /* ---------- FIRST SERVICE  ---------- */
 .ulockd-service-two {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   z-index: 1;
 }
 .ulockd-service-two::before {
@@ -2015,7 +2014,7 @@ margin-top: 0;
 }
 .ulockd-main-title {
   position: relative;
-  margin-bottom: 45px;
+  margin-bottom: 35px;
 }
 .ulockd-main-title h2 {
   margin-top: 0;
@@ -2541,8 +2540,8 @@ article.ulockd-pd-content {
 }
 .ulockd-service-three {
   background-color: #f9f9f9;
-  padding-bottom: 90px;
-  padding-top: 90px;
+  padding-bottom: 40px;
+  padding-top: 40px;
 }
 .ulockd-main-title h2 {
   color: #111;
@@ -2606,8 +2605,8 @@ article.ulockd-pd-content {
 
 /* ---------- FEATURE SERVICE SECTION  ---------- */
 .ulockd-fservice {
-  padding-bottom: 90px;
-  padding-top: 90px;
+  padding-bottom: 40px;
+  padding-top: 40px;
 }
 .ulockd-fservice.ulockd-ipage {
   padding-bottom: 10px;
@@ -2929,7 +2928,7 @@ article.ulockd-pd-content {
 
 /* ---------- MASONRY FILTER  ---------- */
 .masonry-filter {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 .masonry-filter > li {
   padding-right: 0;
@@ -3388,7 +3387,7 @@ article.ulockd-pd-content {
 /* ---------- OUR PROJECTS  ---------- */
 .our-projects {
   background-color: #f7f7f7;
-  padding: 90px 0;
+  padding: 40px 0;
 }
 .pb-thumb {
   overflow: hidden;

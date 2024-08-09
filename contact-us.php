@@ -58,7 +58,7 @@ include 'header.php';
 						<h4>Office Address</h4>
 					</div>
 					<img class="border-image" src="https://www.salehasevabhavisansthahingoli.org.in/wp-content/uploads/2024/02/border_widget.png" alt="border_widget">
-					<p>House no 2 Lane no 12 ,Pundaliknagar Garkheda,Ch sambhajinagar 431001</p>
+					<p>House no 2 Lane no 12, Pundaliknagar Garkheda, Chh. Sambhajinagar 431001</p>
 				</div>
 				<div class="card">
 					<div class="center">
@@ -102,7 +102,7 @@ include 'header.php';
 									<!-- Name Field -->
 									<div class="col-md-6">
 										<div class="form-group">
-											<input id="form_name" name="form_name" class="form-control ulockd-form-fg required" placeholder="Your name" required="required" data-error="Name is required." type="text">
+											<input id="name" name="name" class="form-control ulockd-form-fg required" placeholder="Your name" required="required" data-error="Name is required." type="text">
 											<span id="nameError" class="error-message"></span>
 											<div class="help-block with-errors"></div>
 										</div>
@@ -110,7 +110,7 @@ include 'header.php';
 									<!-- Email Field -->
 									<div class="col-md-6">
 										<div class="form-group">
-											<input id="form_email" name="form_email" class="form-control ulockd-form-fg required email" placeholder="Your email" required="required" data-error="Email is required." type="email">
+											<input id="email" name="email" class="form-control ulockd-form-fg required email" placeholder="Your email" required="required" data-error="Email is required." type="email">
 											<span id="emailError" class="error-message"></span>
 											<div class="help-block with-errors"></div>
 										</div>
@@ -118,7 +118,7 @@ include 'header.php';
 									<!-- Phone Field -->
 									<div class="col-md-6">
 										<div class="form-group">
-											<input id="form_phone" name="form_phone" class="form-control ulockd-form-fg required" placeholder="Phone" required="required" data-error="Phone Number is required." type="text">
+											<input id="mobile" name="mobile" class="form-control ulockd-form-fg required" placeholder="Phone" required="required" data-error="Phone Number is required." type="text">
 											<span id="mobileError" class="error-message"></span>
 											<div class="help-block with-errors"></div>
 										</div>
@@ -126,7 +126,7 @@ include 'header.php';
 									<!-- Subject Field -->
 									<div class="col-md-6">
 										<div class="form-group">
-											<input id="form_subject" name="form_subject" class="form-control ulockd-form-fg required" placeholder="Subject" required="required" data-error="Subject is required." type="text">
+											<input id="subject" name="subject" class="form-control ulockd-form-fg required" placeholder="Subject" required="required" data-error="Subject is required." type="text">
 											<span id="subjectError" class="error-message"></span>
 											<div class="help-block with-errors"></div>
 										</div>
@@ -134,7 +134,7 @@ include 'header.php';
 									<!-- Message Field -->
 									<div class="col-md-12 mesg-cont">
 										<div class="form-group">
-											<textarea id="form_message" name="form_message" class="form-control ulockd-form-tb required" rows="12" placeholder="Your message" required="required" data-error="Message is required."></textarea>
+											<textarea id="message" name="message" class="form-control ulockd-form-tb required" rows="12" placeholder="Your message" required="required" data-error="Message is required."></textarea>
 											<div class="help-block with-errors"></div>
 										</div>
 										<!-- Submit Button -->
@@ -159,9 +159,42 @@ include 'header.php';
 
 	</section>
 
+<script>
+	document.addEventListener('DOMContentLoaded', function () {
+    const contactForm = document.getElementById('contact_form');
+
+    contactForm.addEventListener('submit', function (event) {
+        event.preventDefault(); // Prevent the default form submission
+
+        // Create a FormData object to hold the form data
+        const formData = new FormData(contactForm);
+
+        // Send the form data using fetch
+        fetch('backend/contact.php', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.text()) // Parse the response as text
+        .then(data => {
+            // Handle the success response
+            console.log(data);
+            alert('Form submitted successfully.');
+            contactForm.reset(); // Optionally reset the form after successful submission
+        })
+        .catch(error => {
+            // Handle any errors
+            console.error('Error:', error);
+            alert('There was an error submitting the form. Please try again.');
+        });
+    });
+});
+
+</script>
 
 
-<script src="./send_email_data.php"></script>
+
+
+<!-- <script src="./send_email_data.php"></script>
 
 	<script>
 		document.getElementById('inquiryForm').onsubmit = function(event) {
@@ -172,7 +205,7 @@ include 'header.php';
 			var name = document.getElementById('form_name').value.trim();
 			var email = document.getElementById('form_email').value.trim();
 			var mobile = document.getElementById('form_phone').value.trim();
-			var service = document.getElementById('form_subject').value;
+			var subject = document.getElementById('form_subject').value;
 			var message = document.getElementById('form_message').value.trim();
 
 			// Simple email validation regex
@@ -204,14 +237,14 @@ include 'header.php';
 				document.getElementById('mobileError').innerText = 'Please enter a valid mobile number (10 digits).';
 				isValid = false;
 			}
-			//if (service === 'Select Subject*' || service === '') {
-			//	document.getElementById('subjectError').innerText = 'Please select a subject.';
-			//	isValid = false;
-			//}
-			// if (message === '') {
-			// 	document.getElementById('messageError').innerText = 'Please enter your message.';
-			// 	isValid = false;
-			// }
+			if (subject === '' || subject === '') {
+				document.getElementById('subjectError').innerText = 'Please enter a subject.';
+				isValid = false;
+			}
+			if (message === '') {
+				document.getElementById('messageError').innerText = 'Please enter your message.';
+				isValid = false;
+			}
 
 			// If all validations pass, submit the form
 			if (isValid) {
@@ -220,7 +253,9 @@ include 'header.php';
 		};
 	</script>
 	<a class="scrollToHome" href="#"><i class="fa fa-home"></i></a>
-</div>
+</div> -->
+
+
 
 
 <?php
