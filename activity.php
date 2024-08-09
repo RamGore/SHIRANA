@@ -1,7 +1,7 @@
 <?php
 include 'header.php';
 ?>
-
+<main>
     <!-- Home Design Inner Pages -->
     <div class="ulockd-inner-home">
         <div class="container text-center">
@@ -39,16 +39,17 @@ include 'header.php';
             </div>
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201910/Happy_Diwali_Golden_Lamp_4K_Wa_0.jpeg?size=690:388"
-                    class="img-responsive custom-img1" alt="image">
+                    class="img-responsive custom-img1 responsive" alt="image">
             </div>
-        </div>
+            </div>
+       
 
 
 
 
 
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://utsav.gov.in/public/festival_top/1659608853.jpg" class="img-responsive custom-img1"
+            <img src="https://utsav.gov.in/public/festival_top/1659608853.jpg" class="img-responsive custom-img1 responsive2"
                 alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -90,17 +91,12 @@ include 'header.php';
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://pragativadi.com/core/uploads/2023/11/images-46.jpeg" class="img-responsive custom-img1"
+            <img src="https://pragativadi.com/core/uploads/2023/11/images-46.jpeg" class="img-responsive custom-img1 responsive3"
                 alt="image">
         </div>
     </div>
 
-
-
-
-
-
-    <!-- holi -->
+<!-- holi -->
     <div class="container">
         <div class="row about2 align-items-center">
             <h1 class="our-vision-credo">HOLI CELEBRATION</h1>
@@ -108,7 +104,7 @@ include 'header.php';
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://www.podareducation.org/Uploads/content/2024-3-22--14-40-21-311_The-Story-Behind-Why-Do-We-Celebrate-the-Holi-Festival-banner.jpg"
-                    class="img-responsive custom-img1 img11" alt="image">
+                    class="img-responsive custom-img1 img11 responsive4" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
@@ -130,13 +126,6 @@ include 'header.php';
 
         </div>
     </div>
-
-
-
-
-
-
-
 
 
 
@@ -168,16 +157,12 @@ include 'header.php';
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://instantbharatnews.in/wp-content/uploads/2024/04/Happy-gudi-padwa.webp"
-                    class="img-responsive custom-img1 img11 gudi-img" alt="image">
+                    class="img-responsive custom-img1 img11 gudi-img responsive5" alt="image">
             </div>
 
 
         </div>
     </div>
-
-
-
-
 
 
 
@@ -188,7 +173,7 @@ include 'header.php';
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://marketplace.canva.com/EAFap1V35Zg/1/0/1600w/canva-blue-illustrative-simple-8-march-international-womens-day-instagram-post-9Aa_0jK1Nd8.jpg"
-                    class="img-responsive custom-img1 womens-day" alt="image">
+                    class="img-responsive custom-img1 womens-day responsive6" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
@@ -216,7 +201,7 @@ include 'header.php';
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://i.pinimg.com/736x/66/03/50/6603505f093f120d7271630cedaf4ef1.jpg" class="img-responsive custom-img1 womens-day1"
+            <img src="https://i.pinimg.com/736x/66/03/50/6603505f093f120d7271630cedaf4ef1.jpg" class="img-responsive custom-img1 womens-day1 responsive7"
                 alt="image">
         </div>
     </div>
@@ -225,7 +210,7 @@ include 'header.php';
 
     <div class="col-md-4 col-lg-4 text-right">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4mX3NMip1e8H0GRpuXYbcYLNS2j2ESbnxlpf0SVBESgXHA5fqwwa4YF-ttxrY7nWdq8&usqp=CAU"
-                class="img-responsive custom-img1 womens-day2" alt="image">
+                class="img-responsive custom-img1 womens-day2 responsive8" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -240,13 +225,6 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
         </div>
     </div>
     </div>
-
-
-
-
-
-
-
 
 
     <!-- handicap training programm -->
@@ -270,17 +248,12 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://i0.wp.com/bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2019/04/Disability-Exercise-2.jpg?resize=660%2C371&ssl=1"
-                    class="img-responsive custom-img1 img11" alt="image">
+                    class="img-responsive custom-img1 img11 responsive9" alt="image">
             </div>
 
 
         </div>
     </div>
-
-
-
-
-
 
 <!-- aids awareness -->
 
@@ -291,7 +264,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://designimages.appypie.com/allimages/hivaidsposter8.png"
-                    class="img-responsive custom-img1 img11 aids-image" alt="image">
+                    class="img-responsive custom-img1 img11 aids-image responsive10" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
@@ -306,10 +279,6 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
 
         </div>
     </div>
-
-
-
-
 
 
     <!-- health day -->
@@ -329,14 +298,14 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://images.news9live.com/wp-content/uploads/2024/04/Untitled-design-2024-04-03T163630.109.png" class="img-responsive custom-img1"
+            <img src="https://images.news9live.com/wp-content/uploads/2024/04/Untitled-design-2024-04-03T163630.109.png" class="img-responsive custom-img1 responsive11"
                 alt="image">
         </div>
      </div>
      <div class="row">
      <div class="col-md-4 col-lg-4 text-right">
             <img src="https://images.news9live.com/wp-content/uploads/2024/04/World-Health-Day-2024.jpg?w=1200&enlarge=true"
-                class="img-responsive custom-img1" alt="image">
+                class="img-responsive custom-img1 responsive12" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -360,9 +329,6 @@ Hanumannagar.Around 140 peoples gone through this camp benefits.
         </div>
 
 
-
-
-
         <!-- yoga day -->
         <div class="container">
         <div class="row about2 align-items-center">
@@ -378,7 +344,7 @@ Hanumannagar.Around 140 peoples gone through this camp benefits.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://media.assettype.com/bloombergquint%2F2023-06%2Fefa07034-8196-42e0-9642-ff53c822150b%2Fpiyush_09_05_08.jpg?auto=format%2Ccompress&w=1200" class="img-responsive custom-img1 yoga-img1"
+            <img src="https://media.assettype.com/bloombergquint%2F2023-06%2Fefa07034-8196-42e0-9642-ff53c822150b%2Fpiyush_09_05_08.jpg?auto=format%2Ccompress&w=1200" class="img-responsive custom-img1 yoga-img1 responsive13"
                 alt="image">
         </div>
     </div>
@@ -387,7 +353,7 @@ Hanumannagar.Around 140 peoples gone through this camp benefits.
 
     <div class="col-md-4 col-lg-4 text-right">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvSPWX5cJDfAYzV4chRyfI8n-sSGrpvkFIiN1FhHkt_a_ei2_9-626MUoHZDDzHSlYvo&usqp=CAU"
-                class="img-responsive custom-img1 yoga-img2" alt="image">
+                class="img-responsive custom-img1 yoga-img2 responsive14" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -403,11 +369,6 @@ tatu stressed the significance of yoga.
         </div>
     </div>
     </div>
-
-
-
-
-
 
 
 
@@ -433,16 +394,12 @@ Everybody enjoyed the celebration.
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://d16qttj5aycdv0.cloudfront.net/upload/book_image/resize_bigVysan_Mukti_Hindi_-_Tital_1607664570.jpg"
-                    class="img-responsive custom-img1 img11 vysan-mukti" alt="image">
+                    class="img-responsive custom-img1 img11 vysan-mukti responsive15" alt="image">
             </div>
 
 
         </div>
     </div>
-
-
-
-
 
 
 
@@ -454,7 +411,7 @@ Everybody enjoyed the celebration.
     <h1 class="our-vision-credo">CELEBRATION OF MAKAR SANKRANTI</h1>
     <div class="col-md-4 col-lg-4 text-right">
             <img src="https://as1.ftcdn.net/v2/jpg/03/13/76/20/1000_F_313762037_7NTqtrZnEGK0CZtOqp8TsEQPJG0GURWR.jpg"
-                class="img-responsive custom-img1 makar1" alt="image">
+                class="img-responsive custom-img1 makar1 responsive16" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -487,14 +444,11 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/272862111104999.5ffc14553015a.jpg" class="img-responsive custom-img1 makar2"
+            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/272862111104999.5ffc14553015a.jpg" class="img-responsive custom-img1 makar2 responsive17"
                 alt="image">
         </div>
     </div>
     </div>
-
-
-
 
 
 
@@ -506,7 +460,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://images.onlymyhealth.com/imported/images/2024/June/14_Jun_2024/mn-donor.jpg"
-                    class="img-responsive custom-img1" alt="image">
+                    class="img-responsive custom-img1 responsive18" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
@@ -532,7 +486,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://batonrougeclinic.com/wp-content/uploads/2022/01/Baldwin-1-10-Reasons-to-Donate-Blood-e1641235978110.jpg" class="img-responsive custom-img1"
+            <img src="https://batonrougeclinic.com/wp-content/uploads/2022/01/Baldwin-1-10-Reasons-to-Donate-Blood-e1641235978110.jpg " class="img-responsive custom-img1 responsive19"
                 alt="image">
         </div>
     </div>
@@ -541,7 +495,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
 
     <div class="col-md-4 col-lg-4 text-right">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRD13hsVUIQSmBngDB3ZcDupEfc6sAYvPI308zKZnDn1U5yWqWJs5xY7of25Pgc-0Ri24&usqp=CAU"
-                class="img-responsive custom-img1" alt="image">
+                class="img-responsive custom-img1 responsive20" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -560,11 +514,6 @@ bags blood was collected. Celebration ended by distributing sweets and fruits.
     </div>
     </div>
 
-
-
-
-
-
 <!-- environmental day -->
 <div class="container">
         <div class="row about2 align-items-center">
@@ -580,7 +529,7 @@ bags blood was collected. Celebration ended by distributing sweets and fruits.
             </div>
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://www.careinsurance.com/upload_master/media/posts/June2024/world-environment-day.webp"
-                    class="img-responsive custom-img1 environment1" alt="image">
+                    class="img-responsive custom-img1 environment1 responsive21" alt="image">
             </div>
         </div>
 
@@ -589,7 +538,7 @@ bags blood was collected. Celebration ended by distributing sweets and fruits.
 
 
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://img.jagranjosh.com/images/2021/June/262021/World-Environment-Day-History.png" class="img-responsive custom-img1"
+            <img src="https://img.jagranjosh.com/images/2021/June/262021/World-Environment-Day-History.png" class="img-responsive custom-img1 responsive22"
                 alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -622,17 +571,10 @@ families were present and people took part in the care of bushes and trees.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/world-environment-day-1622817142.jpg" class="img-responsive custom-img1"
+            <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/world-environment-day-1622817142.jpg" class="img-responsive custom-img1 responsive23"
                 alt="image">
         </div>
     </div>
-
-
-
-
-
-
-
 
 
 
