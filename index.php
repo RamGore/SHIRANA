@@ -18,10 +18,10 @@ include 'header.php';
 
 						<li class="selected from-right">
 							<div class="cd-full-width">
-								<h1>We Are <span class="text-thm2"> NAGARI VIKAS SEVABHAVI SANSTHA
+								<h1 class="responsive1">We Are <span class="text-thm2 responsive1"> NAGARI VIKAS SEVABHAVI SANSTHA
 									</span></h1>
 
-								<h4>We Build a Fundraising For Help Less People</h4>
+								<h4 class="responsive2">We Build a Fundraising For Help Less People</h4>
 							</div> <!-- .cd-half-width -->
 						</li>
 
