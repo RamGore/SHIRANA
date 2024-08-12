@@ -1,6 +1,5 @@
 <?php
-include 'header.php';
-?>
+include 'header.php'; ?>
 
 <script src="js/main.js"></script>
 <!-- Home Design -->
@@ -12,7 +11,7 @@ include 'header.php';
 					<ul class="cd-hero-slider autoplay">
 						<li class="move-left">
 							<div class="cd-full-width">
-								<h1><span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA</span></h1>
+								<h1><span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA2</span></h1>
 							</div> <!-- .cd-full-width -->
 						</li>
 
@@ -231,19 +230,19 @@ include 'header.php';
 										"delay": 5000
 									},
 									"slidesPerView": "auto",
-							
+
 									"pagination": {
 										"el": ".swiper-pagination",
 										"type": "bullets",
 										"clickable": true
 									}
-								} 
+								}
 							</script>
 
 							<!-- Swiper wrapper -->
 							<div class="swiper-wrapper">
 
-							
+
 								<!-- Events item 1 -->
 								<div class="swiper-slide">
 									<div class="testimonial-item">
@@ -267,7 +266,7 @@ include 'header.php';
 								</div>
 								<!-- End Events item -->
 
-								
+
 								<!-- Events item 2 -->
 								<div class="swiper-slide">
 									<div class="testimonial-item">
@@ -291,7 +290,7 @@ include 'header.php';
 								</div>
 								<!-- End Events item -->
 
-								
+
 								<!-- Events item 3 -->
 								<div class="swiper-slide">
 									<div class="testimonial-item">
@@ -315,7 +314,7 @@ include 'header.php';
 								</div>
 								<!-- End Events item -->
 
-								
+
 
 								<!-- Events item 4 -->
 								<div class="swiper-slide">
@@ -340,7 +339,7 @@ include 'header.php';
 								</div>
 								<!-- End Events item -->
 
-								
+
 							</div>
 						</div>
 						<div class="swiper-pagination"></div>
@@ -691,6 +690,5 @@ include 'header.php';
 
 
 
-<?php
-include 'footer.php';
+<?php include 'footer.php';
 ?>
