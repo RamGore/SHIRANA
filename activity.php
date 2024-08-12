@@ -20,10 +20,10 @@ include 'header.php';
 
     <!--diwali-->
     <div class="container diwaliii">
-        <div class="row about2 align-items-center">
+        <div class="row about2 align-items-center reverse">
             <h1 class="our-vision-credo">CELEBRATION OF DIWALI</h1>
 
-            <div class="col-md-8 col-lg-8 text-left reverse">
+            <div class="col-md-8 col-lg-8 text-left ">
                 <div class="ulockd-main-title">
                     <p class="abt-txt">
                         <strong><span class="vision-sec">(4th November 2021)
@@ -73,7 +73,7 @@ include 'header.php';
 
 
 
-
+<div class="row reverse">
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -94,6 +94,7 @@ include 'header.php';
             <img src="https://pragativadi.com/core/uploads/2023/11/images-46.jpeg" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
+    </div>
     </div>
 
 <!-- holi -->
@@ -136,7 +137,7 @@ include 'header.php';
             <h1 class="our-vision-credo">GUDI PADWA CELEBRATION
             </h1>
 
-
+<div class="reverse">
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
                     <p class="abt-txt">
@@ -161,7 +162,7 @@ include 'header.php';
             </div>
 
 
-        </div>
+        </div></div>
     </div>
 
 
@@ -188,7 +189,7 @@ include 'header.php';
 
 
 
-
+<div class="reverse">
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -204,6 +205,7 @@ include 'header.php';
             <img src="https://i.pinimg.com/736x/66/03/50/6603505f093f120d7271630cedaf4ef1.jpg" class="img-responsive custom-img1 womens-day1 responsive"
                 alt="image">
         </div>
+    </div>
     </div>
 
     <div class="row">
@@ -230,11 +232,12 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
     <!-- handicap training programm -->
 
 
-    <div class="container" id="HANDICAPPED">
+    <div class="container">
         <div class="row about2 align-items-center">
             <h1 class="our-vision-credo">HANDICAPPED TRAINING  PROGRAM
             </h1>
 
+<div class="reverse">
 
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
@@ -253,7 +256,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
 
 
         </div>
-    </div>
+    </div></div>
 
 <!-- aids awareness -->
 
@@ -285,7 +288,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
      <div class="container">
         <div class="row about2 align-items-center">
         <h1 class="our-vision-credo">WORLD HEALTH DAY</h1>   
-        <div class="row">
+        <div class="row reverse">
      <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -302,6 +305,8 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
                 alt="image">
         </div>
      </div>
+
+
      <div class="row">
      <div class="col-md-4 col-lg-4 text-right">
             <img src="https://images.news9live.com/wp-content/uploads/2024/04/World-Health-Day-2024.jpg?w=1200&enlarge=true"
@@ -330,11 +335,11 @@ Hanumannagar.Around 140 peoples gone through this camp benefits.
 
 
         <!-- yoga day -->
-        <div class="container" id="YOGA">
+        <div class="container">
         <div class="row about2 align-items-center">
             <h1 class="our-vision-credo">INTERNATIONAL YOGA DAY </h1>
 
-         
+        <div class="reverse"> 
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -348,7 +353,7 @@ Hanumannagar.Around 140 peoples gone through this camp benefits.
                 alt="image">
         </div>
     </div>
-
+    </div>
     <div class="row">
 
     <div class="col-md-4 col-lg-4 text-right">
@@ -379,7 +384,7 @@ tatu stressed the significance of yoga.
             <h1 class="our-vision-credo">VYASAN MUKTI ( Addiction Free)AND CANCER AWARENESS NEW YEAR CELEBRATION
             </h1>
 
-
+<div class="reverse">
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
                     <p class="abt-txt">
@@ -401,7 +406,7 @@ Everybody enjoyed the celebration.
         </div>
     </div>
 
-
+    </div>
 
 <!-- makar sankrant -->
 <div class="container">
@@ -430,7 +435,7 @@ distributed to the women as a gift for Haldi kumkum program.
     <div class="row about2 align-items-center">
           
 
-         
+         <div class="reverse">
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -448,13 +453,13 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
                 alt="image">
         </div>
     </div>
-    </div>
+    </div></div>
 
 
 
 
 <!-- blood camp -->
-<div class="container" id="BLOOD">
+<div class="container">
         <div class="row about2 align-items-center">
             <h1 class="our-vision-credo"> BLOOD DONATION CAMP</h1>
 
@@ -475,7 +480,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
 
 
 
-
+<div class="reverse">
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -489,6 +494,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
             <img src="https://batonrougeclinic.com/wp-content/uploads/2022/01/Baldwin-1-10-Reasons-to-Donate-Blood-e1641235978110.jpg " class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
+    </div>
     </div>
 
     <div class="row">
@@ -515,10 +521,10 @@ bags blood was collected. Celebration ended by distributing sweets and fruits.
     </div>
 
 <!-- environmental day -->
-<div class="container" id="ENVIRONMENT">
+<div class="container">
         <div class="row about2 align-items-center">
             <h1 class="our-vision-credo">WORLD ENVIRONMENT DAY</h1>
-
+<div class="reverse">
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
                     <p class="abt-txt">
@@ -532,7 +538,7 @@ bags blood was collected. Celebration ended by distributing sweets and fruits.
                     class="img-responsive custom-img1 environment1 responsive" alt="image">
             </div>
         </div>
-
+        </div>
 
 
 
@@ -556,7 +562,7 @@ On this Importance of water and stop wastage of water â€œSave Water Save Earthâ€
 
 
 
-
+<div class="reverse">
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -576,7 +582,7 @@ families were present and people took part in the care of bushes and trees.
         </div>
     </div>
 
-
+    </div>
 
     </section>
     </main>

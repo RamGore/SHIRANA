@@ -387,14 +387,22 @@ p {
   -webkit-background-clip: text;
   clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
 }
-@media (min-width:300px) and (max-width:1200){
+
+@media(min-width:300px)and (max-width:1000px){
   .responsive{
-margin:0 auto;
+    margin:0 auto;
+  }
+  .abt-txt{
+    text-align: center;
+  }
+  .paraaa{
+    margin-top: 10px!important;
+  }
+  .reverse{
+    display: flex;
+    flex-direction: column-reverse;
   }
 }
-
-
-
 
 
 

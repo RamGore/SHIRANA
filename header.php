@@ -96,12 +96,11 @@
 							<div class="ulockd-icon pull-left text-thm2"><span class="flaticon-make-a-donation"></span></div>
 							<div class="ulockd-info">
 								<!-- Trigger the modal with a button -->
-								<button type="button" class="btn btn-lg ulockd-btn-thm2 ulockd-mrgn1215 ulockd-mrgn610" data-toggle="modal" data-target=".bs-example-modal-default">Donate now</button>
+								<button type="button" class="btn btn-lg ulockd-btn-thm2 ulockd-mrgn1215 ulockd-mrgn610" data-toggle="modal" data-target=".bs-example-modal-default"><a href="donate.php">Donate now</a></button>
 								<!-- Modal -->
-								<div id="Donation-form-modal" class="modal fade bs-example-modal-default text-left" role="dialog">
+								<!-- <div id="Donation-form-modal" class="modal fade bs-example-modal-default text-left" role="dialog">
 									<div class="modal-dialog">
 
-										<!-- Modal content-->
 										<div class="modal-content">
 											<div class="modal-header text-center">
 												<button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -223,7 +222,7 @@
 											</div>
 										</div>
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -261,9 +260,7 @@
 										CENTER</p>
 								</div>
 							</div>
-							<!-- End Header Navigation -->
-
-							<!-- Collect the nav links, forms, and other content for toggling -->
+							
 							<div class="collapse navbar-collapse" id="navbar-menu">
 								<ul class="nav navbar-nav navbar-left">
 
@@ -290,7 +287,7 @@
 										<a href="contact-us">Contact Us</a>
 									</li>
 								</ul>
-							</div><!-- /.navbar-collapse -->
+							</div><!-- navbar-collapse -->
 						</div>
 
 						<!-- Start Side Menu -->
