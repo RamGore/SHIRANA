@@ -254,8 +254,7 @@
 									<i class="fa fa-bars"></i>
 								</button>
 								<div class="display welcm-ht text-center">
-									<p class="ulockd-welcntxt">SHIRANA WOMEN ENTERPENUAR DEVELOPMENT
-										CENTER</p>
+									<p class="ulockd-welcntxt">NAGARI VIKAS SEVABHAVI SANSTHA</p>
 								</div>
 							</div>
 							
