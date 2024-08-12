@@ -23,7 +23,7 @@ include 'header.php';
     <div class="container diwaliii">
         <div class="row about2 align-items-center">
             <h1 class="our-vision-credo">Celebration of Birth Aniversary of Dr. BabasahebAmbedkar</h1>
-
+<div class="reverse">
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
                     <p class="abt-txt">
@@ -34,8 +34,9 @@ include 'header.php';
             </div>
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLipDec1p3oVplweVDbYQ6OeqAGxRSPQitpQg9Za07YdYFdwBHbbcKw0ohgQFBw5IlNCg&usqp=CAU"
-                    class="img-responsive custom-img1" alt="image">
+                    class="img-responsive custom-img1 responsive" alt="image">
             </div>
+        </div>
         </div>
 
 
@@ -43,7 +44,7 @@ include 'header.php';
 
 
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://images.news9live.com/wp-content/uploads/2024/04/Ambedkar-Jayanti-2024-Banner-3-e1712736105607.jpg" class="img-responsive custom-img1"
+            <img src="https://images.news9live.com/wp-content/uploads/2024/04/Ambedkar-Jayanti-2024-Banner-3-e1712736105607.jpg" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -59,7 +60,7 @@ include 'header.php';
 
 
 
-
+<div class="reverse">
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -74,8 +75,9 @@ Tatu Lalchand expressesd his honest gratitude for Dr. Babasaheb Ambedkar.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://i.ytimg.com/vi/rKJoXAAx9vw/maxresdefault.jpg" class="img-responsive custom-img1"
+            <img src="https://i.ytimg.com/vi/rKJoXAAx9vw/maxresdefault.jpg" class="img-responsive custom-img1 responsive"
                 alt="image">
+        </div>
         </div>
     </div>
 
@@ -92,7 +94,7 @@ Tatu Lalchand expressesd his honest gratitude for Dr. Babasaheb Ambedkar.
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://t4.ftcdn.net/jpg/05/00/42/77/360_F_500427775_ifULmeH1wJ2axNamQaR6HmU2a6imqqt2.jpg"
-                    class="img-responsive custom-img1 img11" alt="image">
+                    class="img-responsive custom-img1 img11 responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
@@ -102,7 +104,7 @@ Tatu Lalchand expressesd his honest gratitude for Dr. Babasaheb Ambedkar.
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row reverse">
        
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
@@ -119,7 +121,7 @@ President’s speech Mr Tatu lalchand.
             </div>
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://www.shutterstock.com/image-vector/calligraphy-hindi-marathi-which-translates-260nw-1964024371.jpg"
-                    class="img-responsive custom-img1 img11" alt="image">
+                    class="img-responsive custom-img1 img11 responsive" alt="image">
             </div>
         </div>
     </div>
@@ -142,7 +144,7 @@ President’s speech Mr Tatu lalchand.
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://i.pinimg.com/originals/8c/5d/51/8c5d51233f1496963f1f16e084d2edc9.jpg"
-                    class="img-responsive custom-img1 img11 gudi-img" alt="image">
+                    class="img-responsive custom-img1 img11 gudi-img responsive" alt="image">
             </div>
 
             <div class="col-md-8 col-lg-8 text-left">
@@ -158,7 +160,7 @@ President’s speech Mr Tatu lalchand.
 
 
         </div>
-        <div class="row">
+        <div class="row reverse">
      
 
 
@@ -177,7 +179,7 @@ distributed on the occasion.
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://d3jbu7vaxvlagf.cloudfront.net/v2/category_meta_images/chhatrapati_sambhaji_maharaj_jayanti_poster_17147293439501.webp"
-                    class="img-responsive custom-img1 img11 gudi-img" alt="image">
+                    class="img-responsive custom-img1 img11 gudi-img responsive" alt="image">
             </div>
 
 
@@ -198,7 +200,7 @@ distributed on the occasion.
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://rukminim2.flixcart.com/image/850/1000/xif0q/painting/r/u/h/8-1-maharana-pratap-photo-maharana-pratap-painting-maharana-original-imagzwwvgphwbrhp.jpeg?q=90&crop=false"
-                    class="img-responsive custom-img1 womens-day" alt="image">
+                    class="img-responsive custom-img1 womens-day responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
@@ -212,7 +214,7 @@ distributed on the occasion.
         
 
 
-
+<div class="reverse">
 
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -228,8 +230,9 @@ On this occasion all students who secure high marks in their academic exam ,from
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://newindian.in/wp-content/uploads/2023/01/4b6d463dc41cb344c8d29edd5d13315f.jpg" class="img-responsive custom-img1 womens-day1"
+            <img src="https://newindian.in/wp-content/uploads/2023/01/4b6d463dc41cb344c8d29edd5d13315f.jpg" class="img-responsive custom-img1 womens-day1 responsive"
                 alt="image">
+        </div>
         </div>
     </div>
 
@@ -237,7 +240,7 @@ On this occasion all students who secure high marks in their academic exam ,from
 
     <div class="col-md-4 col-lg-4 text-right">
             <img src="https://m.media-amazon.com/images/I/41t7My0HfjL._AC_UF1000,1000_QL80_.jpg"
-                class="img-responsive custom-img1" alt="image">
+                class="img-responsive custom-img1 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -274,7 +277,7 @@ hanuman colony.
             <h1 class="our-vision-credo">CELEBRATION OF INDEPENDENCE DAY
             </h1>
 
-
+<div class="reverse">
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -296,7 +299,8 @@ thanks to all villagers and organisers for arranging the celebration.
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://www.vmcdn.ca/f/files/bradfordtoday/images/town-of-bradford/3_flag-aug17.png;w=800"
-                    class="img-responsive custom-img1 img11 aug-img" alt="image">
+                    class="img-responsive custom-img1 img11 aug-img responsive" alt="image">
+            </div>
             </div>
 
 
@@ -305,7 +309,7 @@ thanks to all villagers and organisers for arranging the celebration.
 
         <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://c8.alamy.com/comp/2C562XK/indian-happy-independence-day-celebration-15-august-with-gateway-and-map-of-india-2C562XK.jpg"
-                    class="img-responsive custom-img1 img11 aug-img" alt="image">
+                    class="img-responsive custom-img1 img11 aug-img responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
              
@@ -345,7 +349,7 @@ thanks to all villagers and organisers for arranging the celebration.
             <h1 class="our-vision-credo">TEACHERS DAY</h1>
 
 
-          
+          <div class="reverse">
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
                     <p class="abt-txt">
@@ -359,16 +363,16 @@ On this day essay writing competition was conducted among the children of 5 th t
             </div>
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2023/09/teachers-day-1-1693823289.jpg"
-                    class="img-responsive custom-img1 img11 aids-image" alt="image">
+                    class="img-responsive custom-img1 img11 aids-image responsive" alt="image">
             </div>
-
+            </div>
 
         </div>
 
 <div class="row">
 <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://www.hindustantimes.com/ht-img/img/2023/10/04/550x309/F7gKwhVW4AAfbvc_1696424901264_1696425115431.jfif"
-                    class="img-responsive custom-img1 img11 aids-image" alt="image">
+                    class="img-responsive custom-img1 img11 aids-image responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
@@ -400,7 +404,7 @@ progressed country. The program was ended with a special lunch.
      <div class="container">
         <div class="row about2 align-items-center">
         <h1 class="our-vision-credo">CELEBRATION OF BIRTH ANNIVERSARY OF MAHATMA GANDHI</h1>   
-        <div class="row">
+        <div class="row reverse">
      <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -414,14 +418,14 @@ Along with Gandhiji, tribute was also given to Former Prime Minister Shri. LalBa
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://i0.wp.com/ketto.blog/wp-content/uploads/2023/09/Artboard-6-1.jpg?fit=1024%2C576&ssl=1" class="img-responsive custom-img1"
+            <img src="https://i0.wp.com/ketto.blog/wp-content/uploads/2023/09/Artboard-6-1.jpg?fit=1024%2C576&ssl=1" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
      </div>
      <div class="row">
      <div class="col-md-4 col-lg-4 text-right">
             <img src="https://infinitylearn.com/surge/wp-content/uploads/2022/01/Gandhi-Jayanti-Celebration.jpg"
-                class="img-responsive custom-img1" alt="image">
+                class="img-responsive custom-img1 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -435,7 +439,7 @@ Along with Gandhiji, tribute was also given to Former Prime Minister Shri. LalBa
         </div>
      </div>
 
-     <div class="row">
+     <div class="row reverse">
      <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -456,7 +460,7 @@ Health and Hygiene was shared among the citizens.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/10/gandhi-jayanti-3-1664614823.jpg" class="img-responsive custom-img gandhi-img"
+            <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/10/gandhi-jayanti-3-1664614823.jpg" class="img-responsive custom-img gandhi-img responsive"
                 alt="image">
         </div>  
      </div>
@@ -474,7 +478,7 @@ Health and Hygiene was shared among the citizens.
 
 <div class="col-md-4 col-lg-4 text-right">
         <img src="https://cdnjs.angroos.com/wp-content/uploads/2024/01/1-1.jpg"
-            class="img-responsive custom-img1 yoga-img2" alt="image">
+            class="img-responsive custom-img1 yoga-img2 responsive" alt="image">
     </div>
     <div class="col-md-8 col-lg-8 text-left">
         <div class="ulockd-main-title">
@@ -490,7 +494,7 @@ Republic Day was celebrated with great enthusiasm.
         <div class="row about2 align-items-center">
            
 
-         
+         <div class="reverse">
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
                 <p class="abt-txt">
@@ -506,12 +510,12 @@ Republic Day was celebrated with great enthusiasm.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://images.news18.com/ibnlive/uploads/2022/01/republic-day-2022.jpg" class="img-responsive custom-img1 republic-img"
+            <img src="https://images.news18.com/ibnlive/uploads/2022/01/republic-day-2022.jpg" class="img-responsive custom-img1 republic-img responsive"
                 alt="image">
         </div>
     </div>
 
-
+    </div>
     </div>
 
 
@@ -530,7 +534,7 @@ Republic Day was celebrated with great enthusiasm.
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://images.news18.com/ibnlive/uploads/2024/02/happy-shivaji-jayanti-2024-wishes-messages-2-2024-02-0a2c410ef3f7130a6eb47f31c3ddc8bd-scaled.jpg?impolicy=website&width=0&height=0"
-                    class="img-responsive custom-img1 img11 vysan-mukti" alt="image">
+                    class="img-responsive custom-img1 img11 vysan-mukti responsive" alt="image">
             </div>
 
             <div class="col-md-8 col-lg-8 text-left">

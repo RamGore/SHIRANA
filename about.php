@@ -28,7 +28,7 @@ include 'header.php';
     <!-- About Us Section 1 -->
     <section class="ulockd-team-two abt-section end-padding">
         <div class="container">
-            <div class="row about1 align-items-center">
+            <div class="row about1 align-items-center reverse">
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">
                         <p class="abt-txt">
@@ -40,7 +40,7 @@ include 'header.php';
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4 text-right">
-                    <img src="https://img.freepik.com/free-photo/people-stacking-hands-together-park_53876-63293.jpg" class="img-responsive custom-img" alt="image">
+                    <img src="https://img.freepik.com/free-photo/people-stacking-hands-together-park_53876-63293.jpg" class="img-responsive custom-img responsive" alt="image">
                 </div>
             </div>
 
@@ -48,7 +48,7 @@ include 'header.php';
             <div class="row about2 align-items-center">
                 <h1 class="our-vision-credo">OUR VISION & CREDO</h1>
                 <div class="col-md-4 col-lg-4 text-right">
-                    <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1" alt="image">
+                    <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1  responsive" alt="image">
                 </div>
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">
@@ -62,10 +62,12 @@ include 'header.php';
             </div>
 
             <!-- Section 3 -->
-            <div class="row align-items-center">
+            <div class="row align-items-center ">
                 <h1 class="our-vision-credo">CORE VALUES</h1>
+                <div class="reverse">
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">
+                        <p class="paraaa">
                         <ul class="values-list">
                             <li>TRANSPARENCY</li>
                             <li>HONESTY</li>
@@ -73,10 +75,12 @@ include 'header.php';
                             <li>INTEGRITY</li>
                             <li>DISCIPLINE</li>
                         </ul>
+                        </p>
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4 text-right">
-                    <img src="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2018-11/shutterstock_1129474973.jpg?itok=4yynA7YP" class="img-responsive custom-img2" alt="image">
+                    <img src="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2018-11/shutterstock_1129474973.jpg?itok=4yynA7YP" class="img-responsive custom-img2  responsive" alt="image">
+                </div>
                 </div>
             </div>
 
@@ -84,7 +88,7 @@ include 'header.php';
             <div class="row about3 align-items-center">
                 <h1 class="our-vision-credo">PURPOSE</h1>
                 <div class="col-md-4 col-lg-4 text-right">
-                    <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1" alt="image">
+                    <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1 responsive" alt="image">
                 </div>
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">
@@ -104,6 +108,7 @@ include 'header.php';
             <!-- Section 5 -->
             <div class="row align-items-center">
                 <h1 class="our-vision-credo headingg">DESCRIPTION OF PROJECT</h1>
+                <div class="reverse">
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">
                         <p class="abt-txt">
@@ -112,8 +117,9 @@ include 'header.php';
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4 text-right">
-                    <img src="https://www.globalsocialleaders.com/wp-content/uploads/2021/02/sb-game-hacker.jpg" class="img-responsive custom-img6" alt="image">
+                    <img src="https://www.globalsocialleaders.com/wp-content/uploads/2021/02/sb-game-hacker.jpg" class="img-responsive custom-img6 responsive" alt="image">
                 </div>
+            </div>
             </div>
         </div>
     </section>

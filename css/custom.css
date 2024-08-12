@@ -388,176 +388,21 @@ p {
   clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
 }
 
-@media (min-width: 360px)   {
-  .responsive {
-   margin:0 auto;
-  }
-  .responsive1 {
-   margin:0 auto;
-  }
-  .responsive2 {
-   margin:0 auto;
-  }
-  .responsive3 {
-   margin:0 auto;
-  }
-  .responsive4 {
-   margin:0 auto;
-  }
-  .responsive5 {
-   margin:0 auto;
-  }
-  .responsive6 {
-   margin:0 auto;
-  }
-  .responsive7 {
-   margin:0 auto;
-  }
-  .responsive8 {
-   margin:0 auto;
-  }
-  .responsive9 {
-   margin:0 auto;
-  }
-  .responsive10 {
-   margin:0 auto;
-  }
-  .responsive11 {
-   margin:0 auto;
-  }
-  .responsive12 {
-   margin:0 auto;
-  }
-  .responsive13 {
-   margin:0 auto;
-  }
-  .responsive14 {
-   margin:0 auto;
-  }
-  .responsive15 {
-   margin:0 auto;
-  }
-  .responsive16 {
-   margin:0 auto;
-  }
-  .responsive17 {
-   margin:0 auto;
-  }
-  .responsive18 {
-   margin:0 auto;
-  }
-  .responsive19 {
-   margin:0 auto;
-  }
-  .responsive20 {
-   margin:0 auto;
-  }
-  .responsive21 {
-   margin:0 auto;
-  }
-  .responsive22 {
+@media(min-width:300px)and (max-width:1000px){
+  .responsive{
     margin:0 auto;
-  
   }
-  .responsive23 {
-   margin:0 auto;
+  .abt-txt{
+    text-align: center;
   }
-  .col-md-8 {
-    order: 1;
-}
-.col-md-4 {
-    order: 2;
-}
-.reverse{
-  display: flex;
-  flex-direction: column-reverse;
-}
-
-}
-@media (max-width: 1280px)   {
-    .responsive {
-     margin:0 auto;
-    }
-    .responsive1 {
-     margin:0 auto;
-    }
-    .responsive2 {
-     margin:0 auto;
-    }
-    .responsive3 {
-     margin:0 auto;
-    }
-    .responsive4 {
-     margin:0 auto;
-    }
-    .responsive5 {
-     margin:0 auto;
-    }
-    .responsive6 {
-     margin:0 auto;
-    }
-    .responsive7 {
-     margin:0 auto;
-    }
-    .responsive8 {
-     margin:0 auto;
-    }
-    .responsive9 {
-     margin:0 auto;
-    }
-    .responsive10 {
-     margin:0 auto;
-    }
-    .responsive11 {
-     margin:0 auto;
-    }
-    .responsive12 {
-     margin:0 auto;
-    }
-    .responsive13 {
-     margin:0 auto;
-    }
-    .responsive14 {
-     margin:0 auto;
-    }
-    .responsive15 {
-     margin:0 auto;
-    }
-    .responsive16 {
-     margin:0 auto;
-    }
-    .responsive17 {
-     margin:0 auto;
-    }
-    .responsive18 {
-     margin:0 auto;
-    }
-    .responsive19 {
-     margin:0 auto;
-    }
-    .responsive20 {
-     margin:0 auto;
-    }
-    .responsive21 {
-     margin:0 auto;
-    }
-    .responsive22 {
-      margin:0 auto;
-    
-    }
-    .responsive23 {
-     margin:0 auto;
-    }
-    .col-md-8 {
-        order: 1;
-    }
-    .col-md-4 {
-        order: 2;
-    }
+  .paraaa{
+    margin-top: 10px!important;
   }
-
-
-
+  .reverse{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
 
 
 
