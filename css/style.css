@@ -3929,12 +3929,19 @@ article.ulockd-pd-content {
   color: #798590;
   margin-bottom: 20px;
 }
-.ulockd-ftr-phone, .ulockd-ftr-fax, .ulockd-ftr-mail {
+.ulockd-ftr-phone, .ulockd-ftr-mail {
   color: #fff;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.2px;
+  display: flex;
 }
+.ulockd-ftr-phone> span > a{
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+}
+
 .ftr-phone, .ftr-fax, .ftr-mail {
   color: #798590;
   font-size: 14px;

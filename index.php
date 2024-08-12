@@ -394,7 +394,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/1.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -416,7 +416,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/2.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -438,7 +438,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/3.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -460,7 +460,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/4.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -482,7 +482,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/5.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -504,7 +504,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/6.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -526,7 +526,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/7.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -548,7 +548,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/8.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>

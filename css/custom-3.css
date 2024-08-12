@@ -137,6 +137,7 @@
 
 .ulockd-ftr-mail{
   display: flex;
+  padding-bottom:5px ;
 }
 .ulockd-ftr-mail a{
   color: #fff;
