@@ -21,8 +21,7 @@
 	<!-- Responsive stylesheet -->
 	<link rel="stylesheet" href="css/responsive.css">
 	<!-- Title -->
-	<title>SHIRANA WOMEN ENTERPENUAR DEVELOPMENT
-		CENTER</title>
+	<title>NAGARI VIKAS SEVABHAVI SANSTHA</title>
 	<!-- Favicon -->
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -53,8 +52,7 @@
 					</div>
 					<div class="col-md-6">
 						<div class="welcm-ht text-center">
-							<p class="ulockd-welcntxt">SHIRANA WOMEN ENTERPENUAR DEVELOPMENT
-								CENTER</p>
+							<p class="ulockd-welcntxt">NAGARI VIKAS SEVABHAVI SANSTHA</p>
 						</div>
 					</div>
 				</div>
