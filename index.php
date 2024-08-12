@@ -141,7 +141,7 @@ include 'header.php'; ?>
 		<div class="row">
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="https://i0.wp.com/bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2019/04/Disability-Exercise-2.jpg?resize=660%2C371&ssl=1" alt="1a.jpg">
+					<img class="img-responsive activity-img" src="https://i0.wp.com/bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2019/04/Disability-Exercise-2.jpg?resize=660%2C371&ssl=1" alt="1a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>HANDICAPPED TRAINING PROGRAM</h3>
@@ -151,7 +151,7 @@ include 'header.php'; ?>
 			</div>
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="https://media.assettype.com/bloombergquint%2F2023-06%2Fefa07034-8196-42e0-9642-ff53c822150b%2Fpiyush_09_05_08.jpg?auto=format%2Ccompress&w=1200" alt="2a.jpg">
+					<img class="img-responsive activity-img" src="https://media.assettype.com/bloombergquint%2F2023-06%2Fefa07034-8196-42e0-9642-ff53c822150b%2Fpiyush_09_05_08.jpg?auto=format%2Ccompress&w=1200" alt="2a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>INTERNATIONAL YOGA DAY</h3>
@@ -163,7 +163,7 @@ include 'header.php'; ?>
 		<div class="row ulockd-mrgn1225">
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="https://batonrougeclinic.com/wp-content/uploads/2022/01/Baldwin-1-10-Reasons-to-Donate-Blood-e1641235978110.jpg" alt="3a.jpg">
+					<img class="img-responsive activity-img" src="https://batonrougeclinic.com/wp-content/uploads/2022/01/Baldwin-1-10-Reasons-to-Donate-Blood-e1641235978110.jpg" alt="3a.jpg">
 
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
@@ -174,7 +174,7 @@ include 'header.php'; ?>
 			</div>
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="https://img.jagranjosh.com/images/2021/June/262021/World-Environment-Day-History.png" alt="4a.jpg">
+					<img class="img-responsive activity-img" src="https://img.jagranjosh.com/images/2021/June/262021/World-Environment-Day-History.png" alt="4a.jpg">
 
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
@@ -381,7 +381,7 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item charity children">
 						<div class="gallery-thumb">
-							<img class="img-responsive img-whp" src="images/gallery/1.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery/1.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
@@ -403,7 +403,7 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item children education clothing">
 						<div class="gallery-thumb">
-							<img class="img-responsive img-whp" src="images/gallery/2.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery/2.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
@@ -425,7 +425,7 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item new children clothing">
 						<div class="gallery-thumb">
-							<img class="img-responsive img-whp" src="images/gallery/3.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery/3.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
@@ -447,7 +447,7 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item charity">
 						<div class="gallery-thumb">
-							<img class="img-responsive img-whp" src="images/gallery/4.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery/4.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
@@ -469,7 +469,7 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item children clothing">
 						<div class="gallery-thumb">
-							<img class="img-responsive img-whp" src="images/gallery/5.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery/5.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
@@ -491,7 +491,7 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item new education fundraisin">
 						<div class="gallery-thumb">
-							<img class="img-responsive img-whp" src="images/gallery/6.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery/6.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
@@ -513,7 +513,7 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item fundraisin">
 						<div class="gallery-thumb">
-							<img class="img-responsive img-whp" src="images/gallery/7.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery/7.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
@@ -535,7 +535,7 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item charity">
 						<div class="gallery-thumb">
-							<img class="img-responsive img-whp" src="images/gallery/8.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery/8.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">

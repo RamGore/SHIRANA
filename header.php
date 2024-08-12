@@ -64,7 +64,7 @@
 					<div class="col-xs-12 col-sm-6 col-lg-3">
 						<div class="ulockd-welcm-hmddl">
 							<a href="index.php"  class="header-logo ulockd-main-logo main-logo">
-								NAGARI VIKAS<br>
+								NAGARI VIKAS
 								SEVABHAVI SANSTHA
 							</a>
 						</div>
@@ -249,11 +249,13 @@
 						<div class="container ulockd-pad90">
 
 							<!-- Start Header Navigation -->
-							<div class="navbar-header">
+							<div class="navbar-header mobile-header">
+								<div>
 								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 									<i class="fa fa-bars"></i>
 								</button>
-								<div class="display welcm-ht text-center">
+								</div>
+								<div class="display welcm-ht">
 									<p class="ulockd-welcntxt">SHIRANA WOMEN ENTERPENUAR DEVELOPMENT
 										CENTER</p>
 								</div>

@@ -402,6 +402,9 @@ p {
   }
   .abt-txt {
     font-size: 16px;
+    word-break: break-all;
+    word-wrap: break-word;
+    line-height: 1.6;
   }
   .reverse{
     display: flex;

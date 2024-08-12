@@ -154,8 +154,9 @@
 
   .cont-cent {
     display: block;
-
+    text-align: center;
   }
+
 
   .navbar-header {
     visibility: visible;
