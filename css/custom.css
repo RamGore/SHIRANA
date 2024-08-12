@@ -108,7 +108,7 @@
   list-style-type: disc; /* Adds bullets */
   padding-left: 20px; /* Adjust space for bullets */
   margin-top: -10px;
-  text-align: left;
+  text-align: justify;
   font-size: 20px;
   color: black; /* Align text to the left */
 }
