@@ -63,7 +63,7 @@ ul.bxslider {
 .bx-wrapper .bx-pager {
   text-align: center;
   font-size: .85em;
-  font-family: Arial;
+  font-family: 'Roboto Slab', serif;
   font-weight: bold;
   color: #666;
   padding-top: 20px;
@@ -196,7 +196,7 @@ ul.bxslider {
 
 .bx-wrapper .bx-caption span {
   color: #fff;
-  font-family: Arial;
+  font-family: 'Roboto Slab', serif;
   display: block;
   font-size: .85em;
   padding: 10px;
@@ -900,7 +900,6 @@ Slider navigation
 }
 
 .no-touch .cd-slider-nav a:hover {
-  background-color: rgba(0, 1, 1, 0.5);
   color: #fff;
 }
 

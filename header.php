@@ -3,6 +3,7 @@
 
 <!-- Mirrored from unlockdesizn.com/html/nonprofit/be-ahand/index-multipage.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Jul 2024 05:31:47 GMT -->
 
+
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,6 +26,7 @@
 	<!-- Favicon -->
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -34,6 +36,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
+
 
 <body>
 	<div class="wrapper">
@@ -93,12 +96,11 @@
 							<div class="ulockd-icon pull-left text-thm2"><span class="flaticon-make-a-donation"></span></div>
 							<div class="ulockd-info">
 								<!-- Trigger the modal with a button -->
-								<button type="button" class="btn btn-lg ulockd-btn-thm2 ulockd-mrgn1215 ulockd-mrgn610" data-toggle="modal" data-target=".bs-example-modal-default">Donate now</button>
+								<button type="button" class="btn btn-lg ulockd-btn-thm2 ulockd-mrgn1215 ulockd-mrgn610" data-toggle="modal" data-target=".bs-example-modal-default"><a href="donate.php">Donate now</a></button>
 								<!-- Modal -->
-								<div id="Donation-form-modal" class="modal fade bs-example-modal-default text-left" role="dialog">
+								<!-- <div id="Donation-form-modal" class="modal fade bs-example-modal-default text-left" role="dialog">
 									<div class="modal-dialog">
 
-										<!-- Modal content-->
 										<div class="modal-content">
 											<div class="modal-header text-center">
 												<button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -220,7 +222,7 @@
 											</div>
 										</div>
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -246,6 +248,7 @@
 						<!-- End Top Search -->
 
 						<div class="container ulockd-pad90">
+						<div class="container ulockd-pad90">
 
 							<!-- Start Header Navigation -->
 							<div class="navbar-header">
@@ -257,9 +260,7 @@
 										CENTER</p>
 								</div>
 							</div>
-							<!-- End Header Navigation -->
-
-							<!-- Collect the nav links, forms, and other content for toggling -->
+							
 							<div class="collapse navbar-collapse" id="navbar-menu">
 								<ul class="nav navbar-nav navbar-left">
 
@@ -286,7 +287,7 @@
 										<a href="contact-us">Contact Us</a>
 									</li>
 								</ul>
-							</div><!-- /.navbar-collapse -->
+							</div><!-- navbar-collapse -->
 						</div>
 
 						<!-- Start Side Menu -->
