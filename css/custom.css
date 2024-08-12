@@ -31,7 +31,7 @@
   text-align: right;
 }
 .abt-txt {
-  font-size: 16px;
+  font-size: 18px;
 }
 /* .abt-section{
     margin-top: -20px;
@@ -397,6 +397,9 @@ p {
   }
   .paraaa{
     margin-top: 10px!important;
+  }
+  .abt-txt {
+    font-size: 16px;
   }
   .reverse{
     display: flex;
