@@ -113,7 +113,7 @@
 /* (min-width:480px) (max-width:767px) */
 @media only screen and (max-width:767px){
 	.ulockd-pad395-xsd {padding-left: 5px;padding-right: 5px;}
-	html{font-family:sans-serif;-webkit-text-size-adjust:75%;-ms-text-size-adjust:75%}
+	html{font-family:'Roboto Slab', serif;-webkit-text-size-adjust:75%;-ms-text-size-adjust:75%}
 	/* Hero Slider Nav */
 	  .cd-slider-nav {
 	    width: 100%;

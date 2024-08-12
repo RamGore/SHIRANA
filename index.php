@@ -394,7 +394,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/1.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -416,7 +416,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/2.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -438,7 +438,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/3.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -460,7 +460,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/4.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -482,7 +482,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/5.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -504,7 +504,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/6.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -526,7 +526,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/7.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -548,7 +548,7 @@ include 'header.php';
 												<a class="popup-img" href="images/gallery/8.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="#"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -564,128 +564,6 @@ include 'header.php';
 		</div>
 	</div>
 </section>
-
-<!-- Our Service -->
-<section class="ulockd-service-two">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2 text-center">
-				<div class="ulockd-main-title">
-					<h2 class="text-uppercase">Our <span class="text-thm2">Mission</span></h2>
-					<h4>Your Attention Is Changed The Part Of World.Give a helping hand to those who need it!</h4>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-xs-12 col-sm-6 col-md-4 clearfix">
-				<div class="ulockd-mssn-col ulockd-mrgn650">
-					<div class="missn-icon"><span class="flaticon-rice"></span></div>
-					<div class="missn-details">
-						<h3>Charity For Food</h3>
-						<p>This level of development and supervision is for individuals who can't live without anyone else's input yet who.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-4 clearfix">
-				<div class="ulockd-mssn-col ulockd-mrgn650">
-					<div class="missn-icon"><span class="flaticon-t-shirt-black-silhouette"></span></div>
-					<div class="missn-details">
-						<h3>Charity For Cloth</h3>
-						<p>This level of development and supervision is for individuals who can't live without anyone else's input yet who.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-4 clearfix">
-				<div class="ulockd-mssn-col ulockd-mrgn650">
-					<div class="missn-icon"><span class="flaticon-business-8"></span></div>
-					<div class="missn-details">
-						<h3>Charity For Education</h3>
-						<p>This level of development and supervision is for individuals who can't live without anyone else's input yet who.</p>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-xs-12 col-sm-6 col-md-4 clearfix">
-				<div class="ulockd-mssn-col">
-					<div class="missn-icon"><span class="flaticon-health-care"></span></div>
-					<div class="missn-details">
-						<h3>Charity For Health</h3>
-						<p>This level of development and supervision is for individuals who can't live without anyone else's input yet who.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-4 clearfix">
-				<div class="ulockd-mssn-col">
-					<div class="missn-icon"><span class="flaticon-woman-and-child-holding-hands"></span></div>
-					<div class="missn-details">
-						<h3>Charity For Shelter</h3>
-						<p>This level of development and supervision is for individuals who can't live without anyone else's input yet who.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-4 clearfix">
-				<div class="ulockd-mssn-col">
-					<div class="missn-icon"><span class="flaticon-water"></span></div>
-					<div class="missn-details">
-						<h3>Charity For Clean Water</h3>
-						<p>This level of development and supervision is for individuals who can't live without anyone else's input yet who.</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-<!-- Our Project -->
-
-
-
-
-<!-- Our First Divider -->
-<section class="ulockd-frst-divider style1 parallax" data-stellar-background-ratio="0.3">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2 text-center">
-				<h2 class="color-white">Be aHand Proud to Say, After Providing The Best Non-Profit Support.</h2>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-6 col-md-3 text-center">
-				<div class="ulockd-ffact-one">
-					<span class="flaticon-people-12 text-thm2"></span>
-					<p>Total Volunteers</p>
-					<div class="timer">455860</div>
-				</div>
-			</div>
-			<div class="col-sm-6 col-md-3 text-center">
-				<div class="ulockd-ffact-one">
-					<span class="flaticon-medal text-thm2"></span>
-					<p>Total Award</p>
-					<div class="timer">2052</div>
-				</div>
-			</div>
-			<div class="col-sm-6 col-md-3 text-center">
-				<div class="ulockd-ffact-one">
-					<span class="flaticon-interface text-thm2"></span>
-					<p>Successful Projects</p>
-					<div class="timer">22780</div>
-				</div>
-			</div>
-			<div class="col-sm-6 col-md-3 text-center">
-				<div class="ulockd-ffact-one">
-					<span class="flaticon-donation text-thm2"></span>
-					<p>Total Amount Raised</p>
-					<div class="timer">1707400</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-
 
 
 
