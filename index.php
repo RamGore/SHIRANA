@@ -62,7 +62,7 @@ include 'header.php'; ?>
 						<div class="fc-icon"><span class="flaticon-make-a-donation"></span></div>
 						<h5> NAGARI VIKAS SEVABHAVI SANSTHA</h5>
 						<h3>As a Donor</h3>
-						<button type="submit" class="btn btn-default ulockd-btn-styledark" data-toggle="modal" data-target=".bs-example-modal-default" data-toggle="modal" data-target=".bs-example-modal-default">Help me</button>
+						<button type="submit" class="btn btn-default ulockd-btn-styledark" data-toggle="modal" data-target=".bs-example-modal-default" data-toggle="modal" data-target=".bs-example-modal-default">Donate now</button>
 					</div>
 				</figure>
 			</div>
