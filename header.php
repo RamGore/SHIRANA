@@ -75,7 +75,7 @@
 							<div class="ulockd-icon pull-left text-thm2"><span class="flaticon-email-filled-closed-envelope"></span></div>
 							<div class="ulockd-info">
 								<h3>Mail Us</h3>
-								<a href="mailto:sachintatu0009@gmail.com"> sachintatu0009@gmail.com</a>
+								<a href="mailto:sachintatu0009@gmail.com">sachintatu0009@gmail.com</a>
 							</div>
 						</div>
 					</div>
@@ -258,7 +258,7 @@
 										CENTER</p>
 								</div>
 							</div>
-							
+
 							<div class="collapse navbar-collapse" id="navbar-menu">
 								<ul class="nav navbar-nav navbar-left">
 

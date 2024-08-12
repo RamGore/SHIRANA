@@ -49,9 +49,9 @@ nav.navbar.bootsnav.ulockd-menu-style-two #navbar-menu,
 .ulockd-bgthm {
 	background-color: #ffb606 !important;
 }
-.ui-datepicker-header.ui-widget-header.ui-helper-clearfix.ui-corner-all, 
-.ui-timepicker-list .ui-timepicker-selected:hover, 
-.ui-timepicker-list li:hover, 
+.ui-datepicker-header.ui-widget-header.ui-helper-clearfix.ui-corner-all,
+.ui-timepicker-list .ui-timepicker-selected:hover,
+.ui-timepicker-list li:hover,
 li.ui-timepicker-selected {
 	background-color: #ffb606;
 
@@ -64,17 +64,17 @@ li.ui-timepicker-selected {
 .ulockd-tag-list-details a:hover,
 .srvc-col-two:hover,
 .ulockd-tag-list-details li:hover a,
-.ulockd-gallery-slider .owl-prev:hover, 
+.ulockd-gallery-slider .owl-prev:hover,
 .ulockd-gallery-slider .owl-next:hover,
 .team-icon a:hover,
-.partner-slider .owl-dot.active span, 
+.partner-slider .owl-dot.active span,
 .partner-slider .owl-dot:hover span,
 .partner-slider .owl-dot:focus span,
 .nav.fcauses-tab>li>a:focus,
 .nav.fcauses-tab>li>a:hover,
 .fcauses-tab>li.active>a:before,
 .fcauses-tab>li.active>a,
-.fcauses-tab>li.active>a:focus, 
+.fcauses-tab>li.active>a:focus,
 .fcauses-tab>li.active>a:hover,
 .title-bottom:before {
 	background-color: #ffb606;
@@ -148,7 +148,7 @@ li.ui-timepicker-selected {
 
 /* BORDER TEMPALTE COLOR */
 .ulockd-mssn-col {
-    border: 1px solid #ffb606;	
+    border: 1px solid #ffb606;
 }
 nav.navbar li.dropdown ul.dropdown-menu {
 	border-top: 5px solid #ffb606
@@ -166,13 +166,13 @@ nav.navbar li.dropdown ul.dropdown-menu {
 .pagination>.active>a,
 .amount-box input[type="radio"]:checked+label,
 .fcauses-tab>li.active>a,
-.fcauses-tab>li.active>a:focus, 
+.fcauses-tab>li.active>a:focus,
 .fcauses-tab>li.active>a:hover,
 .ulockd-all-service a.active {
 	border-color:  #ffb606;
 }
 /* Hover Border COlor */
 .team-icon a:hover,
-.team-details .team-icon a {	
+.team-details .team-icon a {
     border: 1px solid #ffb606;
 }

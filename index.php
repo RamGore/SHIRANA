@@ -55,12 +55,12 @@ include 'header.php'; ?>
 <!-- Our Features -->
 <section class="service1 ulockd-bgthm">
 	<div class="container-fluid text-center">
-		<div class="row cont-cent">
+		<div class="row cont-cent feature-box">
 			<div class="col-sm-6 col-md-3 ulockd-pad395">
 				<figure class="fclmn-one two">
 					<div class="caption">
-						<div class="fc-icon"><span class="flaticon-make-a-donation"></span></div>
 						<h5> NAGARI VIKAS SEVABHAVI SANSTHA</h5>
+						<!-- <div class="fc-icon"><span class="flaticon-make-a-donation"></span></div> -->
 						<h3>As a Donor</h3>
 						<button type="submit" class="btn btn-default ulockd-btn-styledark" data-toggle="modal" data-target=".bs-example-modal-default" data-toggle="modal" data-target=".bs-example-modal-default">Donate now</button>
 					</div>
@@ -69,7 +69,7 @@ include 'header.php'; ?>
 			<div class="col-sm-6 col-md-3 ulockd-pad395">
 				<figure class="fclmn-one three">
 					<div class="caption">
-						<div class="fc-icon"><span class="flaticon-donation"></span></div>
+						<!-- <div class="fc-icon"><span class="flaticon-donation"></span></div> -->
 						<h5> NAGARI VIKAS SEVABHAVI SANSTHA</h5>
 						<h3>As a Fundraiser</h3>
 						<button type="submit" class="btn btn-default ulockd-btn-styledark">Read More</button>
@@ -79,7 +79,7 @@ include 'header.php'; ?>
 			<div class="col-sm-6 col-md-3 ulockd-pad395">
 				<figure class="fclmn-one four">
 					<div class="caption">
-						<div class="fc-icon"><span class="flaticon-dove-of-peace"></span></div>
+						<!-- <div class="fc-icon"><span class="flaticon-dove-of-peace"></span></div> -->
 						<h5> NAGARI VIKAS SEVABHAVI SANSTHA</h5>
 						<h3>As a Sponsor</h3>
 						<button type="submit" class="btn btn-default ulockd-btn-styledark">Read More</button>
@@ -104,8 +104,6 @@ include 'header.php'; ?>
 		<div class="row">
 			<div class="col-sm-12 col-md-7">
 				<div class="ulockd-main-title">
-
-
 					<p class="abt-txt">
 						<span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA</span> Trust seeks donation to increase the corpus
 						of the Trust so that it can be used to benefit the women of <span class="text-thm2">AURANGABAD

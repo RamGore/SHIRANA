@@ -32,6 +32,7 @@
 }
 .abt-txt {
   font-size: 18px;
+  text-align: justify;
 }
 /* .abt-section{
     margin-top: -20px;
@@ -196,6 +197,7 @@ tr {
 }
 p {
   margin: 0px !important;
+  text-align: justify;
 }
 .topppp {
   color: rgb(255, 255, 255) !important;

@@ -5,7 +5,7 @@
 			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
 				<div class="ulockd-footer-fst-col">
 					<div class="ulockd-welcm-hmddl">
-						<p href="index.html" class="ulockd-main-logo main-logo footer-logo">NAGARI VIKAS<br>
+						<p href="index.html" class="ulockd-main-logo main-logo footer-logo">NAGARI VIKAS
 							SEVABHAVI SANSTHA</p>
 					</div>
 					<!-- <img alt="" src="images/footer-logo.png" class="img-responsive ulockd-footer-log"> -->
@@ -28,10 +28,10 @@
 			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 				<div class="ulockd-footer-contact">
 					<h3 class="text-uppercase">CONTACT <span class="text-thm2">US</span></h3>
-					<div class="ulockd-ftr-mail"><span>Address &nbsp; </span> :&nbsp; 
+					<div class="ulockd-ftr-mail"><span>Address &nbsp; </span> :&nbsp;
 						<p>House no 2 Lane no 12, Pundaliknagar Garkheda, Chh. Sambhajinagar 431001.</p>
 					</div>
-					<div class="ulockd-ftr-mail"><span>Email&nbsp; </span> :&nbsp; 
+					<div class="ulockd-ftr-mail"><span>Email&nbsp; </span> :&nbsp;
 						<span>
 							<a href="mailto:lalchandrajput1967@gmail.com">lalchandrajput1967@gmail.com</a>,
 							<a href="mailto:sachintatu0009@gmail.com"> sachintatu0009@gmail.com</a>
@@ -39,7 +39,7 @@
 					</div>
 					<div class="ulockd-ftr-phone"><span>Phone&nbsp; </span>:&nbsp; <span><a href="tel:+91 8308136689" class="ulockd-addrss">+91- 8308136689,</a><a href="tel:+91 8668615130" class="ulockd-addrss">+91- 8668615130</a></span>
 					</div>
-					
+
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
