@@ -11,7 +11,7 @@ include 'header.php'; ?>
 					<ul class="cd-hero-slider autoplay">
 						<li class="move-left">
 							<div class="cd-full-width">
-								<h1><span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA2</span></h1>
+								<h1><span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA</span></h1>
 							</div> <!-- .cd-full-width -->
 						</li>
 

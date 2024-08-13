@@ -1,6 +1,5 @@
 <?php
-include 'header.php';
-?>
+include 'header.php'; ?>
  <div class="ulockd-inner-home">
         <div class="container text-center">
             <div class="row">
@@ -27,7 +26,7 @@ include 'header.php';
  <div class="containerr">
         <div class="table-containerr main-content">
             <h2 class="donate-line1">Contribute <span class="text-thm2">Our Causes</span></h2>
-    <p class="donate-line">Donors like you make a huge impact on us. On behalf of SHIVRANA <br>SEVABHAVI SANSTHA, we can’t thank you enough for your continued <br>support.</p>
+    <p class="donate-line">Donors like you make a huge impact on us. On behalf of SHIVRANA SEVABHAVI SANSTHA, we can’t thank you enough for your continued support.</p>
             <table class="data-table">
                <h3 class="bank"><a href="#">BANK DETAILS</a></h3>
                 <tbody>
@@ -59,6 +58,5 @@ include 'header.php';
 
 
 
-<?php
-    include 'footer.php';
-    ?>
+<?php include 'footer.php';
+?>

@@ -1244,7 +1244,6 @@ form.ulockd-reg-form {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
   border: 1px solid #ddd;
   padding: 5px;
   text-align: center;
@@ -4560,4 +4559,8 @@ form.ulockd-reg-form {
 }
 .twitter ul li a {
   color: #aaa;
+}
+
+.footer-icon{
+  font-size: 23px;
 }
