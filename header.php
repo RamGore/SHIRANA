@@ -281,6 +281,9 @@
 										<a href="gallery">Gallery</a>
 									</li>
 									<li class="dropdown">
+										<a href="facebook">Facebook</a>
+									</li>
+									<li class="dropdown">
 										<a href="contact-us">Contact Us</a>
 									</li>
 								</ul>

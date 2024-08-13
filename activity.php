@@ -1,6 +1,28 @@
 <?php
 include 'header.php';
-?>
+?><style>
+    .float{
+	position:fixed;
+	width:50px;
+	height:50px;
+	bottom:60px;
+  left:20px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:20px;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
+</style>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
 <main>
     <!-- Home Design Inner Pages -->
     <div class="ulockd-inner-home">
@@ -173,7 +195,7 @@ include 'header.php';
             <h1 class="our-vision-credo">WOMEN’S DAY CELEBRATION</h1>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://marketplace.canva.com/EAFap1V35Zg/1/0/1600w/canva-blue-illustrative-simple-8-march-international-womens-day-instagram-post-9Aa_0jK1Nd8.jpg"
+                <img src="images/gallery copy/41.jpg"
                     class="img-responsive custom-img1 womens-day responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -202,7 +224,7 @@ include 'header.php';
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://i.pinimg.com/736x/66/03/50/6603505f093f120d7271630cedaf4ef1.jpg" class="img-responsive custom-img1 womens-day1 responsive"
+            <img src="images/gallery copy/17.png" class="img-responsive custom-img1 womens-day1 responsive"
                 alt="image">
         </div>
     </div>
@@ -211,7 +233,7 @@ include 'header.php';
     <div class="row">
 
     <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4mX3NMip1e8H0GRpuXYbcYLNS2j2ESbnxlpf0SVBESgXHA5fqwwa4YF-ttxrY7nWdq8&usqp=CAU"
+            <img src="images/gallery copy/16.png"
                 class="img-responsive custom-img1 womens-day2 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -250,7 +272,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
             </div>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://i0.wp.com/bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2019/04/Disability-Exercise-2.jpg?resize=660%2C371&ssl=1"
+                <img src="images/gallery copy/56.jpg"
                     class="img-responsive custom-img1 img11 responsive" alt="image">
             </div>
 
@@ -301,7 +323,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://images.news9live.com/wp-content/uploads/2024/04/Untitled-design-2024-04-03T163630.109.png" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery copy/23.jpg" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
      </div>
@@ -349,7 +371,7 @@ Hanumannagar.Around 140 peoples gone through this camp benefits.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://media.assettype.com/bloombergquint%2F2023-06%2Fefa07034-8196-42e0-9642-ff53c822150b%2Fpiyush_09_05_08.jpg?auto=format%2Ccompress&w=1200" class="img-responsive custom-img1 yoga-img1 responsive"
+            <img src="images/gallery copy/9.png" class="img-responsive custom-img1 yoga-img1 responsive"
                 alt="image">
         </div>
     </div>
@@ -464,7 +486,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
             <h1 class="our-vision-credo"> BLOOD DONATION CAMP</h1>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://images.onlymyhealth.com/imported/images/2024/June/14_Jun_2024/mn-donor.jpg"
+                <img src="images/gallery copy/15.png"
                     class="img-responsive custom-img1 responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -491,7 +513,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://batonrougeclinic.com/wp-content/uploads/2022/01/Baldwin-1-10-Reasons-to-Donate-Blood-e1641235978110.jpg " class="img-responsive custom-img1 responsive"
+            <img src="images/gallery copy/42.jpg " class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
     </div>
@@ -500,7 +522,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
     <div class="row">
 
     <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRD13hsVUIQSmBngDB3ZcDupEfc6sAYvPI308zKZnDn1U5yWqWJs5xY7of25Pgc-0Ri24&usqp=CAU"
+            <img src="images/gallery copy/2.png"
                 class="img-responsive custom-img1 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -534,7 +556,7 @@ bags blood was collected. Celebration ended by distributing sweets and fruits.
                 </div>
             </div>
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://www.careinsurance.com/upload_master/media/posts/June2024/world-environment-day.webp"
+                <img src="images/gallery copy/60.jpg"
                     class="img-responsive custom-img1 environment1 responsive" alt="image">
             </div>
         </div>
@@ -544,7 +566,7 @@ bags blood was collected. Celebration ended by distributing sweets and fruits.
 
 
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://img.jagranjosh.com/images/2021/June/262021/World-Environment-Day-History.png" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery copy/6.png" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">

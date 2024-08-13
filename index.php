@@ -1,6 +1,29 @@
 <?php
 include 'header.php';
 ?>
+<style>
+    .float{
+	position:fixed;
+	width:50px;
+	height:50px;
+	bottom:60px;
+  left:20px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:20px;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
+</style>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
 
 <script src="js/main.js"></script>
 <!-- Home Design -->
@@ -144,7 +167,7 @@ include 'header.php';
 		<div class="row">
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="https://i0.wp.com/bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2019/04/Disability-Exercise-2.jpg?resize=660%2C371&ssl=1" alt="1a.jpg">
+					<img class="img-responsive img-whp" src="https://raisingchildren.net.au/__data/assets/image/0014/108131/Physical-activity-for-children-with-disability-wide.jpg" alt="1a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>HANDICAPPED TRAINING PROGRAM</h3>
@@ -154,7 +177,7 @@ include 'header.php';
 			</div>
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="https://media.assettype.com/bloombergquint%2F2023-06%2Fefa07034-8196-42e0-9642-ff53c822150b%2Fpiyush_09_05_08.jpg?auto=format%2Ccompress&w=1200" alt="2a.jpg">
+					<img class="img-responsive img-whp" src="https://img.etimg.com/thumb/width-640,height-480,imgsize-79822,resizemode-75,msid-92110083/magazines/panache/yoga-for-wellness-why-more-men-are-practising-it-for-physical-mental-well-being/yoga.jpg" alt="2a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>INTERNATIONAL YOGA DAY</h3>
