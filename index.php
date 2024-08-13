@@ -146,7 +146,7 @@ include 'header.php'; ?>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>HANDICAPPED TRAINING PROGRAM</h3>
 					<p>On March 24, 2022, a small home-based business training session was conducted for 24 handicapped students. The training covered skills such as bookbinding, photo frame making, and screen printing, empowering the participants to explore self-employment opportunities.</p>
-					<a class="text-thm2" href="activity.php#HANDICAPPED" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<a class="text-more mt-4" href="activity.php#HANDICAPPED" class="">More Details <span class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 			<div class="project-box">
@@ -156,7 +156,7 @@ include 'header.php'; ?>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>INTERNATIONAL YOGA DAY</h3>
 					<p>On June 21, 2022, International Yoga Day was celebrated in Hanuman Nagar. The event highlighted the benefits of yoga for fitness and overcoming personal challenges. Yoga trainer Mrs. Sangeeta Tatu demonstrated some simple exercises, while Mr. Lalchand Tatu emphasized the importance of incorporating yoga into daily life.</p>
-					<a class="text-thm2" href="activity.php#YOGA" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<a class="text-more" href="activity.php#YOGA" class="">More Details <span class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 		</div>
@@ -169,7 +169,7 @@ include 'header.php'; ?>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>BLOOD DONATION CAMP</h3>
 					<p>On February 19, Chhatrapati Shivaji Maharaj's birth anniversary was marked with a ceremony honoring his legacy. The President of the organization delivered a speech on his bravery, and a blood donation camp organized by Lokmanya Blood Bank collected 43 bags of blood. Multi-vitamins were given to donors, and the event concluded with sweets and fruits.</p>
-					<a class="text-thm2" class="text-thm2" href="activity.php#BLOOD" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<a class="text-more" class="text-thm2" href="activity.php#BLOOD" class="">More Details <span class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 			<div class="project-box">
@@ -180,7 +180,7 @@ include 'header.php'; ?>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>WORLD ENVIRONMENT DAY</h3>
 					<p>On June 5, 2022, Village Jatwada celebrated World Environmental Day with tree planting and conservation activities organized by Mr. Lalchand Tatu. The event included caring for plants, presenting tree saplings to a local institute, and distributing 1,000 pamphlets on water conservation in Garkheda Aurangabad.</p>
-					<a class="text-thm2" href="activity.php#ENVIRONMENT" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<a class="text-more" href="activity.php#ENVIRONMENT" class="">More Details <span class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 		</div>

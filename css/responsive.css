@@ -53,6 +53,22 @@
 		color: #ffffff !important;
 		text-align: center;
 	}
+	.card-container {
+		display: flex;
+		flex-direction: row !important;
+	}
+	.card p {
+		font-size: 14px;
+		color: #555;
+		word-break: break-all;
+		word-wrap: break-word;
+	}
+	.card h4 {
+		margin-left: 10px;
+		font-size: 14px;
+		font-weight: bold;
+		display: inline;
+	}
 }
 @media (min-width:768px) and (max-width:1023px){
 	.header-mobile{
@@ -122,10 +138,10 @@
 		/* background-color: #da3030; */
 		padding: 0px 0px;
 	}
-	.col-md-6 {
+	/* .col-md-6 {
 		display: grid;
 		place-items: center;
-	}
+	} */
 	.col-md-6 p{
 		max-width: 690px;
 	}
@@ -204,6 +220,25 @@
 	.ulockd-footer-contact p{
 		word-break: break-all;
 		word-wrap: break-word;
+	}
+	.ulockd-main-title h2 {
+       padding: 30px 0px;
+	}
+	.card-container {
+		display: flex;
+		flex-direction: row !important;
+	}
+	.card p {
+		font-size: 14px;
+		color: #555;
+		word-break: break-all;
+		word-wrap: break-word;
+	}
+	.card h4 {
+		margin-left: 10px;
+		font-size: 14px;
+		font-weight: bold;
+		display: inline;
 	}
 }
 @media (max-width:767px){
@@ -389,7 +424,8 @@
 	.footer-logo {
 		color: #ffb606;
 		line-height: 1.2;
-		font-size: 15px;
+		font-size: 14px;
+		text-align: left;
 	}
 	.cd-hero-slider {
 		display: flex;
@@ -468,7 +504,7 @@
 		height: 400px;
 	}
 	.donate-line {
-		font-size: 15px;
+		font-size: 12px;
 		margin-left: 0px !important;
 		text-align: justify;
 		max-width: 350px;
@@ -477,9 +513,43 @@
 	}
 	.donate-line1 {
 		margin-left: 0px !important;
+		font-size: 20px;
+	}
+
+	.for-cent .col-md-6 {
+		 padding-right: 8px !important;
+		 padding-left: 8px !important;
+
+	}
+	.ulockd-cp-title h2 {
+		color: #111;
+		margin-top: 0;
+		font-size: 20px;
+	}
+	.for-cent .mesg-cont {
+		padding-right: 8px !important;
+		 padding-left: 8px !important;
+		/* padding-right: 25px; */
+	}
+	.ulockd-google-map {
+		padding-right: 0px !important;
+		 padding-left: 0px !important;
+	}
+	.containerr {
+		display: flex;
+		justify-content: space-between;
+		flex-direction: column;
+		gap: 0px;
+		align-items: center;
+		height: auto; /* Set the height as needed */
+	  }
+	  .main-content {
+		flex: 1;
+		overflow: hidden;
+		padding: 10px;
 	}
 }
-@media (max-width:320px){
+/* @media (max-width:320px){
 	.header-mobile{
 		position: fixed;
 		top: 0;
@@ -497,7 +567,6 @@
 	.mobile-header p{
 		font-size: 14px;
 	}
-
 	.for-cent .col-md-6 {
 	  width: 100%;
 	}
@@ -515,5 +584,5 @@
 		width: 260px;
 	}
 
-}
+} */
 

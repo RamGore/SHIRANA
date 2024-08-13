@@ -443,6 +443,8 @@ h5 {
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
+  outline: none;
+  border: none;
 }
 .ulockd-btn-styledark:hover,
 .ulockd-btn-styledark:active,
@@ -1246,9 +1248,8 @@ form.ulockd-reg-form {
   align-items: center;
   border: 1px solid #ddd;
   padding: 5px;
-  text-align: center;
+  text-align: left;
   border: 1px solid #ddd;
-  padding: 5px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
@@ -1860,7 +1861,7 @@ z-index: 9
 /* ---------- RECENT CAUSES  ---------- */
 .recent-causes {
 background-color: #f9f9f9;
-padding: 40px 0;
+padding: 10px 0;
 }
 .fstory {
 position: relative;
@@ -2566,11 +2567,12 @@ article.ulockd-pd-content {
 .ulockd-service-three {
   background-color: #f9f9f9;
   padding-bottom: 40px;
-  padding-top: 40px;
+  padding-top: 0px !important;
 }
 .ulockd-main-title h2 {
   color: #111;
   font-size: 35px;
+  padding-top: 30px;
 }
 .missn-icon-two {
   padding: 5px;
@@ -4562,5 +4564,9 @@ form.ulockd-reg-form {
 }
 
 .footer-icon{
-  font-size: 23px;
+  font-size: 22px;
+}
+.text-more{
+  color: orange;
+  padding-top: 40px;
 }

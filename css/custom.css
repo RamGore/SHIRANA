@@ -310,6 +310,7 @@ p {
 .containerr {
   display: flex;
   justify-content: space-between;
+  gap: 60px;
   align-items: stretch;
   height: 400px; /* Set the height as needed */
 }
@@ -376,7 +377,7 @@ p {
   margin-left: 66px !important;
 }
 .donate-line1 {
-  margin-left: 66px !important;
+  text-align: center !important;
 }
 .bank {
   text-align: center;

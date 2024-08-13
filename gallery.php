@@ -1,6 +1,5 @@
 <?php
-include 'header.php';
-?>
+include 'header.php'; ?>
 
 
 <body>
@@ -1348,9 +1347,7 @@ include 'header.php';
 		</main>
 
 
-		<?php
-		include 'footer.php';
-		?>
+		<?php include 'footer.php'; ?>
 		<!-- Wrapper End -->
 		<script type="text/javascript" src="js/jquery-1.12.4.js"></script>
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
