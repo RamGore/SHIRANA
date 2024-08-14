@@ -1,28 +1,6 @@
 <?php
 include 'header.php';
-?><style>
-    .float{
-	position:fixed;
-	width:50px;
-	height:50px;
-	bottom:60px;
-  left:20px;
-	background-color:#25d366;
-	color:#FFF;
-	border-radius:50px;
-	text-align:center;
-  font-size:20px;
-  z-index:100;
-}
-
-.my-float{
-	margin-top:16px;
-}
-</style>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
-<i class="fa fa-whatsapp my-float"></i>
-</a>
+?>
 <main>
     <!-- Home Design Inner Pages -->
     <div class="ulockd-inner-home">
@@ -60,7 +38,7 @@ include 'header.php';
                 </div>
             </div>
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201910/Happy_Diwali_Golden_Lamp_4K_Wa_0.jpeg?size=690:388"
+                <img src="images/gallery copy/37.png"
                     class="img-responsive custom-img1 responsive" alt="image">
             </div>
             </div>
@@ -71,7 +49,7 @@ include 'header.php';
 
 
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://utsav.gov.in/public/festival_top/1659608853.jpg" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery copy/36.png" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -113,7 +91,7 @@ include 'header.php';
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://pragativadi.com/core/uploads/2023/11/images-46.jpeg" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery copy/38.png" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
     </div>
@@ -126,7 +104,7 @@ include 'header.php';
 
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://www.podareducation.org/Uploads/content/2024-3-22--14-40-21-311_The-Story-Behind-Why-Do-We-Celebrate-the-Holi-Festival-banner.jpg"
+                <img src="images/gallery copy/44.jpg"
                     class="img-responsive custom-img1 img11 responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -331,7 +309,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
 
      <div class="row">
      <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://images.news9live.com/wp-content/uploads/2024/04/World-Health-Day-2024.jpg?w=1200&enlarge=true"
+            <img src="images/gallery copy/22.jpg"
                 class="img-responsive custom-img1 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -379,7 +357,7 @@ Hanumannagar.Around 140 peoples gone through this camp benefits.
     <div class="row">
 
     <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvSPWX5cJDfAYzV4chRyfI8n-sSGrpvkFIiN1FhHkt_a_ei2_9-626MUoHZDDzHSlYvo&usqp=CAU"
+            <img src="images/gallery copy/8.png"
                 class="img-responsive custom-img1 yoga-img2 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -403,7 +381,7 @@ tatu stressed the significance of yoga.
 
 <div class="container">
         <div class="row about2 align-items-center">
-            <h1 class="our-vision-credo">VYASAN MUKTI ( Addiction Free)AND CANCER AWARENESS NEW YEAR CELEBRATION
+            <h1 class="our-vision-credo">VAYASAN MUKTI ( Addiction Free)AND CANCER AWARENESS NEW YEAR CELEBRATION
             </h1>
 
 <div class="reverse">
@@ -420,7 +398,7 @@ Everybody enjoyed the celebration.
             </div>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://d16qttj5aycdv0.cloudfront.net/upload/book_image/resize_bigVysan_Mukti_Hindi_-_Tital_1607664570.jpg"
+                <img src="images/gallery copy/39.jpg"
                     class="img-responsive custom-img1 img11 vysan-mukti responsive" alt="image">
             </div>
 
@@ -437,7 +415,7 @@ Everybody enjoyed the celebration.
     <div class="row">
     <h1 class="our-vision-credo">CELEBRATION OF MAKAR SANKRANTI</h1>
     <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://as1.ftcdn.net/v2/jpg/03/13/76/20/1000_F_313762037_7NTqtrZnEGK0CZtOqp8TsEQPJG0GURWR.jpg"
+            <img src="images/gallery copy/41.jpg"
                 class="img-responsive custom-img1 makar1 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -599,7 +577,7 @@ families were present and people took part in the care of bushes and trees.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/world-environment-day-1622817142.jpg" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery copy/28.jpg" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
     </div>

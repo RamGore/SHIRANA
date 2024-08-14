@@ -2,29 +2,6 @@
 include 'header.php';
 ?>
 
-<style>
-    .float{
-	position:fixed;
-	width:50px;
-	height:50px;
-	bottom:60px;
-  left:20px;
-	background-color:#25d366;
-	color:#FFF;
-	border-radius:50px;
-	text-align:center;
-  font-size:20px;
-  z-index:100;
-}
-
-.my-float{
-	margin-top:16px;
-}
-</style>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
-<i class="fa fa-whatsapp my-float"></i>
-</a>
 <body>
 	<div class="wrapper">
 		<div id="preloader" class="preloader">
@@ -754,14 +731,14 @@ include 'header.php';
 
 							<div class="isotope-item creative corporate">
 								<div class="gallery-thumb">
-									<img class="img-responsive img-whp" src="images/gallery copy/36.jpg" alt="project">
+									<img class="img-responsive img-whp" src="images/gallery copy/36.png" alt="project">
 									<div class="overlayer">
 										<div class="lbox-caption">
 											<div class="lbox-details">
 
 												<ul class="list-inline">
 													<li>
-														<a class="popup-img" href="images/gallery copy/36.jpg"><span class="flaticon-add-square-button"></span></a>
+														<a class="popup-img" href="images/gallery copy/36.png"><span class="flaticon-add-square-button"></span></a>
 													</li>
 
 												</ul>
@@ -773,14 +750,14 @@ include 'header.php';
 
 							<div class="isotope-item creative corporate">
 								<div class="gallery-thumb">
-									<img class="img-responsive img-whp" src="images/gallery copy/37.jpg" alt="project">
+									<img class="img-responsive img-whp" src="images/gallery copy/37.png" alt="project">
 									<div class="overlayer">
 										<div class="lbox-caption">
 											<div class="lbox-details">
 
 												<ul class="list-inline">
 													<li>
-														<a class="popup-img" href="images/gallery copy/37.jpg"><span class="flaticon-add-square-button"></span></a>
+														<a class="popup-img" href="images/gallery copy/37.png"><span class="flaticon-add-square-button"></span></a>
 													</li>
 
 												</ul>
@@ -792,14 +769,14 @@ include 'header.php';
 
 							<div class="isotope-item creative corporate">
 								<div class="gallery-thumb">
-									<img class="img-responsive img-whp" src="images/gallery copy/38.jpg" alt="project">
+									<img class="img-responsive img-whp" src="images/gallery copy/38.png" alt="project">
 									<div class="overlayer">
 										<div class="lbox-caption">
 											<div class="lbox-details">
 
 												<ul class="list-inline">
 													<li>
-														<a class="popup-img" href="images/gallery copy/38.jpg"><span class="flaticon-add-square-button"></span></a>
+														<a class="popup-img" href="images/gallery copy/38.png"><span class="flaticon-add-square-button"></span></a>
 													</li>
 
 												</ul>
@@ -1624,6 +1601,29 @@ include 'header.php';
 									</div>
 								</div>
 							</div>
+
+
+
+							<div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/85.png" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/85.png"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
 
 
 

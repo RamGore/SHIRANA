@@ -1,29 +1,6 @@
 <?php
 include 'header.php';
 ?>
-<style>
-    .float{
-	position:fixed;
-	width:50px;
-	height:50px;
-	bottom:60px;
-  left:20px;
-	background-color:#25d366;
-	color:#FFF;
-	border-radius:50px;
-	text-align:center;
-  font-size:20px;
-  z-index:100;
-}
-
-.my-float{
-	margin-top:16px;
-}
-</style>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
-<i class="fa fa-whatsapp my-float"></i>
-</a>
 <main class="events-page">
 
     <!-- Home Design Inner Pages -->
@@ -98,7 +75,7 @@ Tatu Lalchand expressesd his honest gratitude for Dr. Babasaheb Ambedkar.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://i.ytimg.com/vi/rKJoXAAx9vw/maxresdefault.jpg" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery copy/24.jpg" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
         </div>
@@ -116,7 +93,7 @@ Tatu Lalchand expressesd his honest gratitude for Dr. Babasaheb Ambedkar.
 
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://t4.ftcdn.net/jpg/05/00/42/77/360_F_500427775_ifULmeH1wJ2axNamQaR6HmU2a6imqqt2.jpg"
+                <img src="images/gallery copy/86.png"
                     class="img-responsive custom-img1 img11 responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -166,7 +143,7 @@ President’s speech Mr Tatu lalchand.
             </h1>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://i.pinimg.com/originals/8c/5d/51/8c5d51233f1496963f1f16e084d2edc9.jpg"
+                <img src="images/gallery copy/19.jpg"
                     class="img-responsive custom-img1 img11 gudi-img responsive" alt="image">
             </div>
 
@@ -201,7 +178,7 @@ distributed on the occasion.
             </div>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://d3jbu7vaxvlagf.cloudfront.net/v2/category_meta_images/chhatrapati_sambhaji_maharaj_jayanti_poster_17147293439501.webp"
+                <img src="images/gallery copy/20.jpg"
                     class="img-responsive custom-img1 img11 gudi-img responsive" alt="image">
             </div>
 
@@ -262,7 +239,7 @@ On this occasion all students who secure high marks in their academic exam ,from
     <div class="row">
 
     <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://m.media-amazon.com/images/I/41t7My0HfjL._AC_UF1000,1000_QL80_.jpg"
+            <img src="images/gallery copy/85.png"
                 class="img-responsive custom-img1 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -321,7 +298,7 @@ thanks to all villagers and organisers for arranging the celebration.
             </div>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="images/gallery copy/30.jpg"
+                <img src="images/gallery copy/33.jpg"
                     class="img-responsive custom-img1 img11 aug-img responsive" alt="image">
             </div>
             </div>
@@ -331,7 +308,7 @@ thanks to all villagers and organisers for arranging the celebration.
         <div class="row">
 
         <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://c8.alamy.com/comp/2C562XK/indian-happy-independence-day-celebration-15-august-with-gateway-and-map-of-india-2C562XK.jpg"
+                <img src="images/gallery copy/32.jpg"
                     class="img-responsive custom-img1 img11 aug-img responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -447,7 +424,7 @@ Along with Gandhiji, tribute was also given to Former Prime Minister Shri. LalBa
      </div>
      <div class="row">
      <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://infinitylearn.com/surge/wp-content/uploads/2022/01/Gandhi-Jayanti-Celebration.jpg"
+            <img src="images/gallery copy/45.jpg"
                 class="img-responsive custom-img1 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
