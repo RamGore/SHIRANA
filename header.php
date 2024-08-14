@@ -237,8 +237,8 @@
                        <p>NAGARI VIKAS SEVABHAVI SANSTHA</p>
 					</div>
 				</div>
-				<div class="collapse navbar-collapse" id="navbar-menu">
-					<ul class="nav navbar-nav navbar-left">
+				<div class="collapse" id="navbar-menu">
+					<ul class="nav">
 						<li class="dropdown"><a href="index">Home</a></li>
 						<li class="dropdown"><a href="about" class="dropdown-toggle" data-toggle="dropdown">About Us <i class="fa fa-chevron-down"></i></a>
 							<ul class="dropdown-menu">
@@ -252,6 +252,21 @@
 						<li class="dropdown"><a href="contact-us">Contact Us</a></li>
 					</ul>
 				</div>
+				<!-- <div class="collapse navbar-collapse" id="navbar-menu">
+					<ul class="nav navbar-nav navbar-left">
+						<li class="dropdown"><a href="index">Home</a></li>
+						<li class="dropdown"><a href="about" class="dropdown-toggle" data-toggle="dropdown">About Us <i class="fa fa-chevron-down"></i></a>
+							<ul class="dropdown-menu">
+								<li class="dropdown"><a href="org-profile">Organisation Profile</a></li>
+								<li class="dropdown"><a href="doc-gallery">Document Gallery</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a href="activity">Our Activities</a></li>
+				        <li class="dropdown"><a href="event">Events</a></li>
+						<li class="dropdown"><a href="gallery">Gallery</a></li>
+						<li class="dropdown"><a href="contact-us">Contact Us</a></li>
+					</ul>
+				</div> -->
 		</div>
 
 		<!-- Header Styles -->
@@ -275,17 +290,17 @@
 
 						<!-- <div class="container ulockd-pad90"> -->
 							<!-- Start Header Navigation -->
-							<div class="navbar-header">
+							<!-- <div class="navbar-header">
 								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 									<i class="fa fa-bars"></i>
 								</button>
 								<div class="display welcm-ht text-center">
 									<p class="ulockd-welcntxt">NAGARI VIKAS SEVABHAVI SANSTHA</p>
-								</div>
-								<div class="display welcm-ht">
+								</div> -->
+								<!-- <div class="display welcm-ht">
 									<p class="ulockd-welcntxt">NAGARI VIKAS SEVABHAVI SANSTHA</p>
-								</div>
-							</div>
+								</div> -->
+							<!-- </div> -->
 
 							<!-- <div class="collapse navbar-collapse" id="navbar-menu">
 								<ul class="nav navbar-nav navbar-left">

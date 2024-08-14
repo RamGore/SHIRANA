@@ -82,8 +82,8 @@
   width: 100%;
   border-radius: 20px;
   padding-left: 1px;
-  min-height: 300px;
-  max-height: 300px;
+  min-height: 320px;
+  max-height: 320px;
   background-image: cover;
 }
 
@@ -133,6 +133,7 @@
 .cont-cent {
   display: flex;
   justify-content: space-between;
+  font-size: 16px;
 }
 .feature-box{
   padding: 30px;
@@ -144,6 +145,7 @@
 }
 .ulockd-ftr-mail a{
   color: #fff;
+  font-size: 18px;
 }
 
 
@@ -357,5 +359,6 @@
 .footer-logo{
   color:#ffb606;
   line-height: 1.2;
+  margin: 20px 0px 11px !important;
   text-align: left;
 }

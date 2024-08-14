@@ -1,6 +1,5 @@
 <?php
-include 'header.php';
-?>
+include 'header.php'; ?>
 <style>
     .float{
 	position:fixed;
@@ -128,7 +127,7 @@ Tatu Lalchand expressesd his honest gratitude for Dr. Babasaheb Ambedkar.
             </div>
         </div>
         <div class="row reverse">
-       
+
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
                     <p class="abt-txt">
@@ -184,7 +183,7 @@ President’s speech Mr Tatu lalchand.
 
         </div>
         <div class="row reverse">
-     
+
 
 
             <div class="col-md-8 col-lg-8 text-left sambhaji-para">
@@ -206,7 +205,7 @@ distributed on the occasion.
             </div>
 
 
-        </div>    
+        </div>
         </div>
     </div>
 
@@ -229,12 +228,12 @@ distributed on the occasion.
                 <div class="ulockd-main-title">
                     <p class="abt-txt">
                         <strong><span class="vision-sec">(2 June 2021)
-                            </span></strong><br>Maharana Pratap jayanti was celebrated by Nagari Vikas sevabhavi sanstha among the poor and needy families of new hanuman colony. Firstly tribute was offered to Maharana Pratap Singh by performing the ceremony of Pushpanjali Arpan to his protrait by the President and Vice-President of the organisation. President of the organisation shared some bravery stories of Pratap. His inspirational courage, valour and bravery deeds were remembered on this occassion. The program was ended by distrubuting packaged snacks and sweets.  
+                            </span></strong><br>Maharana Pratap jayanti was celebrated by Nagari Vikas sevabhavi sanstha among the poor and needy families of new hanuman colony. Firstly tribute was offered to Maharana Pratap Singh by performing the ceremony of Pushpanjali Arpan to his protrait by the President and Vice-President of the organisation. President of the organisation shared some bravery stories of Pratap. His inspirational courage, valour and bravery deeds were remembered on this occassion. The program was ended by distrubuting packaged snacks and sweets.
                     </p>
                 </div>
             </div>
 
-        
+
 
 
 <div class="reverse">
@@ -244,9 +243,9 @@ distributed on the occasion.
                 <p class="abt-txt">
                     <strong><span class="vision-sec">(2 June 2022)
                         </span></strong><br>
-Maharana pratap Jayanti Celebrated by NAGARI VIKAS SEVABHAVI SANSTHA on 2 nd June 
+Maharana pratap Jayanti Celebrated by NAGARI VIKAS SEVABHAVI SANSTHA on 2 nd June
 2022 On this Maharapratap homage paid by putting Garland and Flowers,Mr lalachand Tatu described The great Fighter Maharapratap’s Life and living .Vehicle rally was organized in town in remembrance of Maharanapratap The Great Fighter.
-On this occasion all students who secure high marks in their academic exam ,from Garkheda area felicitated by trustee by giving Memento and Gift and inspired them for betterhard work in education,books ,school uniform and school material distributed to poor children. 
+On this occasion all students who secure high marks in their academic exam ,from Garkheda area felicitated by trustee by giving Memento and Gift and inspired them for betterhard work in education,books ,school uniform and school material distributed to poor children.
 
 
 
@@ -316,7 +315,7 @@ expressed their opinions about the dedication of freedom fighters for their
 country and their sacrifice for Independent India. Up-Sarpanch proposed vote of
 thanks to all villagers and organisers for arranging the celebration.
 </p>
-            
+
                 </div>
             </div>
 
@@ -335,7 +334,7 @@ thanks to all villagers and organisers for arranging the celebration.
                     class="img-responsive custom-img1 img11 aug-img responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
-             
+
             <div class="ulockd-main-title">
             <p class="abt-txt">
                         <strong><span class="vision-sec">(15th August 2023)
@@ -380,7 +379,7 @@ thanks to all villagers and organisers for arranging the celebration.
                             </span></strong><br>                 On 5th Sept 2022 Teacher’s day celebrataed ,teachers were felicitated by trustee and   visited to Children home (orphanage)and share their time with children  discussed with them played funny games and had lunch with them.
 
 On this day essay writing competition was conducted among the children of 5 th to 9th class best three essay winner student prize and certificate presented by Our Secretary of trust.
-  
+
 
                 </div>
             </div>
@@ -406,7 +405,7 @@ office, New Hanuman nagar, Garkheda Aurangabad. We faliciated the teachers by
 honoring them with shawl and coconut. Around 43 teachers were invited from
 various schools for this program. Teachers were honored for their dedication
 towards moulding the future of children which is their contribution in creating a
-progressed country. The program was ended with a special lunch.  
+progressed country. The program was ended with a special lunch.
 
                 </div>
             </div>
@@ -426,7 +425,7 @@ progressed country. The program was ended with a special lunch.
     <!--gandhi birthday -->
      <div class="container">
         <div class="row about2 align-items-center">
-        <h1 class="our-vision-credo">CELEBRATION OF BIRTH ANNIVERSARY OF MAHATMA GANDHI</h1>   
+        <h1 class="our-vision-credo">CELEBRATION OF BIRTH ANNIVERSARY OF MAHATMA GANDHI</h1>
         <div class="row reverse">
      <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -455,7 +454,7 @@ Along with Gandhiji, tribute was also given to Former Prime Minister Shri. LalBa
                 <p class="abt-txt">
                     <strong><span class="vision-sec">(2nd October 2022 )
                         </span></strong><br>At Hanumannagar Garkheda Aurangabad  celebrated Birth Anniversary of Mahatma Gandhi on 2nd October 2022 in meeting hall of old age home. During the program special tribute to Gandhiji were offered by President and Vice-President of old age by performing the ceremony of Pushanjali Arapan to the portrait of Father of Nation. President delivered motivational and encouraging speech about Gandhiji’s life. He also said cleanliness and sanitation are an integral part of the Gandhian way of living.
- Along with Gandhiji, tribute was also given to Former Prime Minister Shri. LalBahadur Shashtri on the occasion of his birthday on 2nd October. Gandhian ideology, Health and Hygiene was shared among the old people. 
+ Along with Gandhiji, tribute was also given to Former Prime Minister Shri. LalBahadur Shashtri on the occasion of his birthday on 2nd October. Gandhian ideology, Health and Hygiene was shared among the old people.
 
                 </p>
             </div>
@@ -485,7 +484,7 @@ Health and Hygiene was shared among the citizens.
         <div class="col-md-4 col-lg-4 text-right">
             <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/10/gandhi-jayanti-3-1664614823.jpg" class="img-responsive custom-img gandhi-img responsive"
                 alt="image">
-        </div>  
+        </div>
      </div>
     </div>
         </div>
@@ -508,14 +507,14 @@ Health and Hygiene was shared among the citizens.
             <p class="abt-txt">
                 <strong><span class="vision-sec">(26th January 2023)
                     </span></strong><br>Republic Day was celebrated on 26th January 2023. Flag hoisting was done by the President of Nagari Vikas evabhavi Sanstha , followed by National Anthem, Pledge and Constitution. Patriotic songs were sung to glorify our great super freedom fighter heroes. Sweet and snack were distributed. A short awareness session on Equality and Integrity was also organized. And the program was ended with President’s Speech.
-Republic Day was celebrated with great enthusiasm. 
+Republic Day was celebrated with great enthusiasm.
 
             </p>
         </div>
     </div>
 </div>
         <div class="row about2 align-items-center">
-           
+
 
          <div class="reverse">
         <div class="col-md-8 col-lg-8 text-left">
@@ -552,7 +551,7 @@ Republic Day was celebrated with great enthusiasm.
 
 <div class="container">
         <div class="row about2 align-items-center">
-            <h1 class="our-vision-credo">CHH. SHIVAJI MAHARAJ JAYANTI 
+            <h1 class="our-vision-credo">CHH. SHIVAJI MAHARAJ JAYANTI
             </h1>
 
             <div class="col-md-4 col-lg-4 text-right">
@@ -591,6 +590,5 @@ bags blood was collected. Celebration ended by distributing sweets and fruits.
 
 
 
-    <?php
-    include 'footer.php';
-    ?>
+    <?php include 'footer.php';
+?>

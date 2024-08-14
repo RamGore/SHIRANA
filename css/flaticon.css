@@ -22,7 +22,7 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
   font-family: Flaticon;
   font-style: normal;
 }
@@ -147,8 +147,8 @@
 .flaticon-business-2:before { content: "\f175"; }
 .flaticon-buildings:before { content: "\f176"; }
 .flaticon-responsible-energy-use:before { content: "\f177"; }
-/* .flaticon-dove-of-peace:before { content: "\f178"; } */
-/* .flaticon-make-a-donation:before { content: "\f179"; } */
+.flaticon-dove-of-peace:before { content: "\f178"; }
+.flaticon-make-a-donation:before { content: "\f179"; }
 .flaticon-hands:before { content: "\f17a"; }
 .flaticon-raise-your-hand-to-ask:before { content: "\f17b"; }
 .flaticon-woman-and-child-holding-hands:before { content: "\f17c"; }

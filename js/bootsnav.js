@@ -186,11 +186,11 @@
         });
       }
 
-      const navIcon = document.getElementById("icon");
+      // const navIcon = document.getElementById("icon");
 
-      navIcon.addEventListener("click", () => {
-        navIcon.classList.toggle("fa-x");
-      });
+      // navIcon.addEventListener("click", () => {
+      //   navIcon.classList.toggle("fa-x");
+      // });
 
       // ------------------------------------------------------------------------------ //
       // Button Cart

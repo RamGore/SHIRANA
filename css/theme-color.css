@@ -154,7 +154,7 @@ nav.navbar li.dropdown ul.dropdown-menu {
 	border-top: 5px solid #ffb606
 }
 .header-nav .main-header-nav.navbar-scrolltofixed {
-    border-top: 1px solid #ffb606;
+    border-top: none !important;
 }
 .ulockd-bb-dashed {
 	border-bottom: 1px dashed #ffb606;

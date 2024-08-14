@@ -66,9 +66,11 @@ img {
   max-width: 100%;
 }
 p {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.5em;
   font-weight: 400;
+  word-break: break-all;
+  word-wrap: break-word;
 }
 ul,
 ol {
@@ -86,7 +88,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #333333;
+
   text-decoration: none;
 }
 a img {
@@ -166,7 +168,9 @@ h5 {
   color: #798590 !important;
 }
 .color-white {
-  color: #ffffff !important; }
+  color: #ffffff !important;
+  font-size: 16px;
+ }
 
 .color-lightgray {
   color: #D3D3D3; }
@@ -422,8 +426,7 @@ h5 {
 }
 .ulockd-btn-thm2 {
   color: #fff;
-  border-radius: 5px;
-  padding: 7px;
+  padding: 8px 9px;
 }
 .ulockd-btn-thm2:hover,
 .ulockd-btn-thm2:active,
@@ -1311,6 +1314,9 @@ form.ulockd-reg-form {
 .dropdown {
   position: relative;
 }
+.dropdown a{
+  font-size: 15px !important;
+}
 .dropdown-content {
   display: none;
   position: absolute;
@@ -1638,9 +1644,8 @@ bottom: 60px;
 color: #ffffff;
 display: none;
 font-size: 20px;
-line-height: 1.5em;
-padding: 5px;
 width: 50px;
+padding: 10px;
 height: 50px;
 border-radius: 50%;
 position: fixed;
@@ -1860,7 +1865,7 @@ z-index: 9
 
 /* ---------- RECENT CAUSES  ---------- */
 .recent-causes {
-background-color: #f9f9f9;
+background-color:white;
 padding: 10px 0;
 }
 .fstory {
@@ -2003,7 +2008,8 @@ margin-top: 0;
   position: relative;
 }
 .ulockd-about2 {
-  padding: 50px 0;
+  padding-top: 10px !important;
+  padding-bottom: 40px;
 }
 
 /* ---------- OUR CAUSES  ---------- */
@@ -2566,13 +2572,12 @@ article.ulockd-pd-content {
 }
 .ulockd-service-three {
   background-color: #f9f9f9;
-  padding-bottom: 40px;
-  padding-top: 0px !important;
+  padding: 10px 0px !important;
 }
 .ulockd-main-title h2 {
   color: #111;
   font-size: 35px;
-  padding-top: 30px;
+  padding-top: 25px;
 }
 .missn-icon-two {
   padding: 5px;
@@ -3415,7 +3420,7 @@ article.ulockd-pd-content {
 /* ---------- OUR PROJECTS  ---------- */
 .our-projects {
   background-color: #f7f7f7;
-  padding: 40px 0;
+  padding-bottom: 30px;
 }
 .pb-thumb {
   overflow: hidden;
@@ -3787,9 +3792,9 @@ article.ulockd-pd-content {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding: 50px 0px;
 }
+
 .ulockd-footer:before {
   background-color: rgba(17, 17, 17, .75);
   content: "";
@@ -3960,7 +3965,7 @@ article.ulockd-pd-content {
 .ulockd-ftr-phone, .ulockd-ftr-mail {
   color: #fff;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 2;
   letter-spacing: 0.2px;
   display: flex;
 }
@@ -3968,6 +3973,7 @@ article.ulockd-pd-content {
   display: flex;
   flex-direction: column;
   color: #fff;
+  font-size: 18px;
 }
 
 .ftr-phone, .ftr-fax, .ftr-mail {
@@ -3995,8 +4001,8 @@ article.ulockd-pd-content {
 }
 .ulockd-footer-qlink .list-unstyled li a {
   color: #fff;
-  font-size: 14px;
-  line-height: 28px;
+  font-size: 18px !important;
+  line-height: 2;
   font-family: 'Roboto Slab', serif;
   -webkit-transition: all 400ms ease-in-out;
   -moz-transition: all 400ms ease-in-out;
@@ -4030,7 +4036,7 @@ article.ulockd-pd-content {
 /* Footer Copyright Text */
 .ulockd-copy-right, .ulockd-l2-copy-right {
   color: #313131;
-  padding: 5px;
+  padding: 20px;
   text-align: center;
 }
 
@@ -4564,9 +4570,13 @@ form.ulockd-reg-form {
 }
 
 .footer-icon{
-  font-size: 22px;
+  font-size: 25px !important;
+  margin-top: 10px;
+  padding-right:15px !important;
+
 }
 .text-more{
   color: orange;
   padding-top: 40px;
+
 }

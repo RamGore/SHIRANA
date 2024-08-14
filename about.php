@@ -1,6 +1,5 @@
 <?php
-include 'header.php';
-?>
+include 'header.php'; ?>
 <style>
     .float{
 	position:fixed;
@@ -24,7 +23,7 @@ include 'header.php';
 <a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
 <i class="fa fa-whatsapp my-float"></i>
 </a>
-<main class="about-page">	
+<main class="about-page">
     <!-- Home Design Inner Pages -->
     <div class="ulockd-inner-home">
         <div class="container text-center">
@@ -133,7 +132,7 @@ include 'header.php';
                 <div class="reverse">
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">
-                        <p class="abt-txt">
+                        <p class="abt-txt-new">
                             From they can help to earn money and when they suffering with poverty not able to do hard work or work away from home they would be expected to support them. However, distressed people are normally considered a financial burden and, due to poverty, no special provision is provided for them. There are many examples of girls being left at home, alone all day while their parents, brothers and sisters work in the fields. Now at the age of 15 to 35 they are too old to begin. Therefore in addition to teaching art and craft they also need to be taught basic number skills, computer skills, reading, and writing.
                         </p>
                     </div>
@@ -147,6 +146,5 @@ include 'header.php';
     </section>
 </main>
 
-	<?php
-include 'footer.php';
+	<?php include 'footer.php';
 ?>
