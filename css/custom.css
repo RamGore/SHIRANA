@@ -415,10 +415,49 @@ p {
 
 
 
+.containerrrrr {
+  display: flex;
+  justify-content: space-between;
+}
+.content100 {
+flex: 50% 0 0;
+  padding: 10px;
+}
+.fb-plugin {
+flex: 0 0 40%;
+  padding: 10px;
+  margin-left:60px;
+}
+.joinus{
+font-size:15px;
+}
+.faceh1{
+color:#0765fe;
+}
+@media (min-width:300px)and (max-width:1200px){
+ 
+.containerrrrr{
+  display:flex;
+  flex-direction: column;
+} 
+.fb-plugin {
+  margin:0 auto;
+  box-shadow: none;
+  padding:0;
+  border-radius: none;
 
+}
+}
+.follwbtn{
+  margin-top:30px;
+  background-color:#5376ad ;
+  border-color: none;
+  border-radius:7px;
+}
 
-
-
+.follwbtn a{
+  color: white;
+}
 
 
 

@@ -14,6 +14,7 @@ include 'header.php';
 	text-align:center;
   font-size:20px;
   z-index:100;
+
 }
 
 .my-float{

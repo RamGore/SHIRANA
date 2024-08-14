@@ -13,7 +13,6 @@ include 'header.php';
 	border-radius:50px;
 	text-align:center;
   font-size:20px;
-	box-shadow: 2px 2px 3px #999;
   z-index:100;
 }
 
