@@ -1,7 +1,29 @@
 <?php
 include 'header.php'; ?>
 
+<style>
+    .float{
+	position:fixed;
+	width:50px;
+	height:50px;
+	bottom:60px;
+  left:20px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:20px;
+  z-index:100;
+}
 
+.my-float{
+	margin-top:16px;
+}
+</style>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
 <body>
 	<div class="wrapper">
 		<div id="preloader" class="preloader">
@@ -1337,6 +1359,290 @@ include 'header.php'; ?>
 								</div>
 							</div>
 
+
+
+
+							<div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/69.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/69.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
+							<div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/70.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/70.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/71.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/71.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/72.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/72.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/73.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/73.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/74.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/74.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/75.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/75.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/76.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/76.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/77.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/77.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/78.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/78.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/79.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/79.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/80.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/80.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/81.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/81.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/82.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/82.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="isotope-item creative corporate">
+								<div class="gallery-thumb">
+									<img class="img-responsive img-whp" src="images/gallery copy/83.jpeg" alt="project">
+									<div class="overlayer">
+										<div class="lbox-caption">
+											<div class="lbox-details">
+
+												<ul class="list-inline">
+													<li>
+														<a class="popup-img" href="images/gallery copy/83.jpeg"><span class="flaticon-add-square-button"></span></a>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 						</div>
 
 					</div>
@@ -1348,23 +1654,4 @@ include 'header.php'; ?>
 
 
 		<?php include 'footer.php'; ?>
-		<!-- Wrapper End -->
-		<script type="text/javascript" src="js/jquery-1.12.4.js"></script>
-		<script type="text/javascript" src="js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="js/bootsnav.js"></script>
-		<script type="text/javascript" src="js/parallax.js"></script>
-		<script type="text/javascript" src="js/scrollto.js"></script>
-		<script type="text/javascript" src="js/jquery-scrolltofixed-min.js"></script>
-		<script type="text/javascript" src="js/gallery.js"></script>
-		<script type="text/javascript" src="js/wow.min.js"></script>
-		<script type="text/javascript" src="js/slider.js"></script>
-		<script type="text/javascript" src="js/video-player.js"></script>
-		<script type="text/javascript" src="js/timepicker.js"></script>
-		<script type="text/javascript" src="js/tweetie.js"></script>
-		<!-- Custom script for all pages -->
-		<script type="text/javascript" src="js/script.js"></script>
-</body>
-
-<!-- Mirrored from unlockdesizn.com/html/nonprofit/be-ahand/blog-grid-one.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Jul 2024 05:33:34 GMT -->
-
-</html>
+	

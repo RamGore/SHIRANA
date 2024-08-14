@@ -46,7 +46,6 @@
 				<div class="ulockd-footer-twitter example1">
 					<h3 class="text-uppercase">FOLLOW <span class="text-thm2">US</span></h3>
 
-
 					<ul class="list-inline ulockd-footer-font-icon">
 						<li><a href="#"><i class="fa-brands fa-facebook-f" style="color: #fff;"></i></a></li>
 						<li><a href="#"><i class="fa-brands fa-whatsapp" style="color: #fff;"></i></a></li>

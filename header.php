@@ -275,16 +275,17 @@
 
 						<!-- <div class="container ulockd-pad90"> -->
 							<!-- Start Header Navigation -->
-							<!-- <div class="navbar-header mobile-header">
-								<div>
-									<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-										<i class="fa fa-bars"></i>
-									</button>
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+									<i class="fa fa-bars"></i>
+								</button>
+								<div class="display welcm-ht text-center">
+									<p class="ulockd-welcntxt">NAGARI VIKAS SEVABHAVI SANSTHA</p>
 								</div>
 								<div class="display welcm-ht">
 									<p class="ulockd-welcntxt">NAGARI VIKAS SEVABHAVI SANSTHA</p>
 								</div>
-							</div> -->
+							</div>
 
 							<!-- <div class="collapse navbar-collapse" id="navbar-menu">
 								<ul class="nav navbar-nav navbar-left">
@@ -306,6 +307,9 @@
 									</li>
 									<li class="dropdown">
 										<a href="gallery">Gallery</a>
+									</li>
+									<li class="dropdown">
+										<a href="facebook">Facebook</a>
 									</li>
 									<li class="dropdown">
 										<a href="contact-us">Contact Us</a>

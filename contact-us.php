@@ -1,6 +1,37 @@
 <?php
 include 'header.php';
 ?>
+
+
+
+<style>
+     .float {
+            position: fixed;
+            width: 50px;
+            height: 50px;
+            bottom: 60px;
+            left: 20px;
+            background-color: #25d366;
+            color: #FFF;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 20px;
+            z-index: 100;
+        }
+
+        .my-float {
+            margin-top: 16px;
+        }
+
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
+    <i class="fab fa-whatsapp my-float"></i>
+</a>
+
+
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <div class="wrapper">
@@ -197,26 +228,3 @@ include 'header.php';
 <?php
 include 'footer.php';
 ?>
-<!-- Wrapper End -->
-<script type="text/javascript" src="js/jquery-1.12.4.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/bootsnav.js"></script>
-<script type="text/javascript" src="js/parallax.js"></script>
-<script type="text/javascript" src="js/scrollto.js"></script>
-<script type="text/javascript" src="js/jquery-scrolltofixed-min.js"></script>
-<script type="text/javascript" src="js/gallery.js"></script>
-<script type="text/javascript" src="js/wow.min.js"></script>
-<script type="text/javascript" src="js/slider.js"></script>
-<script type="text/javascript" src="js/video-player.js"></script>
-<script type="text/javascript" src="js/timepicker.js"></script>
-<script type="text/javascript" src="js/tweetie.js"></script>
-<!-- Google Map Javascript Codes -->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyABqK-5ngi3F1hrEsk7-mCcBPsjHM5_Gj0"></script>
-<script src="js/googlemaps.js"></script>
-<!-- Custom script for all pages -->
-<script type="text/javascript" src="js/script.js"></script>
-</body>
-
-<!-- Mirrored from unlockdesizn.com/html/nonprofit/be-ahand/page-contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Jul 2024 05:33:53 GMT -->
-
-</html>

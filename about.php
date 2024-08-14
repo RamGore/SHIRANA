@@ -1,7 +1,29 @@
 <?php
 include 'header.php';
 ?>
+<style>
+    .float{
+	position:fixed;
+	width:50px;
+	height:50px;
+	bottom:60px;
+  left:20px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:20px;
+  z-index:100;
+}
 
+.my-float{
+	margin-top:16px;
+}
+</style>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
 <main class="about-page">	
     <!-- Home Design Inner Pages -->
     <div class="ulockd-inner-home">
@@ -40,7 +62,7 @@ include 'header.php';
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4 text-right">
-                    <img src="https://img.freepik.com/free-photo/people-stacking-hands-together-park_53876-63293.jpg" class="img-responsive custom-img responsive" alt="image">
+                    <img src="images/gallery copy/64.jpg" class="img-responsive custom-img responsive" alt="image">
                 </div>
             </div>
 

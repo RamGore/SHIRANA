@@ -1,6 +1,29 @@
 <?php
 include 'header.php';
 ?>
+<style>
+    .float{
+	position:fixed;
+	width:50px;
+	height:50px;
+	bottom:60px;
+  left:20px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:20px;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
+</style>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
 <main class="events-page">
 
     <!-- Home Design Inner Pages -->
@@ -33,7 +56,7 @@ include 'header.php';
                 </div>
             </div>
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLipDec1p3oVplweVDbYQ6OeqAGxRSPQitpQg9Za07YdYFdwBHbbcKw0ohgQFBw5IlNCg&usqp=CAU"
+                <img src="images/gallery copy/18.jpg"
                     class="img-responsive custom-img1 responsive" alt="image">
             </div>
         </div>
@@ -44,7 +67,7 @@ include 'header.php';
 
 
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://images.news9live.com/wp-content/uploads/2024/04/Ambedkar-Jayanti-2024-Banner-3-e1712736105607.jpg" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery copy/1.png" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -199,7 +222,7 @@ distributed on the occasion.
             <h1 class="our-vision-credo">CELEBRATION OF MAHARANA PRATAP JAYANTI</h1>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://rukminim2.flixcart.com/image/850/1000/xif0q/painting/r/u/h/8-1-maharana-pratap-photo-maharana-pratap-painting-maharana-original-imagzwwvgphwbrhp.jpeg?q=90&crop=false"
+                <img src="images/gallery copy/5.png"
                     class="img-responsive custom-img1 womens-day responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -230,7 +253,7 @@ On this occasion all students who secure high marks in their academic exam ,from
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://newindian.in/wp-content/uploads/2023/01/4b6d463dc41cb344c8d29edd5d13315f.jpg" class="img-responsive custom-img1 womens-day1 responsive"
+            <img src="images/gallery copy/21.jpg" class="img-responsive custom-img1 womens-day1 responsive"
                 alt="image">
         </div>
         </div>
@@ -298,7 +321,7 @@ thanks to all villagers and organisers for arranging the celebration.
             </div>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://www.vmcdn.ca/f/files/bradfordtoday/images/town-of-bradford/3_flag-aug17.png;w=800"
+                <img src="images/gallery copy/30.jpg"
                     class="img-responsive custom-img1 img11 aug-img responsive" alt="image">
             </div>
             </div>
@@ -362,7 +385,7 @@ On this day essay writing competition was conducted among the children of 5 th t
                 </div>
             </div>
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2023/09/teachers-day-1-1693823289.jpg"
+                <img src="images/gallery copy/51.jpg"
                     class="img-responsive custom-img1 img11 aids-image responsive" alt="image">
             </div>
             </div>
@@ -371,7 +394,7 @@ On this day essay writing competition was conducted among the children of 5 th t
 
 <div class="row">
 <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://www.hindustantimes.com/ht-img/img/2023/10/04/550x309/F7gKwhVW4AAfbvc_1696424901264_1696425115431.jfif"
+                <img src="images/gallery copy/34.jpg"
                     class="img-responsive custom-img1 img11 aids-image responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -418,7 +441,7 @@ Along with Gandhiji, tribute was also given to Former Prime Minister Shri. LalBa
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://i0.wp.com/ketto.blog/wp-content/uploads/2023/09/Artboard-6-1.jpg?fit=1024%2C576&ssl=1" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery copy/4.png" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
      </div>
@@ -533,7 +556,7 @@ Republic Day was celebrated with great enthusiasm.
             </h1>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://images.news18.com/ibnlive/uploads/2024/02/happy-shivaji-jayanti-2024-wishes-messages-2-2024-02-0a2c410ef3f7130a6eb47f31c3ddc8bd-scaled.jpg?impolicy=website&width=0&height=0"
+                <img src="images/gallery copy/14.png"
                     class="img-responsive custom-img1 img11 vysan-mukti responsive" alt="image">
             </div>
 
