@@ -206,7 +206,6 @@
 		margin-bottom: 25px;
 
 	}
-
 	.ulockd-footer-fst-col > p {
 		color: #fff;
 		font-family: 'Roboto Slab', serif;
@@ -239,6 +238,31 @@
 		font-size: 14px;
 		font-weight: bold;
 		display: inline;
+	}
+	.text-center .row {
+	    margin-top: 66px !important;
+	}
+	.masonry-gallery.grid-four-item .isotope-item {
+		width: 33%;
+	}
+
+	.container .responsive{
+		width: 80% !important;
+		height: 450px !important;
+	}
+	.ulockd-footer .container .row{
+		display: grid;
+		grid-template-columns: repeat(1,1fr);
+
+	}
+	.ulockd-main-logo {
+		font-family: 'Roboto Slab', serif;
+		font-size: 20px;
+		color: #ffb606;
+		text-decoration: none;
+		max-width: 300px;
+		font-weight: bold;
+		text-align: left;
 	}
 }
 @media (max-width:767px){
