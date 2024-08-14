@@ -426,7 +426,7 @@ include 'header.php'; ?>
 									</div>
 								</div>
 							</div>
-							<div class="isotope-item creative corporate">
+							<!-- <div class="isotope-item creative corporate">
 								<div class="gallery-thumb">
 									<img class="img-responsive img-whp" src="images/gallery copy/19.jpg" alt="project">
 									<div class="overlayer">
@@ -443,7 +443,7 @@ include 'header.php'; ?>
 										</div>
 									</div>
 								</div>
-							</div>
+							</div> -->
 
 
 
@@ -523,7 +523,7 @@ include 'header.php'; ?>
 								</div>
 							</div>
 
-							<div class="isotope-item creative corporate">
+							<!-- <div class="isotope-item creative corporate">
 								<div class="gallery-thumb">
 									<img class="img-responsive img-whp" src="images/gallery copy/24.jpg" alt="project">
 									<div class="overlayer">
@@ -540,7 +540,7 @@ include 'header.php'; ?>
 										</div>
 									</div>
 								</div>
-							</div>
+							</div> -->
 
 							<div class="isotope-item creative corporate">
 								<div class="gallery-thumb">
@@ -884,7 +884,7 @@ include 'header.php'; ?>
 								</div>
 							</div>
 
-							<div class="isotope-item creative corporate">
+							<!-- <div class="isotope-item creative corporate">
 								<div class="gallery-thumb">
 									<img class="img-responsive img-whp" src="images/gallery copy/43.jpg" alt="project">
 									<div class="overlayer">
@@ -901,7 +901,7 @@ include 'header.php'; ?>
 										</div>
 									</div>
 								</div>
-							</div>
+							</div> -->
 
 							<div class="isotope-item creative corporate">
 								<div class="gallery-thumb">
@@ -1169,7 +1169,7 @@ include 'header.php'; ?>
 								</div>
 							</div>
 
-							<div class="isotope-item creative corporate">
+							<!-- <div class="isotope-item creative corporate">
 								<div class="gallery-thumb">
 									<img class="img-responsive img-whp" src="images/gallery copy/58.jpg" alt="project">
 									<div class="overlayer">
@@ -1357,7 +1357,7 @@ include 'header.php'; ?>
 										</div>
 									</div>
 								</div>
-							</div>
+							</div> -->
 
 
 
@@ -1654,4 +1654,3 @@ include 'header.php'; ?>
 
 
 		<?php include 'footer.php'; ?>
-	

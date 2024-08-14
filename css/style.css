@@ -146,9 +146,9 @@ h5 {
   margin: 30px;
 }
 .gallImg{
-  width: 320px;
-  padding: 10px;
-  height: 360px;
+  width: 300px;
+  padding: 5px;
+  height: 310px;
   border-radius: 25px;
 }
 .activity-img{
@@ -2572,7 +2572,7 @@ article.ulockd-pd-content {
 }
 .ulockd-service-three {
   background-color: #f9f9f9;
-  padding: 10px 0px !important;
+  padding: 0px 0px !important;
 }
 .ulockd-main-title h2 {
   color: #111;
@@ -4043,7 +4043,7 @@ article.ulockd-pd-content {
 /* INNER PAGES START HERE */
 .ulockd-inner-home {
   background-attachment: fixed;
-  background-image: url("../images/background/inner-pagebg.jpg");
+  background-image: url("../images/gallery\ copy/66.jpg");
   background-position: center top;
   background-repeat: no-repeat;
   -webkit-background-size: cover;

@@ -1,6 +1,5 @@
 <?php
-include 'header.php';
-?>
+include 'header.php'; ?>
 <style>
     .float{
 	position:fixed;
@@ -76,7 +75,7 @@ include 'header.php';
             </table>
         </div>
         <div class="image-containerr main-content">
-            <img src="https://m.economictimes.com/thumb/msid-63293846,width-1200,height-900,resizemode-4,imgsize-49958/donation-charity.jpg" alt="Description of Image">
+            <img src="images/gallery copy/donation.jpg" alt="Description of Image">
         </div>
     </div>
 

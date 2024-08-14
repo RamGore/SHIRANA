@@ -97,7 +97,7 @@ Tatu Lalchand expressesd his honest gratitude for Dr. Babasaheb Ambedkar.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://i.ytimg.com/vi/rKJoXAAx9vw/maxresdefault.jpg" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery copy/24.jpg" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
         </div>
@@ -115,7 +115,7 @@ Tatu Lalchand expressesd his honest gratitude for Dr. Babasaheb Ambedkar.
 
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://t4.ftcdn.net/jpg/05/00/42/77/360_F_500427775_ifULmeH1wJ2axNamQaR6HmU2a6imqqt2.jpg"
+                <img src="images/gallery copy/77.jpeg"
                     class="img-responsive custom-img1 img11 responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -142,7 +142,7 @@ President’s speech Mr Tatu lalchand.
                 </div>
             </div>
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://www.shutterstock.com/image-vector/calligraphy-hindi-marathi-which-translates-260nw-1964024371.jpg"
+                <img src="images/gallery copy/8.png"
                     class="img-responsive custom-img1 img11 responsive" alt="image">
             </div>
         </div>
@@ -165,7 +165,7 @@ President’s speech Mr Tatu lalchand.
             </h1>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://i.pinimg.com/originals/8c/5d/51/8c5d51233f1496963f1f16e084d2edc9.jpg"
+                <img src="images/gallery copy/20.jpg"
                     class="img-responsive custom-img1 img11 gudi-img responsive" alt="image">
             </div>
 
@@ -191,16 +191,16 @@ President’s speech Mr Tatu lalchand.
                     <p class="abt-txt">
                         <strong><span class="vision-sec">(14 May 2023)
                             </span></strong><br>Chhatrapati Sambhaji Maharaji jayanti was celebrated by Nagari vikas sevabhavi
-sanstha. The President of the organization garland the portrait of Chhatrapati
-Sambhaji Maharaj. Followed by the speech on his life and works. Sweets were
-distributed on the occasion.
+    sanstha. The President of the organization garland the portrait of Chhatrapati
+    Sambhaji Maharaj. Followed by the speech on his life and works. Sweets were
+    distributed on the occasion.
 
 
                 </div>
             </div>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://d3jbu7vaxvlagf.cloudfront.net/v2/category_meta_images/chhatrapati_sambhaji_maharaj_jayanti_poster_17147293439501.webp"
+                <img src="images/gallery copy/27.jpg"
                     class="img-responsive custom-img1 img11 gudi-img responsive" alt="image">
             </div>
 
@@ -261,7 +261,7 @@ On this occasion all students who secure high marks in their academic exam ,from
     <div class="row">
 
     <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://m.media-amazon.com/images/I/41t7My0HfjL._AC_UF1000,1000_QL80_.jpg"
+            <img src="images/gallery copy/82.jpeg"
                 class="img-responsive custom-img1 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -330,7 +330,7 @@ thanks to all villagers and organisers for arranging the celebration.
         <div class="row">
 
         <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://c8.alamy.com/comp/2C562XK/indian-happy-independence-day-celebration-15-august-with-gateway-and-map-of-india-2C562XK.jpg"
+                <img src="images/gallery copy/4.png"
                     class="img-responsive custom-img1 img11 aug-img responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -499,7 +499,7 @@ Health and Hygiene was shared among the citizens.
         <h1 class="our-vision-credo">CELEBRATION OF REPUBLIC DAY </h1>
 
 <div class="col-md-4 col-lg-4 text-right">
-        <img src="https://cdnjs.angroos.com/wp-content/uploads/2024/01/1-1.jpg"
+        <img src="images/gallery copy/77.jpeg"
             class="img-responsive custom-img1 yoga-img2 responsive" alt="image">
     </div>
     <div class="col-md-8 col-lg-8 text-left">
@@ -532,7 +532,7 @@ Republic Day was celebrated with great enthusiasm.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://images.news18.com/ibnlive/uploads/2022/01/republic-day-2022.jpg" class="img-responsive custom-img1 republic-img responsive"
+            <img src="images/gallery copy/4.png" class="img-responsive custom-img1 republic-img responsive"
                 alt="image">
         </div>
     </div>

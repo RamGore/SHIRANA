@@ -142,7 +142,7 @@ include 'header.php'; ?>
 			</div>
 			<div class="col-sm-12 col-md-5">
 				<div class="ab-thumb">
-					<img class="img-responsive img-whp" src="https://img.freepik.com/free-photo/people-stacking-hands-together-park_53876-63293.jpg" alt="1.jpg">
+					<img class="img-responsive img-whp" src="images/gallery copy/aboutus.jpg" alt="1.jpg">
 				</div>
 
 			</div>
@@ -165,7 +165,7 @@ include 'header.php'; ?>
 		<div class="row">
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="https://raisingchildren.net.au/__data/assets/image/0014/108131/Physical-activity-for-children-with-disability-wide.jpg" alt="1a.jpg">
+					<img class="img-responsive img-whp" src="images/gallery copy/56.jpg" alt="1a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>HANDICAPPED TRAINING PROGRAM</h3>
@@ -175,7 +175,7 @@ include 'header.php'; ?>
 			</div>
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="https://img.etimg.com/thumb/width-640,height-480,imgsize-79822,resizemode-75,msid-92110083/magazines/panache/yoga-for-wellness-why-more-men-are-practising-it-for-physical-mental-well-being/yoga.jpg" alt="2a.jpg">
+					<img class="img-responsive img-whp" src="images/gallery copy/61.jpg" alt="2a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>INTERNATIONAL YOGA DAY</h3>
@@ -187,8 +187,7 @@ include 'header.php'; ?>
 		<div class="row ulockd-mrgn1225">
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive activity-img" src="https://batonrougeclinic.com/wp-content/uploads/2022/01/Baldwin-1-10-Reasons-to-Donate-Blood-e1641235978110.jpg" alt="3a.jpg">
-
+					<img class="img-responsive activity-img" src="images/gallery copy/42.jpg" alt="3a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>BLOOD DONATION CAMP</h3>
@@ -198,7 +197,7 @@ include 'header.php'; ?>
 			</div>
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive activity-img" src="https://img.jagranjosh.com/images/2021/June/262021/World-Environment-Day-History.png" alt="4a.jpg">
+					<img class="img-responsive activity-img" src="images/gallery copy/84.png" alt="4a.jpg">
 
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
@@ -271,14 +270,14 @@ include 'header.php'; ?>
 										<div class="row">
 											<!-- Left Side: Image -->
 											<div class="col-md-6 d-flex justify-content-center align-items-center">
-												<img src="https://t4.ftcdn.net/jpg/05/00/42/77/360_F_500427775_ifULmeH1wJ2axNamQaR6HmU2a6imqqt2.jpg"class="testimonial-img" alt="">
+												<img src="images/gallery copy/15aug.png"class="testimonial-img" alt="Maharashtra din">
 											</div>
 											<!-- Right Side: Text -->
 											<div class="col-md-6">
-												<h3 class="text-thm2" >MAHARASHTRA <span class="ulockd-mrgn630">DIN </span></h3>
+												<h3 class="text-thm2" >MAHARASHTRA<span class="ulockd-mrgn630">DIN </span></h3>
 												<p>
 													<i class="bi bi-quote quote-icon-left"></i>
-													<span>Republic Day was celebrated on 26th January 2024 with the citizens of New Hanuman colony. Flag hoisting was done by the President of Nagari Vikas Sevabhavi Sanstha, followed by National Anthem, Pledge, and Constitution. Patriotic songs were sung to glorify our great super freedom fighter heroes. Sweets and snacks were distributed. A short awareness session on Equality and Integrity was also organized. The program ended with the President’s Speech. Republic Day was celebrated with great enthusiasm.</span>
+													<span>Maharashtra Din was celebrated on 1th May 2024 with the citizens of New Hanuman colony. Flag hoisting was done by the President of Nagari Vikas Sevabhavi Sanstha, followed by National Anthem, Pledge, and Constitution. Patriotic songs were sung to glorify our great super freedom fighter heroes. Sweets and snacks were distributed. A short awareness session on Equality and Integrity was also organized. The program ended with the President’s Speech. Republic Day was celebrated with great enthusiasm.</span>
 													<i class="bi bi-quote quote-icon-right"></i>
 												</p>
 												<a class="text-thm2" href="event.php" class="">More Details <span class="flaticon-right-arrow"></span></a>
@@ -295,7 +294,7 @@ include 'header.php'; ?>
 										<div class="row">
 											<!-- Left Side: Image -->
 											<div class="col-md-6 d-flex justify-content-center align-items-center">
-												<img src="https://www.vmcdn.ca/f/files/bradfordtoday/images/town-of-bradford/3_flag-aug17.png;w=800" class="testimonial-img" alt="">
+												<img src="images/gallery copy/4.png" class="testimonial-img" alt="independence day">
 											</div>
 											<!-- Right Side: Text -->
 											<div class="col-md-6">
@@ -319,7 +318,7 @@ include 'header.php'; ?>
 										<div class="row">
 											<!-- Left Side: Image -->
 											<div class="col-md-6 d-flex justify-content-center align-items-center">
-												<img src="https://www.hindustantimes.com/ht-img/img/2023/10/04/550x309/F7gKwhVW4AAfbvc_1696424901264_1696425115431.jfif" class="testimonial-img" alt="">
+												<img src="images/gallery copy/51.jpg" class="testimonial-img" alt="teacher day">
 											</div>
 											<!-- Right Side: Text -->
 											<div class="col-md-6">
@@ -344,7 +343,7 @@ include 'header.php'; ?>
 										<div class="row">
 											<!-- Left Side: Image -->
 											<div class="col-md-6 d-flex justify-content-center align-items-center">
-												<img src="https://cdnjs.angroos.com/wp-content/uploads/2024/01/1-1.jpg" class="testimonial-img" alt="">
+												<img src="images/gallery copy/77.jpeg" class="testimonial-img" alt="">
 											</div>
 											<!-- Right Side: Text -->
 											<div class="col-md-6">
@@ -405,14 +404,14 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item charity children">
 						<div class="gallery-thumb">
-							<img class="img-responsive gallImg" src="images/gallery/1.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery copy/1.png" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery/1.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/1.png" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
 												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
@@ -427,14 +426,14 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item children education clothing">
 						<div class="gallery-thumb">
-							<img class="img-responsive gallImg" src="images/gallery/2.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery copy/23.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery/2.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/23.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
 												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
@@ -449,14 +448,14 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item new children clothing">
 						<div class="gallery-thumb">
-							<img class="img-responsive gallImg" src="images/gallery/3.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery copy/26.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery/3.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/26.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
 												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
@@ -471,14 +470,14 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item charity">
 						<div class="gallery-thumb">
-							<img class="img-responsive gallImg" src="images/gallery/4.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery copy/33.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery/4.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/33.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
 												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
@@ -493,14 +492,14 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item children clothing">
 						<div class="gallery-thumb">
-							<img class="img-responsive gallImg" src="images/gallery/5.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery copy/35.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery/5.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/35.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
 												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
@@ -515,14 +514,14 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item new education fundraisin">
 						<div class="gallery-thumb">
-							<img class="img-responsive gallImg" src="images/gallery/6.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery copy/42.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery/6.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/42.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
 												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
@@ -537,14 +536,14 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item fundraisin">
 						<div class="gallery-thumb">
-							<img class="img-responsive gallImg" src="images/gallery/7.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery copy/49.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery/7.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/49.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
 												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
@@ -559,14 +558,14 @@ include 'header.php'; ?>
 					<!-- Masonry Item -->
 					<div class="isotope-item charity">
 						<div class="gallery-thumb">
-							<img class="img-responsive gallImg" src="images/gallery/8.jpg" alt="project">
+							<img class="img-responsive gallImg" src="images/gallery copy/66.jpg" alt="project">
 							<div class="overlayer">
 								<div class="lbox-caption">
 									<div class="lbox-details">
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery/8.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/66.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
 												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>

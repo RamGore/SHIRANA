@@ -265,10 +265,10 @@ p {
 .toppppp {
   color: rgb(255, 255, 255) !important;
 }
-.activity-page,
+/* .activity-page,
 .events-page {
   background-color: #f0efeb;
-}
+} */
 .footer-logo {
   color: #ffb606;
 }
@@ -342,13 +342,11 @@ p {
 
 /* Image specific styling */
 .image-containerr img {
-  width: 80%;
-  height: 89%;
+  width: 550px;
+  height: 350px;
   object-fit: cover;
   border-radius: 20px;
   position: relative;
-  padding: 20px;
-  background-color: #f0f0f0;
   margin-bottom: 50px;
 
   &::before {
@@ -369,9 +367,9 @@ p {
   color: #ffb405;
 }
 
-.our-bank-detail-head {
+/* .our-bank-detail-head {
   margin-top: 43px;
-}
+} */
 .donate-line {
   font-size: 15px;
   margin-left: 66px !important;
@@ -441,11 +439,11 @@ font-size:15px;
 color:#0765fe;
 }
 @media (min-width:300px)and (max-width:1200px){
- 
+
 .containerrrrr{
   display:flex;
   flex-direction: column;
-} 
+}
 .fb-plugin {
   margin:0 auto;
   box-shadow: none;
