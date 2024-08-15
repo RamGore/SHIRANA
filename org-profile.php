@@ -1,25 +1,27 @@
 <?php
 include 'header.php';
 ?>
-	<!-- Home Design Inner Pages -->
-	<!-- <div class="ulockd-inner-home">
-		<div class="container text-center">
-			<div class="row">
-				<div class="ulockd-inner-conraimer-details">
-					<div class="col-md-12">
-						<h1 class="text-uppercase">Organisation Profile</h1>
-                        <ul class="list-inline ulockd-icd-sub-menu">
+
+    <div class="ulockd-inner-home-org">
+        <div class="container text-center">
+            <div class="row">
+            <div class="ulockd-inner-conraimer-details">
+                <div class="col-md-12">
+                    <h1 class="text-uppercase">Organisation Profile</h1>
+                </div>
+                <div class="col-md-12">
+                    <div class="ulockd-icd-layer">
+                    <ul class="list-inline ulockd-icd-sub-menu topppp">
                         <li><a href="index.php"> HOME </a></li>
                         <li><a href="#"> > </a></li>
                         <li> <a href="#"> ABOUT US </a> </li>
                     </ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div> -->
-
-
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
 
 	<!-- table -->
 	<h1 class="our-vision-credo headingg">Document Details</h1>

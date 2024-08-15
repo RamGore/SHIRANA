@@ -4021,12 +4021,116 @@ article.ulockd-pd-content {
   padding: 120px 0;
   position: relative;
 }
+.ulockd-inner-home-event {
+  background-attachment: fixed;
+  background-image: url("https://wallpapers.com/images/featured/indian-flag-yqfmermanpgsw0jm.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding: 120px 0;
+  position: relative;
+}
+.ulockd-inner-home-diwali {
+  background-attachment: fixed;
+  background-image: url("https://wallpapers.com/images/hd/happy-holi-hd-massive-crowd-5gxy49d2oesx5yv9.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding: 120px 0;
+  position: relative;
+}
+.ulockd-inner-home-about {
+  background-attachment: fixed;
+  background-image: url("http://localhost/project/shirana/images/gallery-copy/16.png");
+  background-position: center top;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding: 120px 0;
+  position: relative;
+}
+.ulockd-inner-home-gallery {
+  background-attachment: fixed;
+  background-image: url("http://localhost/project/shirana/images/gallery-copy/21.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding: 120px 0;
+  position: relative;
+}
+.ulockd-inner-home-contact{
+  background-attachment: fixed;
+  background-image: url("https://as2.ftcdn.net/v2/jpg/01/30/29/21/1000_F_130292125_9XW4pxADiosrYEsxhnV4uuzhaw62TW9S.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding: 120px 0;
+  position: relative;
+}
+.ulockd-inner-home-facebook{
+  background-attachment: fixed;
+  background-image: url("https://wallpapers.com/images/hd/facebook-with-social-media-icons-nldhpmhq1r6q37ts.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding: 120px 0;
+  position: relative;
+}
+.ulockd-inner-home-org{
+  background-attachment: fixed;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/023/221/109/non_2x/banking-and-finance-concept-digital-connect-system-financial-and-banking-technology-with-integrated-circles-glowing-line-icons-and-on-blue-background-design-vector.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding: 120px 0;
+  position: relative;
+}
+.ulockd-inner-home-doc{
+  background-attachment: fixed;
+  background-image: url("https://t3.ftcdn.net/jpg/04/91/65/02/360_F_491650296_hnjsIwj3KoZIuPfShAjjk49Oo5qEAoFm.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding: 120px 0;
+  position: relative;
+}
 .ulockd-inner-conraimer-details h1{
   color: #fff;
   position: relative;
 }
 .ulockd-inner-conraimer-details:before {
-  background-color: rgba(17, 17, 17, 0.3);
+  background-color: rgba(17, 17, 17, 0.432);
   content: "";
   height: 100%;
   left: 0;
@@ -4044,7 +4148,7 @@ article.ulockd-pd-content {
   position: relative;
 }
 .ulockd-icd-sub-menu > li a {
-  color: #fff;
+  color: #ffffff !important;
 }
 /* APPOINTMENT FORM STYLE */
 .appointment_form{

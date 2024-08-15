@@ -62,30 +62,31 @@ include 'header.php';
 			<div class="col-sm-6 col-md-3 ulockd-pad395">
 				<figure class="fclmn-one two">
 					<div class="caption">
-						<div class="fc-icon"><span class="flaticon-make-a-donation"></span></div>
+						<!-- <div class="fc-icon"><span class="flaticon-make-a-donation"></span></div> -->
 						<h5> NAGARI VIKAS SEVABHAVI SANSTHA</h5>
 						<h3>As a Donor</h3>
-						<button type="submit" class="btn btn-default ulockd-btn-styledark" data-toggle="modal" data-target=".bs-example-modal-default" data-toggle="modal" data-target=".bs-example-modal-default">Donate now</button>
+						<button type="submit" class="btn btn-default ulockd-btn-styledark" data-toggle="modal" data-target=".bs-example-modal-default" data-toggle="modal" data-target=".bs-example-modal-default"><a href="donate">Donate now</a>
+							</button>
 					</div>
 				</figure>
 			</div>
 			<div class="col-sm-6 col-md-3 ulockd-pad395">
 				<figure class="fclmn-one three">
 					<div class="caption">
-						<div class="fc-icon"><span class="flaticon-donation"></span></div>
+						<!-- <div class="fc-icon"><span class="flaticon-donation"></span></div> -->
 						<h5> NAGARI VIKAS SEVABHAVI SANSTHA</h5>
 						<h3>As a Fundraiser</h3>
-						<button type="submit" class="btn btn-default ulockd-btn-styledark">Read More</button>
+						<button type="submit" class="btn btn-default ulockd-btn-styledark"><a href="about">Read More</a></button>
 					</div>
 				</figure>
 			</div>
 			<div class="col-sm-6 col-md-3 ulockd-pad395">
 				<figure class="fclmn-one four">
 					<div class="caption">
-						<div class="fc-icon"><span class="flaticon-dove-of-peace"></span></div>
+						<!-- <div class="fc-icon"><span class="flaticon-dove-of-peace"></span></div> -->
 						<h5> NAGARI VIKAS SEVABHAVI SANSTHA</h5>
 						<h3>As a Sponsor</h3>
-						<button type="submit" class="btn btn-default ulockd-btn-styledark">Read More</button>
+						<button type="submit" class="btn btn-default ulockd-btn-styledark"><a href="activity">Read More</a></button>
 					</div>
 				</figure>
 			</div>
@@ -123,7 +124,7 @@ include 'header.php';
 			</div>
 			<div class="col-sm-12 col-md-5">
 				<div class="ab-thumb">
-					<img class="img-responsive img-whp" src="https://img.freepik.com/free-photo/people-stacking-hands-together-park_53876-63293.jpg" alt="1.jpg">
+					<img class="img-responsive img-whp" src="images/gallery-copy/12.png" alt="1.jpg">
 				</div>
 
 			</div>
@@ -146,7 +147,7 @@ include 'header.php';
 		<div class="row">
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="https://raisingchildren.net.au/__data/assets/image/0014/108131/Physical-activity-for-children-with-disability-wide.jpg" alt="1a.jpg">
+					<img class="img-responsive img-whp" src="images/gallery-copy/56.jpg" alt="1a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>HANDICAPPED TRAINING PROGRAM</h3>
@@ -156,7 +157,7 @@ include 'header.php';
 			</div>
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="https://img.etimg.com/thumb/width-640,height-480,imgsize-79822,resizemode-75,msid-92110083/magazines/panache/yoga-for-wellness-why-more-men-are-practising-it-for-physical-mental-well-being/yoga.jpg" alt="2a.jpg">
+					<img class="img-responsive img-whp" src="images/gallery-copy/9.png" alt="2a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>INTERNATIONAL YOGA DAY</h3>
@@ -168,7 +169,7 @@ include 'header.php';
 		<div class="row ulockd-mrgn1225">
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="https://batonrougeclinic.com/wp-content/uploads/2022/01/Baldwin-1-10-Reasons-to-Donate-Blood-e1641235978110.jpg" alt="3a.jpg">
+					<img class="img-responsive img-whp" src="images/gallery-copy/15.png" alt="3a.jpg">
 
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
@@ -179,7 +180,7 @@ include 'header.php';
 			</div>
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="https://img.jagranjosh.com/images/2021/June/262021/World-Environment-Day-History.png" alt="4a.jpg">
+					<img class="img-responsive img-whp" src="images/gallery-copy/60.jpg" alt="4a.jpg">
 
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
@@ -226,21 +227,22 @@ include 'header.php';
 						<div class="swiper init-swiper">
 							<!-- Swiper configuration in JSON format -->
 							<script type="application/json" class="swiper-config">
-								{
-									"loop": true,
-									"speed": 600,
-									"autoplay": {
-										"delay": 5000
-									},
-									"slidesPerView": "auto",
-							
-									"pagination": {
-										"el": ".swiper-pagination",
-										"type": "bullets",
-										"clickable": true
-									}
-								} 
-							</script>
+{
+	"loop": true,
+	"speed": 600,
+	"autoplay": {
+		"delay": 5000,
+		"pauseOnMouseEnter": true
+	},
+	"slidesPerView": "auto",
+	"pagination": {
+		"el": ".swiper-pagination",
+		"type": "bullets",
+		"clickable": true
+	}
+}
+</script>
+
 
 							<!-- Swiper wrapper -->
 							<div class="swiper-wrapper">
@@ -262,7 +264,7 @@ include 'header.php';
 													<span>Republic Day was celebrated on 26th January 2024 with the citizens of New Hanuman colony. Flag hoisting was done by the President of Nagari Vikas Sevabhavi Sanstha, followed by National Anthem, Pledge, and Constitution. Patriotic songs were sung to glorify our great super freedom fighter heroes. Sweets and snacks were distributed. A short awareness session on Equality and Integrity was also organized. The program ended with the President’s Speech. Republic Day was celebrated with great enthusiasm.</span>
 													<i class="bi bi-quote quote-icon-right"></i>
 												</p>
-												<a class="text-thm2" href="event.php" class="">More Details <span class="flaticon-right-arrow"></span></a>
+												<a class="text-thm2" href="event.php#MAHARASHTRA" class="">More Details <span class="flaticon-right-arrow"></span></a>
 											</div>
 										</div>
 									</div>
@@ -286,7 +288,7 @@ include 'header.php';
 													<span>Independence day celebration was organized by Nagari vikas sevabhavi sanstha at lamakanwadi. Marathawada youth president Mr. Kalpesh Tatu was invited as chief guest. The programme schedule contained Flag hoisting, National Anthem, Constitution, Pledge, Vande Mataram song was sung with great dedication. Flag was hoisted by the chief guest Mr. Kalpesh Tatu along with Sarpanch and Up- Sarpanch of Lamakanwadi. Special lunch was organized on the occasion of Independence Day for the villagers. Chief Guest and Sarpanch expressed their opinions about the dedication of freedom fighters for their country and their sacrifice for Independent India. Up-Sarpanch proposed vote of thanks to all villagers and organisers for arranging the celebration.</span>
 													<i class="bi bi-quote quote-icon-right"></i>
 												</p>
-												<a class="text-thm2" href="event.php" class="">More Details <span class="flaticon-right-arrow"></span></a>
+												<a class="text-thm2" href="event.php#INDEPENDENCE" class="">More Details <span class="flaticon-right-arrow"></span></a>
 											</div>
 										</div>
 									</div>
@@ -310,7 +312,7 @@ include 'header.php';
 													<span>On 5th Sept 2023 Teacher’s day celebrated at Nagari sevabhavi santha office, New Hanuman nagar, Garkheda Aurangabad. We faliciated the teachers by honoring them with shawl and coconut. Around 43 teachers were invited from various schools for this program. Teachers were honored for their dedication towards moulding the future of children which is their contribution in creating a progressed country. The program was ended with a special lunch.</span>
 													<i class="bi bi-quote quote-icon-right"></i>
 												</p>
-												<a class="text-thm2" href="event.php" class="">More Details <span class="flaticon-right-arrow"></span></a>
+												<a class="text-thm2" href="event.php#TEACHERS" class="">More Details <span class="flaticon-right-arrow"></span></a>
 											</div>
 										</div>
 									</div>
@@ -335,7 +337,7 @@ include 'header.php';
 													<span>Republic Day was celebrated on 26th January 2024 with the citizens of New Hanuman colony. Flag hoisting was done by the President of Nagari Vikas Sevabhavi Sanstha, followed by National Anthem, Pledge, and Constitution. Patriotic songs were sung to glorify our great super freedom fighter heroes. Sweets and snacks were distributed. A short awareness session on Equality and Integrity was also organized. The program ended with the President’s Speech. Republic Day was celebrated with great enthusiasm.</span>
 													<i class="bi bi-quote quote-icon-right"></i>
 												</p>
-												<a class="text-thm2" href="event.php" class="">More Details <span class="flaticon-right-arrow"></span></a>
+												<a class="text-thm2" href="event.php#REPUBLIC" class="">More Details <span class="flaticon-right-arrow"></span></a>
 											</div>
 										</div>
 									</div>

@@ -3,7 +3,7 @@ include 'header.php';
 ?>
 <main class="about-page">	
     <!-- Home Design Inner Pages -->
-    <div class="ulockd-inner-home">
+    <div class="ulockd-inner-home-about">
         <div class="container text-center">
             <div class="row">
             <div class="ulockd-inner-conraimer-details">
@@ -39,7 +39,7 @@ include 'header.php';
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4 text-right">
-                    <img src="images/gallery copy/64.jpg" class="img-responsive custom-img responsive" alt="image">
+                    <img src="images/gallery-copy/64.jpg" class="img-responsive custom-img responsive" alt="image">
                 </div>
             </div>
 
@@ -47,7 +47,7 @@ include 'header.php';
             <div class="row about2 align-items-center">
                 <h1 class="our-vision-credo">OUR VISION & CREDO</h1>
                 <div class="col-md-4 col-lg-4 text-right">
-                    <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1  responsive" alt="image">
+                    <img src="images/gallery-copy/33.jpg" class="img-responsive custom-img1  responsive" alt="image">
                 </div>
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">
@@ -87,7 +87,7 @@ include 'header.php';
             <div class="row about3 align-items-center">
                 <h1 class="our-vision-credo">PURPOSE</h1>
                 <div class="col-md-4 col-lg-4 text-right">
-                    <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1 responsive" alt="image">
+                    <img src="https://imageio.forbes.com/specials-images/imageserve/5f495cb16726b302c4f41e27/Three-requirements-to-ensure-the-purpose-of-your-organization-actually-makes-a/960x0.jpg?format=jpg&width=960" class="img-responsive custom-img1 responsive" alt="image">
                 </div>
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">

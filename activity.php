@@ -3,7 +3,7 @@ include 'header.php';
 ?>
 <main>
     <!-- Home Design Inner Pages -->
-    <div class="ulockd-inner-home">
+    <div class="ulockd-inner-home-diwali">
         <div class="container text-center">
             <div class="row">
                 <div class="ulockd-inner-conraimer-details col-12">
@@ -11,7 +11,7 @@ include 'header.php';
                     <ul class="list-inline ulockd-icd-sub-menu topppp">
                         <li><a href="index.php"> HOME </a></li>
                         <li><a href="#"> > </a></li>
-                        <li> <a href="#"> ABOUT US </a> </li>
+                        <li> <a href="activity"> ABOUT US </a> </li>
                     </ul>
                 </div>
             </div>
@@ -38,7 +38,7 @@ include 'header.php';
                 </div>
             </div>
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="images/gallery copy/37.png"
+                <img src="images/gallery-copy/37.png"
                     class="img-responsive custom-img1 responsive" alt="image">
             </div>
             </div>
@@ -49,7 +49,7 @@ include 'header.php';
 
 
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/36.png" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery-copy/36.png" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -91,7 +91,7 @@ include 'header.php';
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/38.png" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery-copy/38.png" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
     </div>
@@ -104,7 +104,7 @@ include 'header.php';
 
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="images/gallery copy/44.jpg"
+                <img src="images/gallery-copy/44.jpg"
                     class="img-responsive custom-img1 img11 responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -157,7 +157,7 @@ include 'header.php';
             </div>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://instantbharatnews.in/wp-content/uploads/2024/04/Happy-gudi-padwa.webp"
+                <img src="https://static.toiimg.com/thumb/msid-51741128,width-1280,height-720,resizemode-4/51741128.jpg"
                     class="img-responsive custom-img1 img11 gudi-img responsive" alt="image">
             </div>
 
@@ -173,7 +173,7 @@ include 'header.php';
             <h1 class="our-vision-credo">WOMEN’S DAY CELEBRATION</h1>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="images/gallery copy/41.jpg"
+                <img src="images/gallery-copy/41.jpg"
                     class="img-responsive custom-img1 womens-day responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -202,7 +202,7 @@ include 'header.php';
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/17.png" class="img-responsive custom-img1 womens-day1 responsive"
+            <img src="images/gallery-copy/17.png" class="img-responsive custom-img1 womens-day1 responsive"
                 alt="image">
         </div>
     </div>
@@ -211,7 +211,7 @@ include 'header.php';
     <div class="row">
 
     <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/16.png"
+            <img src="images/gallery-copy/16.png"
                 class="img-responsive custom-img1 womens-day2 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -250,7 +250,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
             </div>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="images/gallery copy/56.jpg"
+                <img src="images/gallery-copy/56.jpg"
                     class="img-responsive custom-img1 img11 responsive" alt="image">
             </div>
 
@@ -266,7 +266,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
 
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="https://designimages.appypie.com/allimages/hivaidsposter8.png"
+                <img src="https://i.ytimg.com/vi/lZraIvrtJ6s/maxresdefault.jpg"
                     class="img-responsive custom-img1 img11 aids-image responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -301,7 +301,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/23.jpg" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery-copy/23.jpg" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
      </div>
@@ -309,7 +309,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
 
      <div class="row">
      <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/22.jpg"
+            <img src="images/gallery-copy/22.jpg"
                 class="img-responsive custom-img1 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -349,7 +349,7 @@ Hanumannagar.Around 140 peoples gone through this camp benefits.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/9.png" class="img-responsive custom-img1 yoga-img1 responsive"
+            <img src="images/gallery-copy/9.png" class="img-responsive custom-img1 yoga-img1 responsive"
                 alt="image">
         </div>
     </div>
@@ -357,7 +357,7 @@ Hanumannagar.Around 140 peoples gone through this camp benefits.
     <div class="row">
 
     <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/8.png"
+            <img src="images/gallery-copy/8.png"
                 class="img-responsive custom-img1 yoga-img2 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -398,7 +398,7 @@ Everybody enjoyed the celebration.
             </div>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="images/gallery copy/39.jpg"
+                <img src="images/gallery-copy/39.jpg"
                     class="img-responsive custom-img1 img11 vysan-mukti responsive" alt="image">
             </div>
 
@@ -415,7 +415,7 @@ Everybody enjoyed the celebration.
     <div class="row">
     <h1 class="our-vision-credo">CELEBRATION OF MAKAR SANKRANTI</h1>
     <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/41.jpg"
+            <img src="images/gallery-copy/41.jpg"
                 class="img-responsive custom-img1 makar1 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -449,7 +449,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/272862111104999.5ffc14553015a.jpg" class="img-responsive custom-img1 makar2 responsive"
+            <img src="https://img.freepik.com/premium-photo/people-playing-kites-rooftop-sunset-kite-festival-gujarat-india-indian-kite-festival_1108314-36647.jpg" class="img-responsive custom-img1 makar2 responsive"
                 alt="image">
         </div>
     </div>
@@ -464,7 +464,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
             <h1 class="our-vision-credo"> BLOOD DONATION CAMP</h1>
 
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="images/gallery copy/15.png"
+                <img src="images/gallery-copy/15.png"
                     class="img-responsive custom-img1 responsive" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
@@ -491,7 +491,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/42.jpg " class="img-responsive custom-img1 responsive"
+            <img src="images/gallery-copy/42.jpg " class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
     </div>
@@ -500,7 +500,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
     <div class="row">
 
     <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/2.png"
+            <img src="images/gallery-copy/2.png"
                 class="img-responsive custom-img1 responsive" alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -534,7 +534,7 @@ bags blood was collected. Celebration ended by distributing sweets and fruits.
                 </div>
             </div>
             <div class="col-md-4 col-lg-4 text-right">
-                <img src="images/gallery copy/60.jpg"
+                <img src="images/gallery-copy/60.jpg"
                     class="img-responsive custom-img1 environment1 responsive" alt="image">
             </div>
         </div>
@@ -544,7 +544,7 @@ bags blood was collected. Celebration ended by distributing sweets and fruits.
 
 
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/6.png" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery-copy/6.png" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
@@ -577,7 +577,7 @@ families were present and people took part in the care of bushes and trees.
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/28.jpg" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery-copy/28.jpg" class="img-responsive custom-img1 responsive"
                 alt="image">
         </div>
     </div>

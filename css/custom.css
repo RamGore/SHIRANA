@@ -421,11 +421,11 @@ p {
 }
 .content100 {
 flex: 50% 0 0;
-  padding: 10px;
+  padding-top: 25px;
 }
 .fb-plugin {
 flex: 0 0 40%;
-  padding: 10px;
+  padding-top: 50px;
   margin-left:60px;
 }
 .joinus{
@@ -477,5 +477,23 @@ color:#0765fe;
 .my-floatt{
 	margin-top:16px;
 }
+@media (max-width: 768px) {
+  .fb-plugin .fb-page {
+      max-width: 100%; /* For tablet screens, make it responsive */
+  }
+}
 
-
+@media (max-width: 300px) {
+  .fb-plugin .fb-page {
+      width: 50%; /* For mobile screens, make it responsive */
+  }
+}
+.ulockd-btn-styledark a{
+  color: #fff;
+  border-radius: 0px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
