@@ -52,7 +52,7 @@ body {
   background-attachment: fixed;
   background-color: #ffffff;
   color: #000000;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   line-height: 1.8em;
   max-width: 100%;
@@ -66,9 +66,9 @@ img {
   max-width: 100%;
 }
 p {
-  font-size: 18px;
-  line-height: 1.5em;
-  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: normal !important;
   word-break: break-all;
   word-wrap: break-word;
 }
@@ -116,25 +116,23 @@ iframe {
 }
 /* ---------- TYPHOGRAPHY FONTS ---------- */
 h3,h4,h5,h6  {
-  font-family: 'Roboto Slab', serif;
-  line-height: 1.5em;
+  line-height: 1;
   color: #313131;
 }
 h1 {
-  font-family: 'Roboto Slab', serif;
+
   font-size: 36px;
   font-weight: bold;
 }
 h2 {
   color: #111;
-  font-family: 'Roboto Slab', serif;
   font-size: 30px;
   line-height: 1.2em;
   font-weight: bold;
   margin-top: 0;
 }
 h3 {
-  font-size: 24px;
+  font-size: 20px;
 }
 h4 {
   font-size: 18px;
@@ -146,10 +144,11 @@ h5 {
   margin: 30px;
 }
 .gallImg{
-  width: 300px;
+  width: 290px;
   padding: 5px;
-  height: 310px;
-  border-radius: 25px;
+  height: 290px;
+  border-radius: 20px;
+  object-fit: cover;
 }
 .activity-img{
   width: 100%;
@@ -161,8 +160,9 @@ h5 {
   width: 100% !important;
   min-height: 230px;
   max-height: 230px;
-  border-radius: 20px;
-  padding: 7px;
+  border-radius: 8px;
+  object-fit: cover;
+  padding: 0px;
 }
 .text-thm1 {
   color: #798590 !important;
@@ -1413,7 +1413,7 @@ nav.navbar.bootsnav.menu-style1 ul.nav > li > a {
 nav.navbar.bootsnav ul.nav > li > a{
   color: #888;
   font-size: 14px;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   -webkit-transition: all 0.2s ease-in-out;
@@ -1437,7 +1437,7 @@ nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a:hover,
 }
 nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a {
   color: #fff;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -1529,7 +1529,7 @@ nav.navbar.bootsnav.menu-style1 ul.dropdown-menu.megamenu-content .content ul.me
 }
 /* Side Menu */
 nav.menu-style1 .side .widget ul.link li a{
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
 }
 .ulockd-quote-btn a {
   font-size: 14px;
@@ -1578,21 +1578,21 @@ nav.menu-style1 .side .widget ul.link li a{
 
 .main-slider2 .slider-text1 {
   color: #fff;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 40px;
   font-weight: 500;
   line-height: 48px;
 }
 .main-slider2 .slider-text2 {
   color: #fff;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 70px;
   font-weight: bold;
   line-height: 70px;
 }
 .main-slider2 .slider-text3 p {
   color: #fff;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 18px;
   margin-top: 20px;
 }
@@ -2094,7 +2094,7 @@ margin-top: 0;
 }
 .missn-details h3 {
   color: #333;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 22px;
   -webkit-transition: all 0.2s ease-in-out 0s;
   -moz-transition: all 0.2s ease-in-out 0s;
@@ -2104,7 +2104,7 @@ margin-top: 0;
 }
 .ulockd-mssn-col .missn-details h3 {
   color: #333;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 22px;
 }
 .missn-details > p {
@@ -2235,7 +2235,7 @@ margin-top: 0;
   padding: 10px 25px;
 }
 .ulockd-all-service a {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 34px;
 }
@@ -2292,7 +2292,7 @@ margin-top: 0;
 }
 .contact-details > h3 {
   color: #333;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 500;
 }
 .contact-details .contact-place > li {
@@ -2378,7 +2378,7 @@ margin-top: 0;
   border: 1px solid;
   color: #313131;
   display: block;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   line-height: 22px;
   margin-bottom: 10px;
@@ -2400,19 +2400,19 @@ margin-top: 0;
 }
 .ulockd-bp-date-innner {
   color: #939393;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 28px;
 }
 .ulockd-bp-date-innner span {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 36px;
   font-weight: 500;
 }
 .ulockd-bp-comment {
   color: #949494;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   margin-top: 11px;
 }
 .ulockd-bpd-thumb {
@@ -2784,7 +2784,7 @@ article.ulockd-pd-content {
 }
 .ulockd-dvidr-sttl {
   color: #fff;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 26px;
   font-weight: 500;
   margin-bottom: 0;
@@ -2851,7 +2851,7 @@ article.ulockd-pd-content {
 }
 .ulockd-ffact > p {
   color: #fff;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 30px;
   font-weight: 400;
   line-height: 24px;
@@ -2859,7 +2859,7 @@ article.ulockd-pd-content {
 }
 .ulockd-ffact .timer {
   color: #fff;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 30px;
   line-height: 24px;
 }
@@ -2908,7 +2908,7 @@ article.ulockd-pd-content {
 }
 .ulockd-ffact-two .timer {
   color: #fff;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 36px;
   line-height: 1.2em;
   font-weight: 500;
@@ -2936,7 +2936,7 @@ article.ulockd-pd-content {
 }
 .ulockd-ffact-one > p {
   color: #444;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 10px;
@@ -2944,7 +2944,7 @@ article.ulockd-pd-content {
 }
 .ulockd-ffact-one .timer {
   color: #a9a9a9;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 24px;
 }
 .ulockd-ffact-one:hover {
@@ -2989,7 +2989,7 @@ article.ulockd-pd-content {
   color: #ffffff;
 }
 .masonry-filter a {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   padding: 0 15px;
 }
@@ -3223,13 +3223,13 @@ article.ulockd-pd-content {
   padding: 20px 0;
 }
 .member-name {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 24px;
   margin-bottom: 0;
   margin-top: 0;
 }
 .member-post {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   margin-top: 0;
 }
 .team-details > p {
@@ -3396,12 +3396,12 @@ article.ulockd-pd-content {
   padding: 15px 20px;
 }
 .ulockd-tm-name {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 24px;
   margin-bottom: 0;
 }
 .ulockd-tm-post {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   margin-top: 0;
 }
 .ulockd-tm-details > p {
@@ -3681,27 +3681,27 @@ article.ulockd-pd-content {
   margin-top: 10px;
 }
 .ulockd-bpost-date {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 .ulockd-blog-post-comment {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   padding-bottom: 7px;
 }
 .ulockd-bpost-date span {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 36px;
   font-weight: 500;
 }
 .ulockd-bp-title > h3 {
   color: #232323;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   margin-top: 15px;
 }
 .ulockd-bp-btn {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   padding-bottom: 3px;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -3713,7 +3713,7 @@ article.ulockd-pd-content {
 .ulockd-l2-bp-btn {
   border-bottom: 1px solid #7e7e7e;
   color: #7d7d7d;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   padding-bottom: 3px;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -3854,12 +3854,12 @@ article.ulockd-pd-content {
 }
 .ulockd-footer-fst-col > p{
   color: #fff;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   margin-bottom: 20px;
 }
 .footer-fst-col > p {
   color: #798590;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   margin-bottom: 20px;
 }
 .ulockd-footer-font-icon > li{
@@ -3891,7 +3891,7 @@ article.ulockd-pd-content {
 .ulockd-footer-twitter h3,
 .flickr-widget h3 {
   color: #fff;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: bold;
   margin-bottom: 27px;
 }
@@ -3902,7 +3902,7 @@ article.ulockd-pd-content {
 .footer-twitter h3,
 .footer-flickr h3 {
   color: #fff;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: bold;
   margin-bottom: 30px;
 }
@@ -4003,7 +4003,7 @@ article.ulockd-pd-content {
   color: #fff;
   font-size: 18px !important;
   line-height: 2;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   -webkit-transition: all 400ms ease-in-out;
   -moz-transition: all 400ms ease-in-out;
   -ms-transition: all 400ms ease-in-out;
@@ -4017,7 +4017,7 @@ article.ulockd-pd-content {
 .footer-qlink .list-unstyled li a {
   font-size: 14px;
   line-height: 28px;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   -webkit-transition: all 400ms ease-in-out;
   -moz-transition: all 400ms ease-in-out;
   -ms-transition: all 400ms ease-in-out;
@@ -4210,7 +4210,7 @@ form.ulockd-reg-form {
 /* ERROR PAGE OR 404 PAGE */
 .ulockd-error {
   color: #fff;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 345px;
   font-style: italic;
   letter-spacing: 5px;
@@ -4616,6 +4616,14 @@ form.ulockd-reg-form {
 }
 .text-more{
   color: orange;
-  padding-top: 40px;
-
+  margin-top: 40px;
 }
+
+.about-info{
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+
+
+

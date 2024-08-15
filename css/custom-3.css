@@ -347,15 +347,14 @@
 }
 
 .ulockd-main-logo {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Open Sans", sans-serif !important;
   font-size: 24px;
-  color: #ffb606;
+  color: red;
   text-decoration: none;
   max-width: 300px;
   font-weight: bold;
   text-align: center;
 }
-
 .footer-logo{
   color:#ffb606;
   line-height: 1.2;
