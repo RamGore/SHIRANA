@@ -1,6 +1,5 @@
 <?php
-include 'header.php';
-?>
+include 'header.php'; ?>
 
 
 
@@ -43,7 +42,7 @@ include 'header.php';
 
 
 	<!-- Home Design Inner Pages -->
-	<div class="ulockd-inner-home">
+	<div class="ulockd-inner-home-04">
 		<div class="container text-center">
 			<div class="row">
 				<div class="ulockd-inner-conraimer-details">
@@ -225,6 +224,5 @@ include 'header.php';
 
 
 
-<?php
-include 'footer.php';
+<?php include 'footer.php';
 ?>

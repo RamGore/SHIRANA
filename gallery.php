@@ -33,7 +33,7 @@ include 'header.php'; ?>
 		</div>
 
 		<!-- Home Design Inner Pages -->
-		<div class="ulockd-inner-home">
+		<div class="ulockd-inner-home-03">
 			<div class="container text-center">
 				<div class="row">
 					<div class="ulockd-inner-conraimer-details">

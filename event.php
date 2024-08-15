@@ -26,7 +26,7 @@ include 'header.php'; ?>
 <main class="events-page">
 
     <!-- Home Design Inner Pages -->
-    <div class="ulockd-inner-home">
+    <div class="ulockd-inner-home-02">
         <div class="container text-center">
             <div class="row">
                 <div class="ulockd-inner-conraimer-details col-12">
