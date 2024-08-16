@@ -31,7 +31,8 @@
   text-align: right;
 }
 .abt-txt {
-  font-size: 18px;
+  /* font-size: 18px; */
+  text-align: justify;
 }
 /* .abt-section{
     margin-top: -20px;
@@ -274,7 +275,6 @@ p {
 .thankyou-page {
   height: 100%;
   margin: 0;
-  font-family: Arial, sans-serif;
 }
 
 .background-image {

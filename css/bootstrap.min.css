@@ -1616,7 +1616,7 @@ h2 {
 
 .h3,
 h3 {
-    font-size: 24px
+    font-size: 13px
 }
 
 .h4,
@@ -1993,8 +1993,8 @@ pre code {
 }
 
 .container {
-    padding-right: 10px;
-    padding-left: 10px;
+    /* padding-right: 10px;
+    padding-left: 10px; */
     margin-right: auto;
     margin-left: auto
 }
@@ -4984,8 +4984,10 @@ textarea.input-group-sm>.input-group-btn>.btn {
     justify-content: flex-start;
     padding: 10px 10px;
     border-top: 1px solid #ffb606;
-
-
+}
+.nav ul{
+    margin-left: 75px;
+    background-color: red;
 }
 .nav>li {
     position: relative;

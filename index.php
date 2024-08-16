@@ -108,9 +108,7 @@ include 'header.php';
 		<div class="row">
 			<div class="col-sm-12 col-md-7">
 				<div class="ulockd-main-title">
-
-
-					<p class="abt-txt">
+					<p class="abt-txt about-info">
 						<span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA</span> Trust seeks donation to increase the corpus
 						of the Trust so that it can be used to benefit the women of <span class="text-thm2">AURANGABAD
 							MAHARASHTRA</span> through Vocational training of Computer Hardware & Networking,
@@ -169,8 +167,7 @@ include 'header.php';
 		<div class="row ulockd-mrgn1225">
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="images/gallery-copy/15.png" alt="3a.jpg">
-
+					<img class="img-responsive img-whp" src="images/gallery copy/42.jpg" alt="3a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>BLOOD DONATION CAMP</h3>
@@ -180,7 +177,7 @@ include 'header.php';
 			</div>
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="images/gallery-copy/60.jpg" alt="4a.jpg">
+					<img class="img-responsive img-whp" src="images/gallery copy/84.png" alt="4a.jpg">
 
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
@@ -258,7 +255,7 @@ include 'header.php';
 											</div>
 											<!-- Right Side: Text -->
 											<div class="col-md-6">
-												<h3 class="text-thm2" >MAHARASHTRA <span class="ulockd-mrgn630">DIN </span></h3>
+												<h3 class="text-thm2" >MAHARASHTRA<span class="ulockd-mrgn630">DIN </span></h3>
 												<p>
 													<i class="bi bi-quote quote-icon-left"></i>
 													<span>Republic Day was celebrated on 26th January 2024 with the citizens of New Hanuman colony. Flag hoisting was done by the President of Nagari Vikas Sevabhavi Sanstha, followed by National Anthem, Pledge, and Constitution. Patriotic songs were sung to glorify our great super freedom fighter heroes. Sweets and snacks were distributed. A short awareness session on Equality and Integrity was also organized. The program ended with the President’s Speech. Republic Day was celebrated with great enthusiasm.</span>
