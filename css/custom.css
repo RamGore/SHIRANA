@@ -516,3 +516,16 @@ a:focus, a:hover{
 .list-unstyled a.active {
   color: #ffb405;
 }
+.list-unstyled a:hover{
+  color: #ffae00 !important;
+}
+
+.ulockd-footer-qlink .list-unstyled li a:hover{
+  padding: 0px !important;
+}
+.three-box{
+  color: white;
+}
+.dont-change a:hover{
+color: #ffae00 !important;
+}

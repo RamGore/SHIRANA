@@ -31,13 +31,13 @@
 					<div class="ulockd-ftr-mail"><span class="fa fa-location footer-icon fs-4">&nbsp; </span>  &nbsp;
 						<p>House no 2 Lane no 12, Pundaliknagar Garkheda, Chh. Sambhajinagar 431001.</p>
 					</div>
-					<div class="ulockd-ftr-mail"><span class="fa fa-envelope footer-icon fs-4">&nbsp; </span> &nbsp;
+					<div class="ulockd-ftr-mail dont-change"><span class="fa fa-envelope footer-icon fs-4">&nbsp; </span> &nbsp;
 						<span>
 							<a href="mailto:lalchandrajput1967@gmail.com">lalchandrajput1967@gmail.com</a>,
 							<a href="mailto:sachintatu0009@gmail.com"> sachintatu0009@gmail.com</a>
 						</span>
 					</div>
-					<div class="ulockd-ftr-phone"><span class="fa fa-phone footer-icon fs-4">&nbsp; </span>&nbsp; <span><a href="tel:+91 8308136689" class="ulockd-addrss">+91- 8308136689,</a><a href="tel:+91 8668615130" class="ulockd-addrss">+91- 8668615130</a></span>
+					<div class="ulockd-ftr-phone dont-change"><span class="fa fa-phone footer-icon fs-4">&nbsp; </span>&nbsp; <span><a href="tel:+91 8308136689" class="ulockd-addrss">+91- 8308136689,</a><a href="tel:+91 8668615130" class="ulockd-addrss">+91- 8668615130</a></span>
 					</div>
 
 				</div>
@@ -47,8 +47,8 @@
 					<h3 class="text-uppercase">FOLLOW <span class="text-thm2">US</span></h3>
 
 					<ul class="list-inline ulockd-footer-font-icon">
-						<li><a href="#"><i class="fa-brands fa-facebook-f" style="color: #fff;"></i></a></li>
-						<li><a href="#"><i class="fa-brands fa-whatsapp" style="color: #fff;"></i></a></li>
+						<li><a href="https://www.facebook.com/share/7RJcxufQi8MtxVUz/?mibextid=LQQJ4d"><i class="fa-brands fa-facebook-f" style="color: #fff;"></i></a></li>
+						<li><a href="https://web.whatsapp.com/send?phone=+918308136689&amp;text=Hello" ><i class="fa-brands fa-whatsapp" style="color: #fff;"></i></a></li>
 						<li><a href="#"><i class="fa-brands fa-instagram" style="color: #fff;"></i></a></li>
 					</ul>
 
@@ -70,11 +70,11 @@
 		</div>
 	</div>
 </section>
-
+<div class="whatsapp">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <a href="https://web.whatsapp.com/send?phone=+918308136689&amp;text=Hello" class="float" target="_blank">
 <i class="fa fa-whatsapp my-float"></i>
-</a>
+</a></div>
 
 <script src="js/main.js"></script>
 <a class="scrollToHome" href="#"><i class="fa fa-home"></i></a>

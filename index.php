@@ -62,7 +62,8 @@ include 'header.php'; ?>
 						<h5> NAGARI VIKAS SEVABHAVI SANSTHA</h5>
 						<!-- <div class="fc-icon"><span class="flaticon-make-a-donation"></span></div> -->
 						<h3>As a Donor</h3>
-						<button type="submit" class="btn btn-default ulockd-btn-styledark" data-toggle="modal" data-target=".bs-example-modal-default" data-toggle="modal" data-target=".bs-example-modal-default">Donate now</button>
+						<button type="submit" class="btn btn-default ulockd-btn-styledark" data-toggle="modal" data-target=".bs-example-modal-default" data-toggle="modal" data-target=".bs-example-modal-default"><a href="donate" class="three-box">Donate now</a>
+							</button>
 					</div>
 				</figure>
 			</div>
@@ -72,7 +73,8 @@ include 'header.php'; ?>
 						<!-- <div class="fc-icon"><span class="flaticon-donation"></span></div> -->
 						<h5> NAGARI VIKAS SEVABHAVI SANSTHA</h5>
 						<h3>As a Fundraiser</h3>
-						<button type="submit" class="btn btn-default ulockd-btn-styledark">Read More</button>
+						<button type="submit" class="btn btn-default ulockd-btn-styledark"><a href="about" class="three-box">Read More</a>
+							</button>
 					</div>
 				</figure>
 			</div>
@@ -82,7 +84,7 @@ include 'header.php'; ?>
 						<!-- <div class="fc-icon"><span class="flaticon-dove-of-peace"></span></div> -->
 						<h5> NAGARI VIKAS SEVABHAVI SANSTHA</h5>
 						<h3>As a Sponsor</h3>
-						<button type="submit" class="btn btn-default ulockd-btn-styledark">Read More</button>
+						<button type="submit" class="btn btn-default ulockd-btn-styledark"><a href="event" class="three-box">Read More</a></button>
 					</div>
 				</figure>
 			</div>

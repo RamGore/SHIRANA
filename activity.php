@@ -2,7 +2,7 @@
 include 'header.php'; ?>
 <main>
     <!-- Home Design Inner Pages -->
-    <div class="ulockd-inner-home">
+    <div class="ulockd-inner-activity">
         <div class="container text-center">
             <div class="row">
                 <div class="ulockd-inner-conraimer-details col-12">
@@ -284,32 +284,33 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
 
 
     <!-- health day -->
-     <div class="container">
+   
+        <div class="container">
         <div class="row about2 align-items-center">
-        <h1 class="our-vision-credo">WORLD HEALTH DAY</h1>
-        <div class="row reverse">
-     <div class="col-md-8 col-lg-8 text-left">
-            <div class="ulockd-main-title">
-                <p class="abt-txt">
-                    <strong><span class="vision-sec">(7th April 2022)
-                        </span></strong><br>NAGARI VIKAS SEVABHAVI SANSTHA organized a Health campaign on behalf of the World Health Day on 7th April 2022 with the co-ordination of primary health centre of Aurangabad  Their health staff came and gave prosperous and valuable information and guidance about self sanitation. Dr.Kale  treated all the old people. He gave importance and necessary precaution for their old age. He had done primary health check-up. He also gave health tips to the Senior Citizen’s there. Organisation Distributed some multi-vitamins supplements and tonics.
+            <h1 class="our-vision-credo">WORLD HEALTH DAY</h1>
+<div class="reverse">
+            <div class="col-md-8 col-lg-8 text-left">
+                <div class="ulockd-main-title">
+                    <p class="abt-txt">
+                        <strong><span class="vision-sec">(7th April 2022)
+                            </span></strong><br>NAGARI VIKAS SEVABHAVI SANSTHA organized a Health campaign on behalf of the World Health Day on 7th April 2022 with the co-ordination of primary health centre of Aurangabad  Their health staff came and gave prosperous and valuable information and guidance about self sanitation. Dr.Kale  treated all the old people. He gave importance and necessary precaution for their old age. He had done primary health check-up. He also gave health tips to the Senior Citizen’s there. Organisation Distributed some multi-vitamins supplements and tonics.
              Health camp completed in the presence of Dr Kale Anant and  primary health centre and his team , President L.D, Tatu and Body members and citizen of Hanumannagar .
-
-
-
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-4 text-right">
+                <img src="images/gallery copy/23.jpg"
+                    class="img-responsive custom-img1 environment1 responsive" alt="image">
             </div>
         </div>
-        <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/23.jpg" class="img-responsive custom-img1 responsive"
-                alt="image">
         </div>
-     </div>
 
 
-     <div class="row">
-     <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/2.png"
-                class="img-responsive custom-img1 responsive" alt="image">
+
+
+        <div class="col-md-4 col-lg-4 text-right">
+            <img src="images/gallery copy/2.png" class="img-responsive custom-img1 responsive"
+                alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">
             <div class="ulockd-main-title">
@@ -325,12 +326,18 @@ there. Organisation Distributed some multi-vitamins supplements and tonics.
  Health camp completed in the presence of Dr Kale Anant and primary
 health centre and his team , President L.D Tatu and Body members and citizen of
 Hanumannagar.Around 140 peoples gone through this camp benefits.
-                </p>
+
+
             </div>
         </div>
-     </div>
+
+
+
+
+
+
+
     </div>
-        </div>
 
 
         <!-- yoga day -->

@@ -4054,6 +4054,19 @@ article.ulockd-pd-content {
   padding: 120px 0;
   position: relative;
 }
+.ulockd-inner-activity {
+  background-attachment: fixed;
+  background-image: url("https://wallpapers.com/images/hd/happy-holi-hd-massive-crowd-5gxy49d2oesx5yv9.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-x: hidden;
+  padding: 120px 0;
+  position: relative;
+}
 .ulockd-inner-home-02 {
   background-attachment: fixed;
   background-image: url("../images/gallery\ copy/77.jpeg");
