@@ -764,3 +764,28 @@ document.addEventListener("DOMContentLoaded", function() {
     var footerLinks = document.querySelectorAll('.ulockd-footer-qlink ul li a');
     setActiveClass(footerLinks);
 });
+document.addEventListener("DOMContentLoaded", function() {
+    // Get the current URL path
+    var currentPath = window.location.pathname.split('/').pop() || 'index';
+    
+    // Ensure currentPath doesn't have query parameters or fragments
+    currentPath = currentPath.split('?')[0].split('#')[0];
+
+    // Function to set active class
+    function setActiveClass(links) {
+        links.forEach(function(link) {
+            var href = link.getAttribute('href').split('?')[0].split('#')[0]; // Normalize href
+            if (href === currentPath) {
+                link.classList.add('active');
+            }
+        });
+    }
+
+    // Header Navigation
+    var headerLinks = document.querySelectorAll('.navbar-nav li a');
+    setActiveClass(headerLinks);
+
+    // Footer Navigation
+    var footerLinks = document.querySelectorAll('.ulockd-footer-qlink ul li a');
+    setActiveClass(footerLinks);
+});
