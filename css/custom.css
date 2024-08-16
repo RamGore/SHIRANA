@@ -501,4 +501,12 @@ width: 25% !important;
   .nav{
     padding-left:30px;
   }
-  
+  .fixxx{
+    background-color: #fff;
+  }
+  /* CSS for active link */
+.navbar a.active {
+  color: #fff; /* Change text color for active link */
+  background-color: #007bff; /* Change background color for active link */
+  border-radius: 4px; /* Optional: Add border radius */
+}

@@ -104,7 +104,7 @@
 			</div>
 		</div>
 
-		<div class="header-mobile">
+		<div class="header-mobile navbar-scrolltofixed fixxx">
 		<div class="mobile-header">
 					<div data-toggle="collapse" data-target="#navbar-menu">
                       <i class="fa fa-bars" id="icon"></i>
@@ -114,22 +114,21 @@
 					</div>
 				</div>
 				<div class="collapse" id="navbar-menu">
-					<ul class="nav fixnav">
-						<li class="dropdown"><a href="index">Home</a></li>
-						<li class="dropdown"><a href="about" class="dropdown-toggle" data-toggle="dropdown">About Us <i class="fa fa-chevron-down"></i></a>
-							<ul class="dropdown-menu">
-								<li class="dropdown"><a href="org-profile">Organisation Profile</a></li>
-								<li class="dropdown"><a href="doc-gallery">Document Gallery</a></li>
-							</ul>
-						</li>
-						<li class="dropdown"><a href="activity">Our Activities</a></li>
-				        <li class="dropdown"><a href="event">Events</a></li>
-						<li class="dropdown">
-										<a href="facebook">Facebook</a>
-									</li>
-						<li class="dropdown"><a href="gallery">Gallery</a></li>
-						<li class="dropdown"><a href="contact-us">Contact Us</a></li>
-					</ul>
+				<ul class="nav fixnav">
+    <li class="dropdown"><a href="index">Home</a></li>
+    <li class="dropdown"><a href="about" class="dropdown-toggle" data-toggle="dropdown">About Us <i class="fa fa-chevron-down"></i></a>
+        <ul class="dropdown-menu">
+            <li class="dropdown"><a href="org-profile">Organisation Profile</a></li>
+            <li class="dropdown"><a href="doc-gallery" >Document Gallery</a></li>
+        </ul>
+    </li>
+    <li class="dropdown"><a href="activity">Our Activities</a></li>
+    <li class="dropdown"><a href="event">Events</a></li>
+    <li class="dropdown"><a href="gallery">Gallery</a></li>
+    <li class="dropdown"><a href="facebook">Facebook</a></li>
+    <li class="dropdown"><a href="contact-us">Contact Us</a></li>
+</ul>
+
 				</div>
 				
 				<!-- <div class="collapse navbar-collapse" id="navbar-menu">
