@@ -86,7 +86,7 @@ Tatu Lalchand expressesd his honest gratitude for Dr. Babasaheb Ambedkar.
 
 
     <!-- 1 may -->
-    <div class="container">
+    <div class="container" id="MAHARASHTRA">
         <div class="row about2 align-items-center">
             <h1 class="our-vision-credo">MAHARASHTRA DIN</h1>
 
@@ -271,7 +271,7 @@ hanuman colony.
     <!-- 15 august-->
 
 
-    <div class="container">
+    <div class="container" id="INDEPENDENCE">
         <div class="row about2 align-items-center">
             <h1 class="our-vision-credo">CELEBRATION OF INDEPENDENCE DAY
             </h1>
@@ -343,7 +343,7 @@ thanks to all villagers and organisers for arranging the celebration.
 
 <!-- teachers day -->
 
-<div class="container">
+<div class="container" id="TEACHERS">
         <div class="row about2 align-items-center">
             <h1 class="our-vision-credo">TEACHERS DAY</h1>
 
@@ -471,7 +471,7 @@ Health and Hygiene was shared among the citizens.
 
 
         <!-- republic day-->
-        <div class="container">
+        <div class="container" id="REPUBLIC">
         <div class="row">
         <h1 class="our-vision-credo">CELEBRATION OF REPUBLIC DAY </h1>
 

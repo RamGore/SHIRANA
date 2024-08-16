@@ -63,7 +63,7 @@
 				<div class="row center">
 					<div class="col-xs-12 col-sm-6 col-lg-3">
 						<div class="ulockd-welcm-hmddl">
-							<a href="index.php"  class="header-logo ulockd-main-logo main-logo">
+							<a href="index"  class="header-logo ulockd-main-logo main-logo">
 								NAGARI VIKAS
 								SEVABHAVI SANSTHA
 							</a>
@@ -94,7 +94,7 @@
 							<div class="ulockd-icon pull-left text-thm2"><span class="flaticon-make-a-donation"></span></div>
 							<div class="ulockd-info">
 								<!-- Trigger the modal with a button -->
-								<button type="button" class="btn btn-lg ulockd-btn-thm2 ulockd-mrgn1215 ulockd-mrgn610" data-toggle="modal" data-target=".bs-example-modal-default"><a href="donate.php">Donate now</a></button>
+								<button type="button" class="btn btn-lg ulockd-btn-thm2 ulockd-mrgn1215 ulockd-mrgn610" data-toggle="modal" data-target=".bs-example-modal-default"><a href="donate">Donate now</a></button>
 								<!-- Modal -->
 							
 							</div>
@@ -113,16 +113,38 @@
                        <p>NAGARI VIKAS SEVABHAVI SANSTHA</p>
 					</div>
 				</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				<div class="collapse" id="navbar-menu">
 				<ul class="nav">
     <li class="dropdown"><a href="index">Home</a></li>
-	<li class="dropdown"><a href="about" class="dropdown-toggle" data-toggle="dropdown">About US<i class="fa fa-chevron-down"></i></a>
-
-	<ul class="dropdown-menu">
-            <li class="dropdown"><a href="org-profile">Organisation Profile</a></li>
-            <li class="dropdown"><a href="doc-gallery">Document Gallery</a></li>
-        </ul>
+	<li class="dropdown">
+    <a href="about" class="dropdown-toggle" id="aboutDropdown" data-toggle="dropdown">About Us <i class="fa fa-chevron-down"></i></a>
+    <ul class="dropdown-menu" aria-labelledby="aboutDropdown">
+        <li><a href="org-profile">Organisation Profile</a></li>
+        <li><a href="doc-gallery">Document Gallery</a></li>
+    </ul>
 </li>
+
+
+
+
 
 	
     <li class="dropdown"><a href="activity">Our Activities</a></li>
@@ -133,6 +155,23 @@
 </ul>
 
 				</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
 				
 				<!-- <div class="collapse navbar-collapse" id="navbar-menu">
 					<ul class="nav navbar-nav navbar-left">

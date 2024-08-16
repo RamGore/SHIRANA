@@ -739,7 +739,7 @@
 
 
 document.addEventListener('DOMContentLoaded', function() {
-    var navLinks = document.querySelectorAll('.nav a'); // Adjusted to match your class name
+    var navLinks = document.querySelectorAll('.nav li a'); // Adjusted to match your class name
     var currentPath = window.location.pathname.split('/').pop(); // Get the last segment of the path
 
     // Handle the case where the path is the root
@@ -756,6 +756,37 @@ document.addEventListener('DOMContentLoaded', function() {
             link.classList.add('active');
         }
     });
+});
+
+
+
+
+
+
+document.querySelectorAll('.dropdown').forEach(function (dropdown) {
+    dropdown.addEventListener('mouseover', function () {
+        this.classList.add('show');
+        this.querySelector('.dropdown-menu').classList.add('show');
+    });
+    dropdown.addEventListener('mouseout', function () {
+        this.classList.remove('show');
+        this.querySelector('.dropdown-menu').classList.remove('show');
+    });
+});
+
+// Ensure the About Us page opens on click
+document.querySelector('#aboutDropdown').addEventListener('click', function(e) {
+    // Prevent dropdown behavior on click
+    if (e.target.tagName !== 'I') {
+        window.location.href = 'about';
+    }
+});
+
+
+document.querySelectorAll('.list-unstyled a').forEach(link => {
+    if(link.href === window.location.href){
+        link.classList.add('active');
+    }
 });
 
 

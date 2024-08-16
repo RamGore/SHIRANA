@@ -502,8 +502,17 @@ width: 25% !important;
     background-color: #fff;
   }
   /* CSS for active link */
-  .nav a.active {
-    color: #fff; /* Change text color for active link */
-    background-color: #007bff; /* Change background color for active link */
+  .nav li a.active {
+    color: #000000; /* Change text color for active link */
+font-weight: 600;
     border-radius: 4px; /* Optional: Add border radius */
+}
+a:focus, a:hover{
+  color: #000000 !important;
+}
+.ulockd-btn-thm2:hover{
+  background-color: #ffb405 !important;
+}
+.list-unstyled a.active {
+  color: #ffb405;
 }
