@@ -70,7 +70,7 @@
 						</div>
 					</div>
 
-					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 header1">
 						<div class="ulockd-ohour-info style2">
 							<div class="ulockd-icon pull-left text-thm2"><span class="flaticon-email-filled-closed-envelope"></span></div>
 							<div class="ulockd-info">
@@ -238,7 +238,7 @@
 					</div>
 				</div>
 				<div class="collapse" id="navbar-menu">
-					<ul class="nav">
+					<ul class="nav fixnav">
 						<li class="dropdown"><a href="index">Home</a></li>
 						<li class="dropdown"><a href="about" class="dropdown-toggle" data-toggle="dropdown">About Us <i class="fa fa-chevron-down"></i></a>
 							<ul class="dropdown-menu">
@@ -248,6 +248,9 @@
 						</li>
 						<li class="dropdown"><a href="activity">Our Activities</a></li>
 				        <li class="dropdown"><a href="event">Events</a></li>
+						<li class="dropdown">
+										<a href="facebook">Facebook</a>
+									</li>
 						<li class="dropdown"><a href="gallery">Gallery</a></li>
 						<li class="dropdown"><a href="contact-us">Contact Us</a></li>
 					</ul>

@@ -463,6 +463,20 @@ color:#0765fe;
   color: white;
 }
 
+.ulockd-ohour-info.style2{
+  justify-content: space-evenly !important;
+}
+@media (min-width: 1200px) {
+  .col-lg-3{ 
+    width:20% !important;
+    margin-left:40px;
+ }}
+ @media (min-width: 1200px) {
+  .header1 {
+width: 25% !important;
+  }
+  }
+
 
 
 
