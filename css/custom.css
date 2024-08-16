@@ -298,10 +298,7 @@ p {
   padding: 300px;
   border-radius: 10px; /* Optional: for rounded corners */
 }
-.navbar-nav li a.active {
-  color: #000000 !important;
-  font-weight: 600 !important; /* Adds the underline */
-}
+
 .ulockd-footer-qlink ul li a.active {
   color: rgb(255, 183, 0) !important;
 }
@@ -505,8 +502,8 @@ width: 25% !important;
     background-color: #fff;
   }
   /* CSS for active link */
-.navbar a.active {
-  color: #fff; /* Change text color for active link */
-  background-color: #007bff; /* Change background color for active link */
-  border-radius: 4px; /* Optional: Add border radius */
+  .nav a.active {
+    color: #fff; /* Change text color for active link */
+    background-color: #007bff; /* Change background color for active link */
+    border-radius: 4px; /* Optional: Add border radius */
 }

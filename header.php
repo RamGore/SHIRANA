@@ -114,14 +114,17 @@
 					</div>
 				</div>
 				<div class="collapse" id="navbar-menu">
-				<ul class="nav fixnav">
+				<ul class="nav">
     <li class="dropdown"><a href="index">Home</a></li>
-    <li class="dropdown"><a href="about" class="dropdown-toggle" data-toggle="dropdown">About Us <i class="fa fa-chevron-down"></i></a>
-        <ul class="dropdown-menu">
+	<li class="dropdown"><a href="about" class="dropdown-toggle" data-toggle="dropdown">About US<i class="fa fa-chevron-down"></i></a>
+
+	<ul class="dropdown-menu">
             <li class="dropdown"><a href="org-profile">Organisation Profile</a></li>
-            <li class="dropdown"><a href="doc-gallery" >Document Gallery</a></li>
+            <li class="dropdown"><a href="doc-gallery">Document Gallery</a></li>
         </ul>
-    </li>
+</li>
+
+	
     <li class="dropdown"><a href="activity">Our Activities</a></li>
     <li class="dropdown"><a href="event">Events</a></li>
     <li class="dropdown"><a href="gallery">Gallery</a></li>

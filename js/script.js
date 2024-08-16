@@ -738,48 +738,21 @@
 })(window.jQuery);
 
 
+document.addEventListener('DOMContentLoaded', function() {
+    var navLinks = document.querySelectorAll('.nav a'); // Adjusted to match your class name
+    var currentPath = window.location.pathname.split('/').pop(); // Get the last segment of the path
 
-document.addEventListener("DOMContentLoaded", function() {
-    // Get the current URL path
-    var currentPath = window.location.pathname.split('/').pop() || 'index';
-    
-    // Ensure currentPath doesn't have query parameters or fragments
-    currentPath = currentPath.split('?')[0].split('#')[0];
-
-    // Function to set active class
-    function setActiveClass(links) {
-        links.forEach(function(link) {
-            var href = link.getAttribute('href').split('?')[0].split('#')[0]; // Normalize href
-            if (href === currentPath) {
-                link.classList.add('active');
-            }
-        });
+    // Handle the case where the path is the root
+    if (currentPath === '') {
+        currentPath = 'index'; // Assume 'index' is your homepage
     }
 
-    // Header Navigation
-    var headerLinks = document.querySelectorAll('.navbar-nav li a');
-    setActiveClass(headerLinks);
-
-    // Footer Navigation
-    var footerLinks = document.querySelectorAll('.ulockd-footer-qlink ul li a');
-    setActiveClass(footerLinks);
-});
-// JavaScript to add the 'active' class to the current page's navigation link
-document.addEventListener('DOMContentLoaded', function() {
-    // Get the current page URL
-    var currentPage = window.location.pathname.split("/").pop();
-
-    // Select all anchor tags within the navigation
-    var navLinks = document.querySelectorAll('.nav.fixnav a');
-
-    // Loop through each link
     navLinks.forEach(function(link) {
-        // Extract the href attribute
-        var linkPage = link.getAttribute('href');
+        var linkPath = link.getAttribute('href');
+        // Remove leading and trailing slashes for comparison
+        linkPath = linkPath.replace(/^\/|\/$/g, '');
 
-        // If the href matches the current page URL
-        if (linkPage === currentPage || linkPage === '') {
-            // Add the active class
+        if (currentPath === linkPath) {
             link.classList.add('active');
         }
     });
