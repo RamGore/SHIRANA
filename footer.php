@@ -71,6 +71,12 @@
 	</div>
 </section>
 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://web.whatsapp.com/send?phone=+918308136689&amp;text=Hello" class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
+
+<script src="js/main.js"></script>
 <a class="scrollToHome" href="#"><i class="fa fa-home"></i></a>
 </div>
 <!-- Wrapper End -->

@@ -3,32 +3,6 @@ include 'header.php'; ?>
 
 
 
-<style>
-     .float {
-            position: fixed;
-            width: 50px;
-            height: 50px;
-            bottom: 60px;
-            left: 20px;
-            background-color: #25d366;
-            color: #FFF;
-            border-radius: 50px;
-            text-align: center;
-            font-size: 20px;
-            z-index: 100;
-        }
-
-        .my-float {
-            margin-top: 16px;
-        }
-
-</style>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
-<a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
-    <i class="fab fa-whatsapp my-float"></i>
-</a>
-
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">

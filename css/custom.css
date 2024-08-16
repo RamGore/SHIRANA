@@ -476,7 +476,29 @@ color:#0765fe;
 width: 25% !important;
   }
   }
-
-
-
-
+  .ulockd-welcm-hmddl .header-logo {
+    margin:0px !important;
+  }
+  
+  .float{
+    position:fixed;
+    width:50px;
+    height:50px;
+    bottom:60px;
+      left:20px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:20px;
+    z-index:100;
+  
+  }
+  
+  .my-float{
+    margin-top:16px;
+  }
+  .nav{
+    padding-left:30px;
+  }
+  
