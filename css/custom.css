@@ -295,6 +295,9 @@ p {
   margin: 0;
   font-family: Arial, sans-serif;
 }
+.pading{
+  padding-left: 194px;
+}
 
 .background-image {
   position: relative;

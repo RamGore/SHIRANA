@@ -25,9 +25,9 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-6">
 				<div class="ulockd-footer-contact">
-					<h3 class="text-uppercase">CONTACT <span class="text-thm2">US</span></h3>
+					<h3 class="text-uppercase pading">CONTACT <span class="text-thm2">US</span></h3>
 					<div class="ulockd-ftr-mail"><span class="fa fa-location footer-icon fs-4">&nbsp; </span>  &nbsp;
 						<p>House no 2 Lane no 12, Pundaliknagar Garkheda, Chh. Sambhajinagar 431001.</p>
 					</div>
@@ -36,21 +36,24 @@
 							<a href="mailto:lalchandrajput1967@gmail.com">lalchandrajput1967@gmail.com</a>,
 							<a href="mailto:sachintatu0009@gmail.com"> sachintatu0009@gmail.com</a>
 						</span>
+						
 					</div>
 					<div class="ulockd-ftr-phone dont-change"><span class="fa fa-phone footer-icon fs-4">&nbsp; </span>&nbsp; <span><a href="tel:+91 8308136689" class="ulockd-addrss">+91- 8308136689,</a><a href="tel:+91 8668615130" class="ulockd-addrss">+91- 8668615130</a></span>
 					</div>
+					<div>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <ul class="list-inline ulockd-footer-font-icon" style="font-family: Arial, sans-serif; padding-top:25px;">
+        <li><a href="https://www.facebook.com/share/7RJcxufQi8MtxVUz/?mibextid=LQQJ4d"><i class="fa-brands fa-facebook-f" style="color: #fff;"></i></a></li>
+        <li><a href="https://web.whatsapp.com/send?phone=+918308136689&amp;text=Hello"><i class="fa-brands fa-whatsapp" style="color: #fff;"></i></a></li>
+    </ul>
+	</div>
+
+
 
 				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-				<div class="ulockd-footer-twitter example1">
-					<h3 class="text-uppercase">FOLLOW <span class="text-thm2">US</span></h3>
 
-					<ul class="list-inline ulockd-footer-font-icon">
-						<li><a href="https://www.facebook.com/share/7RJcxufQi8MtxVUz/?mibextid=LQQJ4d"><i class="fa-brands fa-facebook-f" style="color: #fff;"></i></a></li>
-						<li><a href="https://web.whatsapp.com/send?phone=+918308136689&amp;text=Hello" ><i class="fa-brands fa-whatsapp" style="color: #fff;"></i></a></li>
-						<li><a href="#"><i class="fa-brands fa-instagram" style="color: #fff;"></i></a></li>
-					</ul>
+					
 
 				</div>
 			</div>

@@ -24,7 +24,7 @@
 	<title>NAGARI VIKAS SEVABHAVI SANSTHA</title>
 	<!-- Favicon -->
 
-	<link rel="stylesheet" href="images/gallery copy/favivonfor.png">
+	<link rel="stylesheet" href="images/gallery copy/faviconfor.png">
 	<link rel="stylesheet" href="images/gallery copy/faviconfor.png">
 
 
