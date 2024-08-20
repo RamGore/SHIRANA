@@ -29,7 +29,7 @@ include 'header.php'; ?>
                             </span></strong><br>On the occasion of Diwali which was celebrated on 4th November 2021. As
                         the wave of Covid-19 was at peak people were unemployed and were financially unstable due to
                         which many people were not able to celebrate the festival of lights. So the organization decided
-                        to celebrate this Diwali with poor people. Nagari vikas sevabhavi sanstha celebrated Diwali with
+                        to celebrate this Diwali with poor people. Nagari Vikas Sevabhavi Sanstha celebrated Diwali with
                         around 150 poor and needy families. Families were greeted with the gift packs (clothes and
                         grocery), sweets, snacks and eco-friendly crackers. Our organization tried to add lights in poor
                         families this Diwali.
@@ -58,9 +58,9 @@ include 'header.php'; ?>
                             th October 2022)
                         </span></strong><br>On the occasion of Diwali which was celebrated on 24th October 2022. Senior
                     Citizens were greeted with the gift packs.
-                    Sarees distributed among widows and poor women of hanumannagar Sweet Ditributed to orphanage
+                    Sarees distributed among widows and poor women of Hanuman nagar Sweet Ditributed to orphanage
                     children , sung songs, played with the flute, laughed on jokes and enjoyed with the students a lot
-                    with great favor. An Eco-friendly Diwali was celebrated among Senior citizens of Hanumannagar home
+                    with great favor. An Eco-friendly Diwali was celebrated among Senior citizens of Hanuman nagar home
                     was decorated with lights and flowers, beautiful rangoli was made by the Grandma’s. Diya’s were
                     lighted to make the atmosphere positive. The whole Area was twinkling with lights.
                     Every one in the area  enjoyed the Festival of Lights.
@@ -80,10 +80,10 @@ include 'header.php'; ?>
                             th November 2023)
                         </span></strong><br>On the occasion of Diwali which was celebrated on 12
                     th November 2023. Nagari
-                    vikas sevabhavi sanstha celebrated Diwali with around 100 helpless and
+                    Vikas Sevabhavi Sanstha celebrated Diwali with around 100 helpless and
                     unsupported woman. Womans were greeted with the gift packs (saree and
                     clothes), sweets, snacks. An Eco-friendly Diwali was celebrated with these
-                    womans. Nagari vikas sevabhavi sanstha office was decorated with lights and
+                    womans. Nagari Vikas Sevabhavi Sanstha office was decorated with lights and
                     flowers, beautiful rangoli was made by the womans. Diya’s were lit to make the
                     atmosphere positive. Every one enjoyed the Festival of Lights.
                 </p>
@@ -111,7 +111,7 @@ include 'header.php'; ?>
                     <p class="abt-txt">
                         <strong><span class="vision-sec">(8
                                 th March 2024)
-                            </span></strong><br>Holi was celebrated by Nagari vikas sevabhavi sanstha on 8th March 2024
+                            </span></strong><br>Holi was celebrated by Nagari Vikas Sevabhavi Sanstha on 8th March 2024
                         with the orphan children. Occasion like holi break sadness and aloneness among
                         the orphan children. Holi was celebrated with colors and sweets to add beautiful
                         colours in their life. Traditional sweets and snack were prepared and distributed
@@ -141,8 +141,8 @@ include 'header.php'; ?>
                 <div class="ulockd-main-title">
                     <p class="abt-txt">
                         <strong><span class="vision-sec">(25th March 2024)
-                            </span></strong><br>Marathi New year Gudi Padwa was celebrated by Nagari vikas sevabhavi
-                        sanstha on 25
+                            </span></strong><br>Marathi New year Gudi Padwa was celebrated by Nagari Vikas Sevabhavi
+                        Sanstha on 25
                         nd
                         March 2024. Gudi was set as per Maharashtrian tradition on the
                         office building of the organisation. Beautiful rangoli were prepared on the main
@@ -272,7 +272,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
                 <div class="ulockd-main-title">
                     <p class="abt-txt">
                         <strong><span class="vision-sec">(1 December 2021)
-                            </span></strong><br>World Aids Day was celebrated by Nagari Vikas Sevabhavi Sanstha.Dr Anant Kale  given the speech on AIDS and its precaution .This program was organized fore truch driver and citizens of Hanumannagar. In which prevention and treatment targets were discussed.Dr kale Given the anwers of attendees about HIV and AIDs.
+                            </span></strong><br>World Aids Day was celebrated by Nagari Vikas Sevabhavi Sanstha.Dr Anant Kale  given the speech on AIDS and its precaution .This program was organized fore truch driver and citizens of Hanuman nagar. In which prevention and treatment targets were discussed.Dr kale Given the anwers of attendees about HIV and AIDs.
 
                 </div>
             </div>
@@ -293,8 +293,8 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
                 <div class="ulockd-main-title">
                     <p class="abt-txt">
                         <strong><span class="vision-sec">(7th April 2022)
-                            </span></strong><br>NAGARI VIKAS SEVABHAVI SANSTHA organized a Health campaign on behalf of the World Health Day on 7th April 2022 with the co-ordination of primary health centre of Aurangabad  Their health staff came and gave prosperous and valuable information and guidance about self sanitation. Dr.Kale  treated all the old people. He gave importance and necessary precaution for their old age. He had done primary health check-up. He also gave health tips to the Senior Citizen’s there. Organisation Distributed some multi-vitamins supplements and tonics.
-             Health camp completed in the presence of Dr Kale Anant and  primary health centre and his team , President L.D, Tatu and Body members and citizen of Hanumannagar .
+                            </span></strong><br>Nagari Vikas Sevabhavi Sanstha organized a Health campaign on behalf of the World Health Day on 7th April 2022 with the co-ordination of primary health centre of Aurangabad  Their health staff came and gave prosperous and valuable information and guidance about self sanitation. Dr.Kale  treated all the old people. He gave importance and necessary precaution for their old age. He had done primary health check-up. He also gave health tips to the Senior Citizen’s there. Organisation Distributed some multi-vitamins supplements and tonics.
+             Health camp completed in the presence of Dr Kale Anant and  primary health centre and his team , President L.D, Tatu and Body members and citizen of Hanuman nagar .
                     </p>
                 </div>
             </div>
@@ -316,7 +316,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
             <div class="ulockd-main-title">
                 <p class="abt-txt">
                     <strong><span class="vision-sec">(7th April 2023)
-                        </span></strong><br>NAGARI VIKAS SEVABHAVI SANSTHA organized a Health campaign on
+                        </span></strong><br>Nagari Vikas Sevabhavi Sanstha organized a Health campaign on
 behalf of the World Health Day on 7th April 2023 with the co-ordination of primary
 health centre of Aurangabad Their health staff came and gave prosperous and
 valuable information and guidance about self sanitation. Dr.Kale treated all the
@@ -325,7 +325,7 @@ done primary health check-up. He also gave health tips to the Senior Citizen’s
 there. Organisation Distributed some multi-vitamins supplements and tonics.
  Health camp completed in the presence of Dr Kale Anant and primary
 health centre and his team , President L.D Tatu and Body members and citizen of
-Hanumannagar.Around 140 peoples gone through this camp benefits.
+Hanuman nagar.Around 140 peoples gone through this camp benefits.
 
 
             </div>
@@ -428,7 +428,7 @@ Everybody enjoyed the celebration.
             <div class="ulockd-main-title">
                 <p class="abt-txt">
                     <strong><span class="vision-sec">(14th January 2023)
-                        </span></strong><br>Makar Sankranti was celebrated by Nagari vikas sevabhavi sanstha on 14th January
+                        </span></strong><br>Makar Sankranti was celebrated by Nagari Vikas Sevabhavi Sanstha on 14th January
 2023. This festival was organized by the trustees of the organization by arranging
 the Haldi kumkum program and women of new hanuman colony were invited.
 This festival was celebrated along with dignitaries and Senior Citizen’s of New
@@ -447,7 +447,7 @@ distributed to the women as a gift for Haldi kumkum program.
                 <p class="abt-txt">
                     <strong><span class="vision-sec">CELEBRATION OF MAKAR SANKRANTI AND HOME BASE BUSINESS GUIDING SEMINAR
 
-                        </span></strong><br>MakarSankranti Haldi Kumkum Program was celebrated in Hanumannagar Garkheda  14th January 2023. This festival was celebrated to make the Women’s of Hanumannagar feel better. Some children’s along with their Mother Gathered at trust Fuction hall , they spent time citizen’s they greeted them Happy Sankranti and shared Tilgul.Children’s enjoyed flying kites with the elderly’s. All the  citizen’s were so happy celebrating Makar Sankranti with the children.
+                        </span></strong><br>MakarSankranti Haldi Kumkum Program was celebrated in Hanuman nagar Garkheda  14th January 2023. This festival was celebrated to make the Women’s of Hanuman nagar feel better. Some children’s along with their Mother Gathered at trust Fuction hall , they spent time citizen’s they greeted them Happy Sankranti and shared Tilgul.Children’s enjoyed flying kites with the elderly’s. All the  citizen’s were so happy celebrating Makar Sankranti with the children.
 
 
 Mr Lalchand Tatu Given speech as suggested that Such celebration’s should be carried out in society to overcome  stress and sorrows in routine life .

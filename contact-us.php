@@ -10,7 +10,7 @@ include 'header.php'; ?>
 <div class="wrapper">
 	<div id="preloader" class="preloader">
 		<div id="pre" class="preloader_container">
-			<div class="preloader_disabler btn btn-default">Disable Preloader</div>
+			<!-- <div class="preloader_disabler btn btn-default">Disable Preloader</div> -->
 		</div>
 	</div>
 
@@ -61,7 +61,7 @@ include 'header.php'; ?>
 						<i class="fa-sharp fa-solid fa-location-dot" style="color: #FFD43B;"></i>
 						<h4>Office Address</h4>
 					</div>
-					<img class="border-image" src="https://www.salehasevabhavisansthahingoli.org.in/wp-content/uploads/2024/02/border_widget.png" alt="border_widget">
+					<img class="border-image" src="https://www.salehaSevabhaviSansthahingoli.org.in/wp-content/uploads/2024/02/border_widget.png" alt="border_widget">
 					<p>House no 2 Lane no 12, Pundaliknagar Garkheda, Chh. Sambhajinagar 431001</p>
 				</div>
 				<div class="card">
@@ -69,7 +69,7 @@ include 'header.php'; ?>
 						<i class="fa-solid fa-phone" style="color: #FFD43B;"></i>
 						<h4>Phone Number</h4>
 					</div>
-					<img class="border-image" src="https://www.salehasevabhavisansthahingoli.org.in/wp-content/uploads/2024/02/border_widget.png" alt="border_widget">
+					<img class="border-image" src="https://www.salehaSevabhaviSansthahingoli.org.in/wp-content/uploads/2024/02/border_widget.png" alt="border_widget">
 					<a href="tel:+91 8308136689" class="ulockd-addrss">+91 8308136689</a><br>
 					<a href="tel:+91 8668615130" class="ulockd-addrss">+91 8668615130</a>
 
@@ -79,7 +79,7 @@ include 'header.php'; ?>
 						<i class="fa-solid fa-envelope" style="color: #FFD43B;"></i>
 						<h4>Email Id</h4>
 					</div>
-					<img class="border-image" src="https://www.salehasevabhavisansthahingoli.org.in/wp-content/uploads/2024/02/border_widget.png" alt="border_widget">
+					<img class="border-image" src="https://www.salehaSevabhaviSansthahingoli.org.in/wp-content/uploads/2024/02/border_widget.png" alt="border_widget">
 					<a href="mailto:lalchandrajput1967@gmail.com">lalchandrajput1967@gmail.com,</a>
 					<a href="mailto:sachintatu0009@gmail.com"> sachintatu0009@gmail.com</a>
 				</div>
@@ -89,7 +89,7 @@ include 'header.php'; ?>
 				<div class="col-lg-8 col-lg-offset-2 text-center">
 					<div class="ulockd-cp-title">
 						 <!-- <p>Our contact address</p> -->
-						<h2 class="text-uppercase">Contact Our <span class="text-thm2">Support.</span></h2>
+						<h2 class="text-uppercase">Contact<span class="text-thm2"> US</span></h2>
 
 					</div>
 				</div>
@@ -138,7 +138,8 @@ include 'header.php'; ?>
 									<!-- Message Field -->
 									<div class="col-md-12 mesg-cont">
 										<div class="form-group">
-											<textarea id="message" name="message" class="form-control ulockd-form-tb required" rows="12" placeholder="Your message" required="required" data-error="Message is required."></textarea>
+										<textarea id="message" name="message" class="form-control ulockd-form-tb required" rows="6" placeholder="Your message" required="required" data-error="Message is required."></textarea>
+
 											<div class="help-block with-errors"></div>
 										</div>
 										<!-- Submit Button -->
@@ -154,7 +155,7 @@ include 'header.php'; ?>
 
 					<div class="col-md-6">
 						<div class="ulockd-google-map">
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d708.5157433798389!2d75.35864225991452!3d19.865158949692447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdba28bcffff62f%3A0x14042a192ea20e2a!2sShiv%20Rana%20Vachanalay!5e0!3m2!1sen!2sin!4v1722337578701!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d708.5157433798389!2d75.35864225991452!3d19.865158949692447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdba28bcffff62f%3A0x14042a192ea20e2a!2sShiv%20Rana%20Vachanalay!5e0!3m2!1sen!2sin!4v1722337578701!5m2!1sen!2sin" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						</div>
 					</div>
 
@@ -170,28 +171,57 @@ include 'header.php'; ?>
     contactForm.addEventListener('submit', function (event) {
         event.preventDefault(); // Prevent the default form submission
 
-        // Create a FormData object to hold the form data
-        const formData = new FormData(contactForm);
+        let isValid = true;
 
-        // Send the form data using fetch
-        fetch('backend/contact.php', {
-            method: 'POST',
-            body: formData
-        })
-        .then(response => response.text()) // Parse the response as text
-        .then(data => {
-            // Handle the success response
-            console.log(data);
-            alert('Form submitted successfully.');
-            contactForm.reset(); // Optionally reset the form after successful submission
-        })
-        .catch(error => {
-            // Handle any errors
-            console.error('Error:', error);
-            alert('There was an error submitting the form. Please try again.');
+        // Loop through each required field and check if it is filled
+        document.querySelectorAll('.required').forEach(function(input) {
+            const errorMessage = input.dataset.error || "This field is required.";
+            if (!input.value.trim()) {
+                input.nextElementSibling.textContent = errorMessage; // Display custom error message
+                isValid = false;
+            } else {
+                input.nextElementSibling.textContent = ''; // Clear error message if input is valid
+            }
         });
+
+        if (isValid) {
+            // Create a FormData object to hold the form data
+            const formData = new FormData(contactForm);
+
+            // Send the form data using fetch
+            fetch('backend/contact.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.text()) // Parse the response as text
+            .then(data => {
+                // Handle the success response
+                console.log(data);
+                alert('Form submitted successfully.');
+                contactForm.reset(); // Optionally reset the form after successful submission
+            })
+            .catch(error => {
+                // Handle any errors
+                console.error('Error:', error);
+                alert('There was an error submitting the form. Please try again.');
+            });
+        } else {
+            alert('Please fill out all required fields before submitting.');
+        }
     });
 });
+
+
+
+
+
+
+
+
+
+
+
+
 
 </script>
 

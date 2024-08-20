@@ -39,7 +39,7 @@ include 'header.php';
     <div class="col-md-8 col-lg-8 text-left">
         <div class="ulockd-main-title">
             <p class="abt-txt">
-                <span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA</span> Trust seeks donation to increase the corpus
+                <span class="text-thm2">Nagari Vikas Sevabhavi Sanstha</span> Trust seeks donation to increase the corpus
                 of the Trust so that it can be used to benefit the women of <span class="text-thm2">AURANGABAD
                 MAHARASHTRA</span> through Vocational training of Computer Hardware & Networking,
                 Handicrafts and Mobile Repairing. <span class="text-thm2">FOR WOMEN LIVING WITH POVERTY</span>.

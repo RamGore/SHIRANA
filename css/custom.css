@@ -103,7 +103,7 @@
   border: 2px solid #ddd;
   border-radius: 18px !important;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  margin-top: 31px; 
+  margin-top: 21px; 
   opacity: 0;
   transform: translateX(100%);
   animation: slideIn 2s forwards;
@@ -418,8 +418,6 @@ p {
   }
   .abt-txt {
     font-size: 17px;
-    word-break: break-all;
-    word-wrap: break-word;
     line-height: 1.6;
   }
   .reverse{
@@ -507,7 +505,30 @@ width: 25% !important;
     z-index:100;
   
   }
+  @media (max-width:1200px){
+    .homeee{
+      display: none !important;
+    }
+  }
+
+  @media (min-width:320px)and(max-width:1200)
+{
+
+  .float{
+    position:fixed;
+    width:44px;
+    height:44px;
+    bottom:60px;
+    left:20px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:17px;
+    z-index:100;
   
+  }
+}  
   .my-float{
     margin-top:16px;
   }
@@ -563,4 +584,19 @@ color: #ffae00 !important;
 }
 .ulockd-welcm-hmddl .header-logo{
   padding-top: 15px;
+}
+.navbarrr{
+  padding-left:20px !important;
+}
+.main-logooo a{
+  color: #ffb606;
+  margin-top: -20px !important;
+  font-weight: bolder;
+  font-size: 20px !important;
+}
+.main-logooo a:hover{
+  color: #ffae00 !important;
+}
+#message {
+  height: 150px; /* Set your desired height in pixels */
 }

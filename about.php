@@ -30,7 +30,7 @@ include 'header.php'; ?>
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">
                         <p class="abt-txt">
-                            <span class="text-thm2">NAGARI VIKAS SEVABHAVI SANSTHA</span> Trust seeks donation to increase the corpus
+                            <span class="text-thm2">Nagari Vikas Sevabhavi Sanstha</span> Trust seeks donation to increase the corpus
                             of the Trust so that it can be used to benefit the women of <span class="text-thm2">AURANGABAD
                             MAHARASHTRA</span> through Vocational training of Computer Hardware & Networking,
                             Handicrafts and Mobile Repairing. <span class="text-thm2">FOR WOMEN LIVING WITH POVERTY</span>.
@@ -46,7 +46,7 @@ include 'header.php'; ?>
             <div class="row about2 align-items-center">
                 <h1 class="our-vision-credo">OUR VISION & CREDO</h1>
                 <div class="col-md-4 col-lg-4 text-right">
-                    <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1  responsive" alt="image">
+                    <img src="images/gallery copy/45.jpg" class="img-responsive custom-img1  responsive" alt="image">
                 </div>
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">
@@ -109,8 +109,7 @@ include 'header.php'; ?>
                 <div class="reverse">
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">
-                        <p class="abt-txt-new">
-                            From they can help to earn money and when they suffering with poverty not able to do hard work or work away from home they would be expected to support them. However, distressed people are normally considered a financial burden and, due to poverty, no special provision is provided for them. There are many examples of girls being left at home, alone all day while their parents, brothers and sisters work in the fields. Now at the age of 15 to 35 they are too old to begin. Therefore in addition to teaching art and craft they also need to be taught basic number skills, computer skills, reading, and writing.
+                        <p class="abt-txt"> From they can help to earn money and when they suffering with poverty not able to do hard work or work away from home they would be expected to support them. However, distressed people are normally considered a financial burden and, due to poverty, no special provision is provided for them. There are many examples of girls being left at home, alone all day while their parents, brothers and sisters work in the fields. Now at the age of 15 to 35 they are too old to begin. Therefore in addition to teaching art and craft they also need to be taught basic number skills, computer skills, reading, and writing.
                         </p>
                     </div>
                 </div>

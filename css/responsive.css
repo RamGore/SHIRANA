@@ -56,15 +56,9 @@
 		color: #fff;
 		font-family: 'Open Sans', sans-serif;
 		margin-bottom: 20px;
-		word-break: break-all;
-		word-wrap: break-word;
 	}
 	.footer-icon{
 		font-size: 25px;
-	}
-	.ulockd-footer-contact p{
-		word-break: break-all;
-		word-wrap: break-word;
 	}
 	.color-white {
 		color: #ffffff !important;
@@ -77,8 +71,6 @@
 	.card p {
 		font-size: 15px;
 		color: #555;
-		word-break: break-all;
-		word-wrap: break-word;
 	}
 	.card h4 {
 		margin-left: 10px;
@@ -87,7 +79,7 @@
 		display: inline;
 	}
 }
-@media (min-width:768px) and (max-width:1023px){
+@media (min-width:420px) and (max-width:1023px){
 	.header-mobile{
 		position: fixed;
 		top: 0;
@@ -236,16 +228,11 @@
 		color: #fff;
 		font-family: 'Open Sans', sans-serif;
 		margin-bottom: 20px;
-		word-break: break-all;
-		word-wrap: break-word;
 	}
 	.footer-icon{
 		font-size: 25px;
 	}
-	.ulockd-footer-contact p{
-		word-break: break-all;
-		word-wrap: break-word;
-	}
+
 	.ulockd-main-title h2 {
        padding: 30px 0px;
 	}
@@ -256,8 +243,6 @@
 	.card p {
 		font-size: 14px;
 		color: #555;
-		word-break: break-all;
-		word-wrap: break-word;
 	}
 	.card h4 {
 		margin-left: 10px;
@@ -274,8 +259,8 @@
 	}
 
 	.container .responsive{
-		width: 80% !important;
-		height: 450px !important;
+		width: 60% !important;
+		/* height: 450px !important; */
 	}
 	.ulockd-footer .container .row{
 		display: grid;
@@ -324,7 +309,7 @@
 	}
 	.mobile-header p{
 		font-size: 12px;
-		padding-left:30px;
+		padding-left:55px;
 	}
 	.nav{
 		background-color: white;
@@ -445,8 +430,6 @@
 	}
 	.abt-txt {
 		font-size: 19px;
-		word-break: break-all;
-		word-wrap: break-word;
 		line-height: 1.6;
 	}
 	.pagination>li>a, .ulockd-title-icon, .ulockd-gallery-slider .owl-prev, .ulockd-gallery-slider .owl-next, .team-icon a, .twitter.style2 ul li a, .text-thm2 {
@@ -456,7 +439,7 @@
 	}
 	.pb-details > h3 {
 		margin-top: 0;
-		font-size: 15px;
+		font-size: 20px;
 	}
 	.ulockd-pad395 {
 		margin: 20px;
@@ -464,8 +447,6 @@
 	p {
 		margin: 0px !important;
 		text-align: justify;
-		word-break: break-all;
-		word-wrap: break-word;
 	}
 	h4 {
 		font-size: 12px;
@@ -574,8 +555,6 @@
 		margin-left: 0px !important;
 		text-align: justify;
 		max-width: 350px;
-		word-break: break-all;
-		word-wrap: break-word;
 	}
 	.donate-line1 {
 		margin-left: 0px !important;

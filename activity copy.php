@@ -36,7 +36,7 @@ include 'header.php';
                         </span></strong><br>On the occasion of Diwali which was celebrated on 4th November 2021. As
                     the wave of Covid-19 was at peak people were unemployed and were financially unstable due to
                     which many people were not able to celebrate the festival of lights. So the organization decided
-                    to celebrate this Diwali with poor people. Nagari vikas sevabhavi sanstha celebrated Diwali with
+                    to celebrate this Diwali with poor people. Nagari Vikas Sevabhavi Sanstha celebrated Diwali with
                     around 150 poor and needy families. Families were greeted with the gift packs (clothes and
                     grocery), sweets, snacks and eco-friendly crackers. Our organization tried to add lights in poor
                     families this Diwali.
@@ -62,9 +62,9 @@ include 'header.php';
                         th October 2022)
                     </span></strong><br>On the occasion of Diwali which was celebrated on 24th October 2022. Senior
                 Citizens were greeted with the gift packs.
-                Sarees distributed among widows and poor women of hanumannagar Sweet Ditributed to orphanage
+                Sarees distributed among widows and poor women of Hanuman nagar Sweet Ditributed to orphanage
                 children , sung songs, played with the flute, laughed on jokes and enjoyed with the students a lot
-                with great favor. An Eco-friendly Diwali was celebrated among Senior citizens of Hanumannagar home
+                with great favor. An Eco-friendly Diwali was celebrated among Senior citizens of Hanuman nagar home
                 was decorated with lights and flowers, beautiful rangoli was made by the Grandma’s. Diya’s were
                 lighted to make the atmosphere positive. The whole Area was twinkling with lights.
                 Every one in the area  enjoyed the Festival of Lights.
@@ -84,10 +84,10 @@ include 'header.php';
                         th November 2023)
                     </span></strong><br>On the occasion of Diwali which was celebrated on 12
                 th November 2023. Nagari
-                vikas sevabhavi sanstha celebrated Diwali with around 100 helpless and
+                Vikas Sevabhavi Sanstha celebrated Diwali with around 100 helpless and
                 unsupported woman. Womans were greeted with the gift packs (saree and
                 clothes), sweets, snacks. An Eco-friendly Diwali was celebrated with these
-                womans. Nagari vikas sevabhavi sanstha office was decorated with lights and
+                womans. Nagari Vikas Sevabhavi Sanstha office was decorated with lights and
                 flowers, beautiful rangoli was made by the womans. Diya’s were lit to make the
                 atmosphere positive. Every one enjoyed the Festival of Lights.
             </p>
@@ -117,7 +117,7 @@ include 'header.php';
                 <p class="abt-txt">
                     <strong><span class="vision-sec">(8
                             th March 2024)
-                        </span></strong><br>Holi was celebrated by Nagari vikas sevabhavi sanstha on 8th March 2024
+                        </span></strong><br>Holi was celebrated by Nagari Vikas Sevabhavi Sanstha on 8th March 2024
                     with the orphan children. Occasion like holi break sadness and aloneness among
                     the orphan children. Holi was celebrated with colors and sweets to add beautiful
                     colours in their life. Traditional sweets and snack were prepared and distributed
@@ -154,8 +154,8 @@ include 'header.php';
             <div class="ulockd-main-title">
                 <p class="abt-txt">
                     <strong><span class="vision-sec">(25th March 2024)
-                        </span></strong><br>Marathi New year Gudi Padwa was celebrated by Nagari vikas sevabhavi
-                    sanstha on 25
+                        </span></strong><br>Marathi New year Gudi Padwa was celebrated by Nagari Vikas Sevabhavi
+                    Sanstha on 25
                     nd
                     March 2024. Gudi was set as per Maharashtrian tradition on the
                     office building of the organisation. Beautiful rangoli were prepared on the main

@@ -20,12 +20,14 @@
 	<link rel="stylesheet" href="css/custom-3.css">
 	<!-- Responsive stylesheet -->
 	<link rel="stylesheet" href="css/responsive.css">
-	<!-- Title -->
-	<title>NAGARI VIKAS SEVABHAVI SANSTHA</title>
+	<!-- Title --><link rel="icon" href="images/gallery copy/favicon1.png" type="image/png">
+<link rel="shortcut icon" href="images/gallery copy/faviconfor.png" type="image/png">
+
+	<title>Nagari Vikas Sevabhavi Sanstha</title>
 	<!-- Favicon -->
 
-	<link rel="stylesheet" href="images/gallery copy/faviconfor.png">
-	<link rel="stylesheet" href="images/gallery copy/faviconfor.png">
+	<!-- <link rel="stylesheet" href="images/gallery copy/favicon1.png"> -->
+	<!-- <link rel="stylesheet" href="images/gallery copy/faviconfor.png"> -->
 
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -41,7 +43,7 @@
 	<div class="wrapper">
 		<div id="preloader" class="preloader">
 			<div id="pre" class="preloader_container">
-				<div class="preloader_disabler btn btn-default">Disable Preloader</div>
+				<!-- <div class="preloader_disabler btn btn-default">Disable Preloader</div> -->
 			</div>
 		</div>
 		<div class="header-topped">
@@ -52,7 +54,7 @@
 					</div>
 					<div class="col-md-6">
 						<div class="welcm-ht text-center">
-							<p class="ulockd-welcntxt">NAGARI VIKAS SEVABHAVI SANSTHA</p>
+							<p class="ulockd-welcntxt">Nagari Vikas Sevabhavi Sanstha</p>
 						</div>
 					</div>
 				</div>
@@ -63,10 +65,11 @@
 				<div class="row center">
 					<div class="col-xs-12 col-sm-6 col-lg-3">
 						<div class="ulockd-welcm-hmddl">
-							<a href="index"  class="header-logo ulockd-main-logo main-logo">
-								NAGARI VIKAS
-								SEVABHAVI SANSTHA
-							</a>
+							<h4 class="main-logooo"><a href="index">NAGARI VIKAS<br>
+							SEVABHAVI SANSTHA</a></h4>
+							
+								
+							
 						</div>
 					</div>
 
@@ -106,11 +109,11 @@
 
 		<div class="header-mobile navbar-scrolltofixed fixxx">
 		<div class="mobile-header">
-					<div data-toggle="collapse" data-target="#navbar-menu">
+					<div data-toggle="collapse" data-target="#navbar-menu" class="navbarrr">
                       <i class="fa fa-bars" id="icon"></i>
 					</div>
 					<div>
-                       <p>NAGARI VIKAS SEVABHAVI SANSTHA</p>
+                       <p>Nagari Vikas Sevabhavi Sanstha</p>
 					</div>
 				</div>
 
@@ -216,10 +219,10 @@
 									<i class="fa fa-bars"></i>
 								</button>
 								<div class="display welcm-ht text-center">
-									<p class="ulockd-welcntxt">NAGARI VIKAS SEVABHAVI SANSTHA</p>
+									<p class="ulockd-welcntxt">Nagari Vikas Sevabhavi Sanstha</p>
 								</div> -->
 								<!-- <div class="display welcm-ht">
-									<p class="ulockd-welcntxt">NAGARI VIKAS SEVABHAVI SANSTHA</p>
+									<p class="ulockd-welcntxt">Nagari Vikas Sevabhavi Sanstha</p>
 								</div> -->
 							<!-- </div> -->
 

@@ -5,8 +5,8 @@
 			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
 				<div class="ulockd-footer-fst-col">
 					<div class="ulockd-welcm-hmddl">
-						<p href="index.html" class="ulockd-main-logo main-logo footer-logo">NAGARI VIKAS
-							SEVABHAVI SANSTHA</p>
+						<p href="index.html" class="ulockd-main-logo main-logo footer-logo">Nagari Vikas
+							Sevabhavi Sanstha</p>
 					</div>
 					<!-- <img alt="" src="images/footer-logo.png" class="img-responsive ulockd-footer-log"> -->
 					<p class="ulockd-ftr-text">Regardless of whether you need to stay in your own house, are searching for help with a more established relative, looking for exhortation on paying for care, we can help you.</p>
@@ -66,7 +66,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 cont-cent">
-				<p class="color-white">Copyright © 2024.All right reserved. </p>
+				<p class="color-white">Copyright © 2024 All right reserved </p>
 				<span class="color-white">Designed and Developed by <a class="color-white" href="https://websartech.com/" target="_blank">Websar IT Solutions</a></span>
 
 			</div>
@@ -80,7 +80,7 @@
 </a></div>
 
 <script src="js/main.js"></script>
-<a class="scrollToHome" href="#"><i class="fa fa-home"></i></a>
+<a class="scrollToHome homeee" href="#"><i class="fa fa-home"></i></a>
 </div>
 <!-- Wrapper End -->
 <script type="text/javascript" src="js/jquery-1.12.4.js"></script>

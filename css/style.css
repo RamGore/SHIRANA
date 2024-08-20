@@ -2275,8 +2275,8 @@ color: #000;
 }
 /* CONTACT PAGES */
 .ulockd-contact-page {
-  padding-bottom: 40px;
-  padding-top: 55px;
+  /* padding-bottom: 40px; */
+  padding-top: 40px;
 }
 .ulockd-contact-form .ulockd-form-fg {
   border-radius: 0;

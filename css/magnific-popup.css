@@ -377,7 +377,7 @@ img.mfp-img {
     text-align: left;
     line-height: 18px;
     color: #F3F3F3;
-    word-wrap: break-word;
+    /* word-wrap: break-word; */
     padding-right: 36px;
 }
 
@@ -866,7 +866,7 @@ img.mfp-img {
     text-align: left;
     line-height: 18px;
     color: #f3f3f3;
-    word-wrap: break-word;
+    /* word-wrap: break-word; */
     padding-right: 36px
 }
 
