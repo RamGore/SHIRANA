@@ -1,8 +1,6 @@
-<?php
-include 'header.php';
-?>
+
    
-    <div class="containerrrrr">
+   <!-- <div class="containerrrrr">
      
         <div class="fb-plugin">
             <div id="fb-root"></div>
@@ -35,9 +33,5 @@ include 'header.php';
             <button class="follwbtn"><a href="https://www.facebook.com/share/7RJcxufQi8MtxVUz/?mibextid=LQQJ4d">follow us for more</a></button></div>
         </div>
         
-    </div>
+    </div> -->
 
-
-<?php
-		include 'footer.php';
-		?>

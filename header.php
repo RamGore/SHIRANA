@@ -24,8 +24,8 @@
 	<title>NAGARI VIKAS SEVABHAVI SANSTHA</title>
 	<!-- Favicon -->
 
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+	<link rel="stylesheet" href="images/gallery copy/favivonfor.png">
+	<link rel="stylesheet" href="images/gallery copy/faviconfor.png">
 
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -150,7 +150,7 @@
     <li class="dropdown"><a href="activity">Our Activities</a></li>
     <li class="dropdown"><a href="event">Events</a></li>
     <li class="dropdown"><a href="gallery">Gallery</a></li>
-    <li class="dropdown"><a href="facebook">Facebook</a></li>
+    <!-- <li class="dropdown"><a href="facebook">Facebook</a></li> -->
     <li class="dropdown"><a href="contact-us">Contact Us</a></li>
 </ul>
 

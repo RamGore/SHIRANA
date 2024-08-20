@@ -147,7 +147,7 @@ include 'header.php'; ?>
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>HANDICAPPED TRAINING PROGRAM</h3>
-					<p>On March 24, 2022, a small home-based business training session was conducted for 24 handicapped students. The training covered skills such as bookbinding, photo frame making, and screen printing, empowering the participants to explore self-employment opportunities.</p>
+					<p>On 24th March 2022, a small home-based business training session was conducted for 24 handicapped students. The training covered skills such as bookbinding, photo frame making, and screen printing, empowering the participants to explore self-employment opportunities.</p>
 					<a class="text-more mt-4" href="activity.php#HANDICAPPED" class="">More Details <span class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
@@ -169,7 +169,7 @@ include 'header.php'; ?>
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>BLOOD DONATION CAMP</h3>
-					<p>On February 19, Chhatrapati Shivaji Maharaj's birth anniversary was marked with a ceremony honoring his legacy. The President of the organization delivered a speech on his bravery, and a blood donation camp organized by Lokmanya Blood Bank collected 43 bags of blood. Multi-vitamins were given to donors, and the event concluded with sweets and fruits.</p>
+					<p>On February 19, Chhatrapati Shivaji Maharaj birth anniversary was marked with a ceremony honoring his legacy. The President of the organization delivered a speech on his bravery, and a blood donation camp organized by Lokmanya Blood Bank collected 43 bags of blood. Multi-vitamins were given to donors, and the event concluded with sweets and fruits.</p>
 					<a class="text-more" class="text-thm2" href="activity.php#BLOOD" class="">More Details <span class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
@@ -180,7 +180,7 @@ include 'header.php'; ?>
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>WORLD ENVIRONMENT DAY</h3>
-					<p>On June 5, 2022, Village Jatwada celebrated World Environmental Day with tree planting and conservation activities organized by Mr. Lalchand Tatu. The event included caring for plants, presenting tree saplings to a local institute, and distributing 1,000 pamphlets on water conservation in Garkheda Aurangabad.</p>
+					<p>On 5th June 2022, Village Jatwada celebrated World Environmental Day with tree planting and conservation activities organized by Mr. Lalchand Tatu. The event included caring for plants, presenting tree saplings to a local institute, and distributing 1,000 pamphlets on water conservation in Garkheda Aurangabad.</p>
 					<a class="text-more" href="activity.php#ENVIRONMENT" class="">More Details <span class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
@@ -253,7 +253,7 @@ include 'header.php'; ?>
 											</div>
 											<!-- Right Side: Text -->
 											<div class="col-md-6">
-												<h3 class="text-thm2" >MAHARASHTRA<span class="ulockd-mrgn630">DIN </span></h3>
+												<h3 class="text-thm2" >MAHARASHTRA<span class="ulockd-mrgn630"> DIN </span></h3>
 												<p>
 													<i class="bi bi-quote quote-icon-left"></i>
 													<span>Maharashtra Din was celebrated on 1th May 2024 with the citizens of New Hanuman colony. Flag hoisting was done by the President of Nagari Vikas Sevabhavi Sanstha, followed by National Anthem, Pledge, and Constitution. Patriotic songs were sung to glorify our great super freedom fighter heroes. Sweets and snacks were distributed. A short awareness session on Equality and Integrity was also organized. The program ended with the President’s Speech. Republic Day was celebrated with great enthusiasm.</span>

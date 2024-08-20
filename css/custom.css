@@ -30,8 +30,11 @@
 .text-right {
   text-align: right;
 }
+.yogaaa{
+  margin-bottom:29px !important;
+}
 .abt-txt {
-  font-size: 18px;
+  font-size: 17px;
   text-align: justify;
 }
 /* .abt-section{
@@ -96,21 +99,35 @@
 .custom-img1 {
   max-width: 100%;
   width: 80%; /* Adjust this value to make the image smaller */
-  height: 211px !important;
+  height: 210px !important;
   border: 2px solid #ddd;
   border-radius: 18px !important;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  margin-top: 31px; /* Adjust as needed */
+  margin-top: 31px; 
   opacity: 0;
   transform: translateX(100%);
   animation: slideIn 2s forwards;
 }
+.custom-imggg{
+  margin-top:46px;
+  max-width: 100%;
+  width: 80%; /* Adjust this value to make the image smaller */
+  height: 191px !important;
+  border: 2px solid #ddd;
+  border-radius: 18px !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* margin-top: 31px;  */
+  opacity: 0;
+  transform: translateX(100%);
+  animation: slideIn 2s forwards;
+}
+
 .values-list {
   list-style-type: disc; /* Adds bullets */
   padding-left: 20px; /* Adjust space for bullets */
   margin-top: -10px;
   text-align: justify;
-  font-size: 20px;
+  font-size: 17px;
   color: black; /* Align text to the left */
 }
 .custom-img2 {
@@ -162,7 +179,7 @@ th {
 tr {
   background-color: #f9f9f9;
   color: rgb(0, 0, 0);
-  font-size: 20x;
+  font-size: 17px;
   font-weight: 500;
 }
 .image-container {
@@ -210,15 +227,15 @@ p {
 .diwaliii {
   margin-top: 30px;
 }
-.gudi-img {
+/* .gudi-img {
   margin-top: 33px;
-}
+} */
 .womens-day {
   margin: 0 auto;
 }
-.womens-day1 {
+/* .womens-day1 {
   margin-top: 49px;
-}
+} */
 
 .womens-day2 {
   margin-bottom: 30px;
@@ -234,9 +251,9 @@ p {
 .yoga-img2 {
   margin-top: 0px !important;
 }
-.vysan-mukti {
+/* .vysan-mukti {
   margin-top: 30px;
-}
+} */
 .makar1 {
   margin-top: 0px !important;
 }
@@ -247,13 +264,13 @@ p {
   margin-top: 60px;
 }
 .aug-img {
-  margin-top: 80px;
+  margin-top: 41px;
 }
-.republic-img {
+/* .republic-img {
   margin-top: 40px;
-}
+} */
 .gandhi-img {
-  margin-top: 80px;
+  margin-top: 55px;
 }
 .sambhaji-para {
   margin-top: 50px;
@@ -292,7 +309,7 @@ p {
 
 .centered-text {
   color: white;
-  font-size: 20px;
+  font-size: 17px;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.5); /* Optional: for better readability */
   padding: 300px;
@@ -368,7 +385,7 @@ p {
   margin-top: 43px;
 } */
 .donate-line {
-  font-size: 15px;
+  font-size: 17px;
   margin-left: 66px !important;
 }
 .donate-line1 {
@@ -397,7 +414,7 @@ p {
     margin-top: 10px!important;
   }
   .abt-txt {
-    font-size: 16px;
+    font-size: 17px;
     word-break: break-all;
     word-wrap: break-word;
     line-height: 1.6;
@@ -407,10 +424,10 @@ p {
     flex-direction: column-reverse;
   }
   .responsive1{
-    font-size:20px;
+    font-size:15px;
   }
   .responsive2{
-    font-size:16px;
+    font-size:15px;
   }
 }
 
@@ -430,7 +447,7 @@ flex: 0 0 40%;
   margin-left:60px;
 }
 .joinus{
-font-size:15px;
+font-size:17px;
 }
 .faceh1{
 color:#0765fe;
@@ -451,7 +468,7 @@ color:#0765fe;
 }
 .follwbtn{
   margin-top:30px;
-  background-color:#5376ad ;
+  background-color:#ffb300 ;
   border-color: none;
   border-radius:7px;
 }
@@ -463,11 +480,7 @@ color:#0765fe;
 .ulockd-ohour-info.style2{
   justify-content: space-evenly !important;
 }
-@media (min-width: 1200px) {
-  .col-lg-3{ 
-    width:20% !important;
-    margin-left:40px;
- }}
+
  @media (min-width: 1200px) {
   .header1 {
 width: 25% !important;
@@ -487,7 +500,7 @@ width: 25% !important;
     color:#FFF;
     border-radius:50px;
     text-align:center;
-    font-size:20px;
+    font-size:17px;
     z-index:100;
   
   }
@@ -512,6 +525,7 @@ a:focus, a:hover{
 }
 .ulockd-btn-thm2:hover{
   background-color: #ffb405 !important;
+  border-color: #ffb405;
 }
 .list-unstyled a.active {
   color: #ffb405;
@@ -528,4 +542,22 @@ a:focus, a:hover{
 }
 .dont-change a:hover{
 color: #ffae00 !important;
+}
+.activity-img{
+  object-fit: cover !important;
+}
+
+
+
+
+.ulockd-welcm-hmddl .header-logo{
+  font-size:17px !important;
+}
+
+
+.main-logo:hover{
+  color: #ffae00 !important;
+}
+.ulockd-welcm-hmddl .header-logo{
+  padding-top: 15px;
 }

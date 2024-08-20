@@ -66,11 +66,9 @@ img {
   max-width: 100%;
 }
 p {
-  font-size: 18px;
+  font-size: 15px;
   line-height: 1.5em;
   font-weight: 400;
-  word-break: break-all;
-  word-wrap: break-word;
 }
 ul,
 ol {
@@ -135,6 +133,7 @@ h2 {
 }
 h3 {
   font-size: 24px;
+  font-weight: bold;
 }
 h4 {
   font-size: 18px;
@@ -146,10 +145,11 @@ h5 {
   margin: 30px;
 }
 .gallImg{
-  width: 300px;
+  width: 290px;
   padding: 5px;
-  height: 310px;
-  border-radius: 25px;
+  height: 290px;
+  border-radius: 20px;
+  object-fit: cover;
 }
 .activity-img{
   width: 100%;
@@ -161,8 +161,9 @@ h5 {
   width: 100% !important;
   min-height: 230px;
   max-height: 230px;
-  border-radius: 20px;
-  padding: 7px;
+  border-radius: 8px;
+  object-fit: cover;
+  padding: 0px;
 }
 .text-thm1 {
   color: #798590 !important;
@@ -1891,6 +1892,9 @@ height: 45px;
 /* OUR PROJECTS */
 .pb-details > h3 {
 margin-top: 0;
+font-weight: bold;
+font-size: 19px;
+color: #000;
 }
 /* ---------- FIRST SERVICE SECTION  ---------- */
 .ulockd-service {
