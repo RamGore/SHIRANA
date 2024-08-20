@@ -3,25 +3,27 @@ include 'header.php'; ?>
 <main class="about-page">
     <!-- Home Design Inner Pages -->
     <div class="ulockd-inner-home">
-        <div class="container text-center">
+       
+          
+                
+                <div class="container text-center">
             <div class="row">
-            <div class="ulockd-inner-conraimer-details">
-                <div class="col-md-12">
-                    <h1 class="text-uppercase">About US</h1>
-                </div>
-                <div class="col-md-12">
+                <div class="ulockd-inner-conraimer-details col-12">
+                    <h1 class="text-uppercase">ABOUT US</h1>
+                    <div class="col-md-12">
                     <div class="ulockd-icd-layer">
                     <ul class="list-inline ulockd-icd-sub-menu topppp">
                         <li><a href="index.php"> HOME </a></li>
                         <li><a href="#"> > </a></li>
-                        <li> <a href="#"> ABOUT US </a> </li>
+                        <li> <a href="about">ABOUT</a> </li>
                     </ul>
                     </div>
                 </div>
-            </div>
+                </div>
             </div>
         </div>
-    </div>
+            </div>
+
 
     <!-- About Us Section 1 -->
     <section class="ulockd-team-two abt-section end-padding">

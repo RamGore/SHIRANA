@@ -30,7 +30,7 @@ include 'header.php'; ?>
 
 								<a href="about.php" class="cd-btn btn btn-default ulockd-btn-thm2">About Us</a>
 								<a href="activity.php" class="cd-btn btn btn-default ulockd-btn-thm2">Learn More</a>
-								<h2>Give a small! Change a lot.</h2>
+								<h2>Give a small, Change a lot!</h2>
 								<h3>Family Is The Orphan's Happiness</h3>
 							</div> <!-- .cd-full-width -->
 

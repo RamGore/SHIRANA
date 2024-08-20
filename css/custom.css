@@ -258,10 +258,13 @@ p {
   margin-top: 0px !important;
 }
 .makar2 {
-  margin-top: 80px;
+  margin-top: 45px;
 }
 .environment1 {
   margin-top: 60px;
+}
+.margin16{
+  margin-top:16px !important;
 }
 .aug-img {
   margin-top: 41px;
@@ -571,8 +574,15 @@ color: #ffae00 !important;
   object-fit: cover !important;
 }
 
-
-
+.changemargin{
+  margin-top: 0px !important;
+}
+.marginn{
+  margin-top:44px !important;
+}
+.imagevysan{
+  margin-top:25px;
+}
 
 .ulockd-welcm-hmddl .header-logo{
   font-size:17px !important;

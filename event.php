@@ -47,7 +47,7 @@ include 'header.php'; ?>
 
 
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/1.png" class="img-responsive custom-img1 responsive"
+            <img src="images/gallery copy/1.png" class="img-responsive custom-img1 responsive changemargin"
                 alt="image">
         </div>
         <div class="col-md-8 col-lg-8 text-left">

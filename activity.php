@@ -200,7 +200,7 @@ include 'header.php'; ?>
             </div>
         </div>
         <div class="col-md-4 col-lg-4 text-right">
-            <img src="images/gallery copy/17.png" class="img-responsive custom-img1 womens-day1 responsive"
+            <img src="images/gallery copy/17.png" class="img-responsive custom-img1 womens-day1 responsive marginn"
                 alt="image">
         </div>
     </div>
@@ -260,7 +260,7 @@ On this Program All trustees and dignitaries from Aurangabad town were Present.
 
 <div class="container">
         <div class="row about2 align-items-center">
-            <h1 class="our-vision-credo">WORLD AIDS DAY-AIDS AWWARENESS PROGRAM </h1>
+            <h1 class="our-vision-credo">WORLD AIDS DAY-AIDS AWARENESS PROGRAM </h1>
 
 
             <div class="col-md-4 col-lg-4 text-right">
@@ -386,7 +386,7 @@ Tatu stressed the significance of yoga.
 
 <div class="container">
         <div class="row about2 align-items-center">
-            <h1 class="our-vision-credo">VYASAN MUKTI ( Addiction Free)AND CANCER AWARENESS NEW YEAR CELEBRATION
+            <h1 class="our-vision-credo">VYASAN MUKTI ( Addiction Free) & CANCER AWARENESS 
             </h1>
 
 <div class="reverse">
@@ -404,7 +404,7 @@ Everybody enjoyed the celebration.
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="https://d16qttj5aycdv0.cloudfront.net/upload/book_image/resize_bigVysan_Mukti_Hindi_-_Tital_1607664570.jpg"
-                    class="img-responsive custom-img1 img11 vysan-mukti responsive" alt="image">
+                    class="img-responsive custom-img1 img11 vysan-mukti responsive imagevysan" alt="image">
             </div>
 
 
@@ -467,7 +467,7 @@ On 15 January Second day Of Makar sankranti Home based business training seminar
 
             <div class="col-md-4 col-lg-4 text-right">
                 <img src="images/gallery copy/15.png"
-                    class="img-responsive custom-img1 responsive" alt="image">
+                    class="img-responsive custom-img1 responsive margin16" alt="image">
             </div>
             <div class="col-md-8 col-lg-8 text-left">
                 <div class="ulockd-main-title">
