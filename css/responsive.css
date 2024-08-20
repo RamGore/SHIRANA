@@ -101,7 +101,7 @@
 		font-size: 17px;
 	}
 	.mobile-header p{
-		font-size: 25px;
+		font-size: 15px;
 	}
 	.nav{
 		background-color: white;
@@ -284,6 +284,18 @@
 
 	}
 }
+/* @media (max-width:675px){
+	.mobile-header p{
+		font-size: 22px;
+		padding-left:186px;
+	}}
+@media (max-width:885px){
+	.mobile-header p{
+		font-size: 22px;
+		padding-left:208px;
+	}
+} */
+
 @media (max-width:767px){
 	.footer-icon{
 		font-size: 20px;
@@ -307,10 +319,10 @@
 	.collapse{
 		display: none;
 	}
-	.mobile-header p{
+	/* .mobile-header p{
 		font-size: 12px;
 		padding-left:55px;
-	}
+	} */
 	.nav{
 		background-color: white;
 		display: flex;
