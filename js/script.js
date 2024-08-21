@@ -688,7 +688,40 @@
     } */
 
     /* ----- Scroll To top ----- */
-    function scrollToTop() {
+    // function scrollToTop() {
+    //     $(window).scroll(function(){
+    //         if ($(this).scrollTop() > 600) {
+    //             $('.scrollToHome').fadeIn();
+    //         } else {
+    //             $('.scrollToHome').fadeOut();
+    //         }
+    //     });
+        
+    //     //Click event to scroll to top
+    //     $('.scrollToHome').on('click',function(){
+    //         $('html, body').animate({scrollTop : 0},800);
+    //         return false;
+    //     });
+    // }
+    $(document).ready(function() {
+        $(window).scroll(function() {
+            var scrollPosition = $(window).scrollTop() + $(window).height();
+            var documentHeight = $(document).height();
+    
+            if (scrollPosition >= documentHeight - 100) {
+                // User has reached the end of the page
+                $('.float').css('bottom', '70px');
+                $('.scrollToHome').css('bottom', '70px');
+            } else {
+                // User is scrolling but not at the end of the page
+                $('.float').css('bottom', '10px');
+                $('.scrollToHome').css('bottom', '10px');
+            }
+    
+            // Show the icons when scrolling
+            // $('.float, .scrollToHome').fadeIn();
+        });
+
         $(window).scroll(function(){
             if ($(this).scrollTop() > 600) {
                 $('.scrollToHome').fadeIn();
@@ -696,14 +729,14 @@
                 $('.scrollToHome').fadeOut();
             }
         });
-        
-        //Click event to scroll to top
+
+        //  Click event to scroll to top
         $('.scrollToHome').on('click',function(){
             $('html, body').animate({scrollTop : 0},800);
             return false;
         });
-    }
-
+    });
+    
 
 /* ======
    When document is ready, do
@@ -800,6 +833,19 @@ document.querySelectorAll('.list-unstyled a').forEach(link => {
 
 
 
+$(document).ready(function() {
+    $('.chevron-icon').on('click hover', function(event) {
+        event.preventDefault(); // Prevent default anchor behavior
+        $(this).closest('.dropdown').toggleClass('open');
+    });
+    
+    // Close the dropdown if clicking outside of it
+    $(document).on('click', function(e) {
+        if (!$('.dropdown').is(e.target) && $('.dropdown').has(e.target).length === 0) {
+            $('.dropdown').removeClass('open');
+        }
+    });
+});
 
 
 

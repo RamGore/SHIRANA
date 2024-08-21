@@ -63,7 +63,7 @@
 		<div class="header-middle">
 			<div class="container">
 				<div class="row center">
-					<div class="col-xs-12 col-sm-6 col-lg-3">
+					<div class="col-xs-12 col-sm-7 col-lg-3">
 						<div class="ulockd-welcm-hmddl">
 							<h4 class="main-logooo"><a href="index">NAGARI VIKAS<br>
 							SEVABHAVI SANSTHA</a></h4>
@@ -137,8 +137,20 @@
 				<div class="collapse" id="navbar-menu">
 				<ul class="nav">
     <li class="dropdown"><a href="index">Home</a></li>
-	<li class="dropdown">
+
+
+	
+	<!-- <li class="dropdown">
     <a href="about" class="dropdown-toggle" id="aboutDropdown" data-toggle="dropdown">About Us <i class="fa fa-chevron-down"></i></a>
+    <ul class="dropdown-menu" aria-labelledby="aboutDropdown">
+        <li><a href="org-profile">Organisation Profile</a></li>
+        <li><a href="doc-gallery">Document Gallery</a></li>
+    </ul>
+</li> -->
+<li class="dropdown">
+    <a href="about" class="dropdown-toggle" id="aboutDropdown" data-toggle="dropdown">About Us 
+        <span class="chevron-icon"><i class="fa fa-chevron-down"></i></span>
+    </a>
     <ul class="dropdown-menu" aria-labelledby="aboutDropdown">
         <li><a href="org-profile">Organisation Profile</a></li>
         <li><a href="doc-gallery">Document Gallery</a></li>

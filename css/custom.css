@@ -213,7 +213,7 @@ tr {
   padding-bottom: 0px;
 }
 p {
-  margin: 0px !important;
+  margin: 0px;
   text-align: justify;
 }
 .topppp {
@@ -498,20 +498,15 @@ width: 25% !important;
     position:fixed;
     width:50px;
     height:50px;
-    bottom:60px;
+    bottom:10px;
       left:20px;
     background-color:#25d366;
     color:#FFF;
     border-radius:50px;
     text-align:center;
-    font-size:17px;
+    font-size:24px;
     z-index:100;
-  
-  }
-  @media (max-width:1200px){
-    .homeee{
-      display: none !important;
-    }
+    transition: all 0.3s ease-in-out;
   }
 
   @media (min-width:320px)and(max-width:1200)
@@ -532,8 +527,11 @@ width: 25% !important;
   
   }
 }  
+.imageres{
+  margin-bottom: 20px;
+}
   .my-float{
-    margin-top:16px;
+    margin-top:13px;
   }
   .nav{
     padding-left:30px;
@@ -545,7 +543,7 @@ width: 25% !important;
   .nav li a.active {
     color: #000000; /* Change text color for active link */
 font-weight: 600;
-    border-radius: 4px; /* Optional: Add border radius */
+    /* border-radius: 4px; */
 }
 a:focus, a:hover{
   color: #000000 !important;
@@ -610,3 +608,36 @@ color: #ffae00 !important;
 #message {
   height: 150px; /* Set your desired height in pixels */
 }
+.makarimgg{
+  object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.chevron-icon {
+  cursor: pointer;
+}
+.color-white{
+  margin-left: 20px;
+}
+.color-white1{
+  color: #fff;
+  margin-right: 20px;
+}
+
+
+
+
+
+
+

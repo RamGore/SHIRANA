@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($conn->query($sql) === TRUE) {
 
         // Send email to admin
-        $adminEmail = "gore64643@gmail.com";
+        $adminEmail = "lalchandrajput1967@gmail.com";
         $adminSubject = "New Enquiry: " . $subject;
         $adminMessage =
             "Dear Admin,\n\n" .
@@ -33,7 +33,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             "Subject: " . $subject . "\n" .
             "Message: " . $message . "\n\n" .
             "Best regards,\n" .
-            $name;
+            "NAGARI VIKAS SEVABHAVI SANSTHA";
 
         $headers = "From: " . $email;
 

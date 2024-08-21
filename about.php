@@ -48,7 +48,7 @@ include 'header.php'; ?>
             <div class="row about2 align-items-center">
                 <h1 class="our-vision-credo">OUR VISION & CREDO</h1>
                 <div class="col-md-4 col-lg-4 text-right">
-                    <img src="images/gallery copy/45.jpg" class="img-responsive custom-img1  responsive" alt="image">
+                    <img src="https://www.readyconvenience.com/wp-content/uploads/2016/10/10.20.16-Turning-Your-Futre-Vision-into-Reality.jpg" class="img-responsive custom-img1  responsive makarimgg" alt="image">
                 </div>
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">
@@ -88,7 +88,7 @@ include 'header.php'; ?>
             <div class="row about3 align-items-center">
                 <h1 class="our-vision-credo">PURPOSE</h1>
                 <div class="col-md-4 col-lg-4 text-right">
-                    <img src="https://img.freepik.com/free-photo/poverty-child-wallpaper_1409-6311.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph" class="img-responsive custom-img1 responsive" alt="image">
+                    <img src="https://media.istockphoto.com/id/1138312771/photo/purpose-word-in-wooden-cube.jpg?s=612x612&w=0&k=20&c=m11VlWOsSS-vj9SyWLcKL_IPFbK1zjH0Iz8MBRfSL_I=" class="img-responsive custom-img1 responsive" alt="image">
                 </div>
                 <div class="col-md-8 col-lg-8 text-left">
                     <div class="ulockd-main-title">

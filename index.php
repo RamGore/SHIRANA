@@ -17,9 +17,10 @@ include 'header.php'; ?>
 
 						<li class="selected from-right">
 							<div class="cd-full-width">
-								<h1 class="responsive1">We Are <span class="text-thm2 responsive1"> Nagari Vikas Sevabhavi Sanstha
+								<h1 class="responsive1">We Are <span class="text-thm2 responsive1"> Nagari Vikas
+										Sevabhavi Sanstha
 									</span></h1>
-									<h4 class="responsive2">We Build a Fundraising For Help Less People</h4>
+								<h4 class="responsive2">We Build a Fundraising For Help Less People</h4>
 							</div> <!-- .cd-half-width -->
 
 						</li>
@@ -62,8 +63,10 @@ include 'header.php'; ?>
 						<h5> Nagari Vikas Sevabhavi Sanstha</h5>
 						<!-- <div class="fc-icon"><span class="flaticon-make-a-donation"></span></div> -->
 						<h3>As a Donor</h3>
-						<button type="submit" class="btn btn-default ulockd-btn-styledark" data-toggle="modal" data-target=".bs-example-modal-default" data-toggle="modal" data-target=".bs-example-modal-default"><a href="donate" class="three-box">Donate now</a>
-							</button>
+						<button type="submit" class="btn btn-default ulockd-btn-styledark" data-toggle="modal"
+							data-target=".bs-example-modal-default" data-toggle="modal"
+							data-target=".bs-example-modal-default"><a href="donate" class="three-box">Donate now</a>
+						</button>
 					</div>
 				</figure>
 			</div>
@@ -73,8 +76,9 @@ include 'header.php'; ?>
 						<!-- <div class="fc-icon"><span class="flaticon-donation"></span></div> -->
 						<h5> Nagari Vikas Sevabhavi Sanstha</h5>
 						<h3>As a Fundraiser</h3>
-						<button type="submit" class="btn btn-default ulockd-btn-styledark"><a href="about" class="three-box">Read More</a>
-							</button>
+						<button type="submit" class="btn btn-default ulockd-btn-styledark"><a href="about"
+								class="three-box">Read More</a>
+						</button>
 					</div>
 				</figure>
 			</div>
@@ -84,7 +88,8 @@ include 'header.php'; ?>
 						<!-- <div class="fc-icon"><span class="flaticon-dove-of-peace"></span></div> -->
 						<h5> Nagari Vikas Sevabhavi Sanstha</h5>
 						<h3>As a Sponsor</h3>
-						<button type="submit" class="btn btn-default ulockd-btn-styledark"><a href="event" class="three-box">Read More</a></button>
+						<button type="submit" class="btn btn-default ulockd-btn-styledark"><a href="event"
+								class="three-box">Read More</a></button>
 					</div>
 				</figure>
 			</div>
@@ -99,7 +104,8 @@ include 'header.php'; ?>
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2 text-center">
 				<div class="ulockd-main-title">
-					<h2 class="title-bottom ulockd-main-title text-uppercase">About <span class="text-thm2">us</span></h2>
+					<h2 class="title-bottom ulockd-main-title text-uppercase">About <span class="text-thm2">us</span>
+					</h2>
 				</div>
 			</div>
 		</div>
@@ -107,7 +113,8 @@ include 'header.php'; ?>
 			<div class="col-sm-12 col-md-7">
 				<div class="ulockd-main-title">
 					<p class="abt-txt">
-						<span class="text-thm2">Nagari Vikas Sevabhavi Sanstha</span> Trust seeks donation to increase the corpus
+						<span class="text-thm2">Nagari Vikas Sevabhavi Sanstha</span> Trust seeks donation to increase
+						the corpus
 						of the Trust so that it can be used to benefit the women of <span class="text-thm2">AURANGABAD
 							MAHARASHTRA</span> through Vocational training of Computer Hardware & Networking,
 						Handicrafts and Mobile Repairing. <span class="text-thm2">FOR WOMEN LIVING WITH POVERTY</span>.
@@ -136,19 +143,23 @@ include 'header.php'; ?>
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2 text-center">
 				<div class="ulockd-main-title">
-					<h2 class="title-bottom ulockd-main-title text-uppercase">Our Recent  <span class="text-thm2">Activity</span></h2>
+					<h2 class="title-bottom ulockd-main-title text-uppercase">Our Recent <span
+							class="text-thm2">Activity</span></h2>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="project-box">
 				<div class="col-sm-4 col-md-2 pb-thumb ulockd-pad395">
-					<img class="img-responsive img-whp" src="images/gallery copy/56.jpg" alt="1a.jpg">
+					<img class="img-responsive img-whp imageres" src="images/gallery copy/56.jpg" alt="1a.jpg">
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>HANDICAPPED TRAINING PROGRAM</h3>
-					<p>On 24th March 2022, a small home-based business training session was conducted for 24 handicapped students. The training covered skills such as bookbinding, photo frame making, and screen printing, empowering the participants to explore self-employment opportunities.</p>
-					<a class="text-more mt-4" href="activity.php#HANDICAPPED" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<p>On 24th March 2022, a small home-based business training session was conducted for 24 handicapped
+						students. The training covered skills such as bookbinding, photo frame making, and screen
+						printing, empowering the participants to explore self-employment opportunities.</p>
+					<a class="text-more mt-4" href="activity.php#HANDICAPPED" class="">More Details <span
+							class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 			<div class="project-box">
@@ -157,8 +168,12 @@ include 'header.php'; ?>
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>INTERNATIONAL YOGA DAY</h3>
-					<p>On June 21, 2022, International Yoga Day was celebrated in Hanuman Nagar. The event highlighted the benefits of yoga for fitness and overcoming personal challenges. Yoga trainer Mrs. Sangeeta Tatu demonstrated some simple exercises, while Mr. Lalchand Tatu emphasized the importance of incorporating yoga into daily life.</p>
-					<a class="text-more" href="activity.php#YOGA" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<p>On June 21, 2022, International Yoga Day was celebrated in Hanuman Nagar. The event highlighted
+						the benefits of yoga for fitness and overcoming personal challenges. Yoga trainer Mrs. Sangeeta
+						Tatu demonstrated some simple exercises, while Mr. Lalchand Tatu emphasized the importance of
+						incorporating yoga into daily life.</p>
+					<a class="text-more" href="activity.php#YOGA" class="">More Details <span
+							class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 		</div>
@@ -169,8 +184,12 @@ include 'header.php'; ?>
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>BLOOD DONATION CAMP</h3>
-					<p>On February 19, Chhatrapati Shivaji Maharaj birth anniversary was marked with a ceremony honoring his legacy. The President of the organization delivered a speech on his bravery, and a blood donation camp organized by Lokmanya Blood Bank collected 43 bags of blood. Multi-vitamins were given to donors, and the event concluded with sweets and fruits.</p>
-					<a class="text-more" class="text-thm2" href="activity.php#BLOOD" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<p>On February 19, Chhatrapati Shivaji Maharaj birth anniversary was marked with a ceremony honoring
+						his legacy. The President of the organization delivered a speech on his bravery, and a blood
+						donation camp organized by Lokmanya Blood Bank collected 43 bags of blood. Multi-vitamins were
+						given to donors, and the event concluded with sweets and fruits.</p>
+					<a class="text-more" class="text-thm2" href="activity.php#BLOOD" class="">More Details <span
+							class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 			<div class="project-box">
@@ -180,8 +199,12 @@ include 'header.php'; ?>
 				</div>
 				<div class="col-sm-8 col-md-4 pb-details">
 					<h3>WORLD ENVIRONMENT DAY</h3>
-					<p>On 5th June 2022, Village Jatwada celebrated World Environmental Day with tree planting and conservation activities organized by Mr. Lalchand Tatu. The event included caring for plants, presenting tree saplings to a local institute, and distributing 1,000 pamphlets on water conservation in Garkheda Aurangabad.</p>
-					<a class="text-more" href="activity.php#ENVIRONMENT" class="">More Details <span class="flaticon-right-arrow"></span></a>
+					<p>On 5th June 2022, Village Jatwada celebrated World Environmental Day with tree planting and
+						conservation activities organized by Mr. Lalchand Tatu. The event included caring for plants,
+						presenting tree saplings to a local institute, and distributing 1,000 pamphlets on water
+						conservation in Garkheda Aurangabad.</p>
+					<a class="text-more" href="activity.php#ENVIRONMENT" class="">More Details <span
+							class="flaticon-right-arrow"></span></a>
 				</div>
 			</div>
 		</div>
@@ -207,7 +230,8 @@ include 'header.php'; ?>
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2 text-center">
 				<div class="ulockd-main-title">
-					<h2 class="title-bottom ulockd-main-title text-uppercase">Our Recent  <span class="text-thm2">Events</span></h2>
+					<h2 class="title-bottom ulockd-main-title text-uppercase">Our Recent <span
+							class="text-thm2">Events</span></h2>
 				</div>
 			</div>
 		</div>
@@ -217,11 +241,7 @@ include 'header.php'; ?>
 
 				<div class="row align-items-center">
 					<div class="col-lg-12 swiper-initialized" data-aos="fade-up" data-aos-delay="200">
-
-						<!-- Swiper container -->
-						<div class="swiper init-swiper">
-							<!-- Swiper configuration in JSON format -->
-							<script type="application/json" class="swiper-config">
+					<script type="application/json" class="swiper-config">
 {
     "loop": true,
     "speed": 600,
@@ -237,6 +257,10 @@ include 'header.php'; ?>
     }
 }
 </script>
+						<!-- Swiper container -->
+						<div class="swiper init-swiper">
+							<!-- Swiper configuration in JSON format -->
+					
 
 
 							<!-- Swiper wrapper -->
@@ -249,17 +273,28 @@ include 'header.php'; ?>
 										<div class="row">
 											<!-- Left Side: Image -->
 											<div class="col-md-6 d-flex justify-content-center align-items-center">
-												<img src="images/gallery copy/15aug.png"class="testimonial-img" alt="Maharashtra din">
+												<img src="images/gallery copy/15aug.png" class="testimonial-img"
+													alt="Maharashtra din">
 											</div>
 											<!-- Right Side: Text -->
 											<div class="col-md-6">
-												<h3 class="text-thm2" >MAHARASHTRA<span class="ulockd-mrgn630"> DIN </span></h3>
+												<h3 class="text-thm2">MAHARASHTRA<span class="ulockd-mrgn630"> DIN
+													</span></h3>
 												<p>
 													<i class="bi bi-quote quote-icon-left"></i>
-													<span>Maharashtra Din was celebrated on 1st May 2024 with the citizens of New Hanuman colony. Flag hoisting was done by the President of Nagari Vikas Sevabhavi Sanstha, followed by National Anthem, Pledge, and Constitution. Patriotic songs were sung to glorify our great super freedom fighter heroes. Sweets and snacks were distributed. A short awareness session on Equality and Integrity was also organized. The program ended with the President’s Speech. Republic Day was celebrated with great enthusiasm.</span>
+													<span>Maharashtra Din was celebrated on 1st May 2024 with the
+														citizens of New Hanuman colony. Flag hoisting was done by the
+														President of Nagari Vikas Sevabhavi Sanstha, followed by
+														National Anthem, Pledge, and Constitution. Patriotic songs were
+														sung to glorify our great super freedom fighter heroes. Sweets
+														and snacks were distributed. A short awareness session on
+														Equality and Integrity was also organized. The program ended
+														with the President’s Speech. Republic Day was celebrated with
+														great enthusiasm.</span>
 													<i class="bi bi-quote quote-icon-right"></i>
 												</p>
-												<a class="text-thm2" href="event.php#MAHARASHTRA" class="">More Details <span class="flaticon-right-arrow"></span></a>
+												<a class="text-thm2" href="event.php#MAHARASHTRA" class="">More Details
+													<span class="flaticon-right-arrow"></span></a>
 											</div>
 										</div>
 									</div>
@@ -273,17 +308,32 @@ include 'header.php'; ?>
 										<div class="row">
 											<!-- Left Side: Image -->
 											<div class="col-md-6 d-flex justify-content-center align-items-center">
-												<img src="images/gallery copy/4.png" class="testimonial-img" alt="independence day">
+												<img src="images/gallery copy/4.png" class="testimonial-img"
+													alt="independence day">
 											</div>
 											<!-- Right Side: Text -->
 											<div class="col-md-6">
-												<h3 class="text-thm2" >CELEBRATION OF INDEPENDENCE DAY <span class="ulockd-mrgn630"></span></h3>
+												<h3 class="text-thm2">CELEBRATION OF INDEPENDENCE DAY <span
+														class="ulockd-mrgn630"></span></h3>
 												<p>
 													<i class="bi bi-quote quote-icon-left"></i>
-													<span>Independence day celebration was organized by Nagari Vikas Sevabhavi Sanstha at lamakanwadi. Marathawada youth president Mr. Kalpesh Tatu was invited as chief guest. The programme schedule contained Flag hoisting, National Anthem, Constitution, Pledge, Vande Mataram song was sung with great dedication. Flag was hoisted by the chief guest Mr. Kalpesh Tatu along with Sarpanch and Up- Sarpanch of Lamakanwadi. Special lunch was organized on the occasion of Independence Day for the villagers. Chief Guest and Sarpanch expressed their opinions about the dedication of freedom fighters for their country and their sacrifice for Independent India. Upa-Sarpanch proposed vote of thanks to all villagers and organisers for arranging the celebration.</span>
+													<span>Independence day celebration was organized by Nagari Vikas
+														Sevabhavi Sanstha at lamakanwadi. Marathawada youth president
+														Mr. Kalpesh Tatu was invited as chief guest. The programme
+														schedule contained Flag hoisting, National Anthem, Constitution,
+														Pledge, Vande Mataram song was sung with great dedication. Flag
+														was hoisted by the chief guest Mr. Kalpesh Tatu along with
+														Sarpanch and Up- Sarpanch of Lamakanwadi. Special lunch was
+														organized on the occasion of Independence Day for the villagers.
+														Chief Guest and Sarpanch expressed their opinions about the
+														dedication of freedom fighters for their country and their
+														sacrifice for Independent India. Upa-Sarpanch proposed vote of
+														thanks to all villagers and organisers for arranging the
+														celebration.</span>
 													<i class="bi bi-quote quote-icon-right"></i>
 												</p>
-												<a class="text-thm2" href="event.php#INDEPENDENCE" class="">More Details <span class="flaticon-right-arrow"></span></a>
+												<a class="text-thm2" href="event.php#INDEPENDENCE" class="">More Details
+													<span class="flaticon-right-arrow"></span></a>
 											</div>
 										</div>
 									</div>
@@ -297,17 +347,27 @@ include 'header.php'; ?>
 										<div class="row">
 											<!-- Left Side: Image -->
 											<div class="col-md-6 d-flex justify-content-center align-items-center">
-												<img src="images/gallery copy/51.jpg" class="testimonial-img" alt="teacher day">
+												<img src="images/gallery copy/51.jpg" class="testimonial-img"
+													alt="teacher day">
 											</div>
 											<!-- Right Side: Text -->
 											<div class="col-md-6">
-												<h3 class="text-thm2" >TEACHERS <span class="ulockd-mrgn630">DAY </span></h3>
+												<h3 class="text-thm2">TEACHERS <span class="ulockd-mrgn630">DAY </span>
+												</h3>
 												<p>
 													<i class="bi bi-quote quote-icon-left"></i>
-													<span>On 5th Sept 2023 Teacher’s day celebrated at Nagari Sevabhavi santha office, New Hanuman nagar, Garkheda Aurangabad. We faliciated the teachers by honoring them with shawl and coconut. Around 43 teachers were invited from various schools for this program. Teachers were honored for their dedication towards moulding the future of children which is their contribution in creating a progressed country. The program was ended with a special lunch.</span>
+													<span>On 5th Sept 2023 Teacher’s day celebrated at Nagari Sevabhavi
+														santha office, New Hanuman nagar, Garkheda Aurangabad. We
+														faliciated the teachers by honoring them with shawl and coconut.
+														Around 43 teachers were invited from various schools for this
+														program. Teachers were honored for their dedication towards
+														moulding the future of children which is their contribution in
+														creating a progressed country. The program was ended with a
+														special lunch.</span>
 													<i class="bi bi-quote quote-icon-right"></i>
 												</p>
-												<a class="text-thm2" href="event.php#TEACHERS" class="">More Details <span class="flaticon-right-arrow"></span></a>
+												<a class="text-thm2" href="event.php#TEACHERS" class="">More Details
+													<span class="flaticon-right-arrow"></span></a>
 											</div>
 										</div>
 									</div>
@@ -326,13 +386,23 @@ include 'header.php'; ?>
 											</div>
 											<!-- Right Side: Text -->
 											<div class="col-md-6">
-												<h3 class="text-thm2" >CELEBRATION OF REPUBLIC  <span class="ulockd-mrgn630">DAY </span></h3>
+												<h3 class="text-thm2">CELEBRATION OF REPUBLIC <span
+														class="ulockd-mrgn630">DAY </span></h3>
 												<p>
 													<i class="bi bi-quote quote-icon-left"></i>
-													<span>Republic Day was celebrated on 26th January 2024 with the citizens of New Hanuman colony. Flag hoisting was done by the President of Nagari Vikas Sevabhavi Sanstha, followed by National Anthem, Pledge, and Constitution. Patriotic songs were sung to glorify our great super freedom fighter heroes. Sweets and snacks were distributed. A short awareness session on Equality and Integrity was also organized. The program ended with the President’s Speech. Republic Day was celebrated with great enthusiasm.</span>
+													<span>Republic Day was celebrated on 26th January 2024 with the
+														citizens of New Hanuman colony. Flag hoisting was done by the
+														President of Nagari Vikas Sevabhavi Sanstha, followed by
+														National Anthem, Pledge, and Constitution. Patriotic songs were
+														sung to glorify our great super freedom fighter heroes. Sweets
+														and snacks were distributed. A short awareness session on
+														Equality and Integrity was also organized. The program ended
+														with the President’s Speech. Republic Day was celebrated with
+														great enthusiasm.</span>
 													<i class="bi bi-quote quote-icon-right"></i>
 												</p>
-												<a class="text-thm2" href="event.php#REPUBLIC" class="">More Details <span class="flaticon-right-arrow"></span></a>
+												<a class="text-thm2" href="event.php#REPUBLIC" class="">More Details
+													<span class="flaticon-right-arrow"></span></a>
 											</div>
 										</div>
 									</div>
@@ -388,10 +458,13 @@ include 'header.php'; ?>
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery copy/1.png" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/1.png"
+													title="Gallery Photos"><span
+														class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span
+														class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -410,10 +483,13 @@ include 'header.php'; ?>
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery copy/23.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/23.jpg"
+													title="Gallery Photos"><span
+														class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span
+														class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -432,10 +508,13 @@ include 'header.php'; ?>
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery copy/26.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/26.jpg"
+													title="Gallery Photos"><span
+														class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span
+														class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -454,10 +533,13 @@ include 'header.php'; ?>
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery copy/33.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/33.jpg"
+													title="Gallery Photos"><span
+														class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span
+														class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -476,10 +558,13 @@ include 'header.php'; ?>
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery copy/35.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/35.jpg"
+													title="Gallery Photos"><span
+														class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span
+														class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -498,10 +583,13 @@ include 'header.php'; ?>
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery copy/42.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/42.jpg"
+													title="Gallery Photos"><span
+														class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span
+														class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -520,10 +608,13 @@ include 'header.php'; ?>
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery copy/49.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/49.jpg"
+													title="Gallery Photos"><span
+														class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span
+														class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
@@ -542,10 +633,13 @@ include 'header.php'; ?>
 										<h5>Gallery Title Here</h5>
 										<ul class="list-inline">
 											<li>
-												<a class="popup-img" href="images/gallery copy/66.jpg" title="Gallery Photos"><span class="flaticon-add-square-button"></span></a>
+												<a class="popup-img" href="images/gallery copy/66.jpg"
+													title="Gallery Photos"><span
+														class="flaticon-add-square-button"></span></a>
 											</li>
 											<li>
-												<a class="link-btn" href="gallery.php"><span class="flaticon-link-symbol"></span></a>
+												<a class="link-btn" href="gallery.php"><span
+														class="flaticon-link-symbol"></span></a>
 											</li>
 										</ul>
 									</div>
