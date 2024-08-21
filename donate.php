@@ -56,7 +56,7 @@ include 'header.php'; ?>
     </div>
     <div><div>
          <!-- New image added below with specific size -->
-         <img src="https://www.akamai.com/site/im-demo/perceptual-standard.jpg?imbypass=true" alt="New Image" style="width: 300px; height: 200px;  margin-left:164px;margin-top:-21px;margin-bottom:30px;">
+         <img src="https://www.akamai.com/site/im-demo/perceptual-standard.jpg?imbypass=true" alt="New Image" style="width: 300px; height: 200px;  margin-left:59px;margin-top:-21px;margin-bottom:30px;">
         </div>
     </div>
 
