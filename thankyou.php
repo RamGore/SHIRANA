@@ -5,11 +5,10 @@ include 'header.php';
 <div class=thankyoucontent>
  <div class="wrapper-1">
     <div class="wrapper-2">
-       <img src="https://i.ibb.co/Lkn7rkG/thank-you-envelope.png" alt="thank-you-envelope" border="0">
+       <img src="https://i.ibb.co/Lkn7rkG/thank-you-envelope.png" alt="thank-you-envelope">
      <h1>Thank you!</h1>
-      <p>for contacting us, we will reply promptly</p> 
-      <p>once your message is received. </p>
-      <button class="go-home"><a href="index">
+    
+      <button class="go-home changeeecolor"><a href="index">
         home page</a>
       </button>
     </div>
@@ -28,7 +27,9 @@ include 'header.php';
 
 *{
   box-sizing:border-box;
- /* outline:1px solid ;*/
+ /* outline:1px solid ; */
+ padding: 0;
+ margin: 0;
 }
 main{
         background: #ffb606a6;
@@ -38,8 +39,11 @@ main{
         background-attachment: fixed;
   
 }
+.changeeecolor a{
+color: #fff !important;
+}
 a {
-  color: #fff;
+  color: black;
   text-decoration: none;
   transition: all 0.30s linear 0s;
 }
@@ -50,21 +54,28 @@ a {
   display: flex;
 flex-direction: column;
 }
+@media(max-width: 1200px){
+  .wrapper-2{
+    background-color: #ffb606 !important;
+    margin-top: 55px !important;
+  }
+}
 .wrapper-2{
   text-align:center;
+  margin-top:20px;
 }
 h1{
   font-family: 'Raleway', Arial Black, Sans-Serif;
   font-size:4em;
   font-weight: 900;
   letter-spacing:3px;
-  color: #fafafa;
+  color: #fff;
   margin:0;
   margin-top: 40px;
   margin-bottom:40px;
 }
 .wrapper-2 p{
-  margin:0;
+ 
   font-size:1.3em;
   color:#fafafa;
   font-family: 'Raleway', sans-serif;
@@ -128,7 +139,7 @@ h1{
   }
 }
 
-@media (maxn-width:600px){
+@media (max-width:600px){
   .thankyoucontent{
   max-width:1000px;
   margin:0 auto;
@@ -139,12 +150,12 @@ h1{
   height: initial;
   max-width:620px;
   margin:0 auto;
-  margin-top:100px;
+  margin-top:73px;
   }
   .go-home{
    background: black;
     border: none;
-    padding: 40px 100px
+    padding: 40px 100px;
     margin: 30px 0;
     border-radius: 5px;
     cursor: pointer;

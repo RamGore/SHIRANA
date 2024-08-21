@@ -1,29 +1,5 @@
 <?php
 include 'header.php'; ?>
-<style>
-    .float{
-	position:fixed;
-	width:50px;
-	height:50px;
-	bottom:60px;
-  left:20px;
-	background-color:#25d366;
-	color:#FFF;
-	border-radius:50px;
-	text-align:center;
-  font-size:20px;
-	box-shadow: 2px 2px 3px #999;
-  z-index:100;
-}
-
-.my-float{
-	margin-top:16px;
-}
-</style>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
-<i class="fa fa-whatsapp my-float"></i>
-</a>
  <div class="ulockd-inner-home">
         <div class="container text-center">
             <div class="row">
@@ -50,7 +26,7 @@ include 'header.php'; ?>
  <div class="containerr">
         <div class="table-containerr main-content">
             <h2 class="donate-line1">Contribute <span class="text-thm2">Our Causes</span></h2>
-    <p class="donate-line">Donors like you make a huge impact on us. On behalf of SHIVRANA Sevabhavi Sanstha, we can’t thank you enough for your continued support.</p>
+    <p class="donate-line">Donors like you make a huge impact on us. On behalf of Shivrana Sevabhavi Sanstha, we can’t thank you enough for your continued support.</p>
             <table class="data-table">
                <h3 class="bank"><a href="#">BANK DETAILS</a></h3>
                 <tbody>
@@ -78,9 +54,13 @@ include 'header.php'; ?>
             <img src="images/gallery copy/donation.jpg" alt="Description of Image">
         </div>
     </div>
+    <div><div>
+         <!-- New image added below with specific size -->
+         <img src="https://www.akamai.com/site/im-demo/perceptual-standard.jpg?imbypass=true" alt="New Image" style="width: 300px; height: 200px;  margin-left:164px;margin-top:-21px;margin-bottom:30px;">
+        </div>
+    </div>
 
-
-
-
+    
+        
 <?php include 'footer.php';
 ?>

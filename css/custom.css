@@ -332,7 +332,8 @@ p {
   justify-content: space-between;
   gap: 60px;
   align-items: stretch;
-  height: 400px; /* Set the height as needed */
+  height: 400px; /* Set the height as needed */ 
+  flex-wrap: wrap;
 }
 
 /* Main content styling for both table and image */
@@ -363,11 +364,12 @@ p {
 /* Image specific styling */
 .image-containerr img {
   width: 550px;
-  height: 350px;
+  height: 473px;
   object-fit: cover;
   border-radius: 20px;
   position: relative;
   margin-bottom: 50px;
+  margin-top:49px;
 
   &::before {
     content: "";
@@ -628,9 +630,13 @@ color: #ffae00 !important;
   cursor: pointer;
 }
 
+.colorred{
+  color: red !important;
+}
 
-
-
+.colorblack{
+color: rgb(0, 0, 0);
+}
 
 
 

@@ -106,41 +106,41 @@ include 'header.php'; ?>
 									<!-- Name Field -->
 									<div class="col-md-6">
 										<div class="form-group">
-											<input id="name" name="name" class="form-control ulockd-form-fg required" placeholder="Your name" required="required" data-error="Name is required." type="text">
-											<span id="nameError" class="error-message"></span>
+											<input id="name" name="name" class="form-control ulockd-form-fg required colorblack" placeholder="Your name" required="required" data-error="Name is required." type="text">
+											<span id="nameError" class="error-message colorred"></span>
 											<div class="help-block with-errors"></div>
 										</div>
 									</div>
 									<!-- Email Field -->
 									<div class="col-md-6">
 										<div class="form-group">
-											<input id="email" name="email" class="form-control ulockd-form-fg required email" placeholder="Your email" required="required" data-error="Email is required." type="email">
-											<span id="emailError" class="error-message"></span>
+											<input id="email" name="email" class="form-control ulockd-form-fg required email colorblack" placeholder="Your email" required="required" data-error="Email is required." type="email">
+											<span id="emailError" class="error-message colorred"></span>
 											<div class="help-block with-errors"></div>
 										</div>
 									</div>
 									<!-- Phone Field -->
 									<div class="col-md-6">
 										<div class="form-group">
-											<input id="mobile" name="mobile" class="form-control ulockd-form-fg required" placeholder="Phone" required="required" data-error="Phone Number is required." type="text">
-											<span id="mobileError" class="error-message"></span>
+											<input id="mobile" name="mobile" class="form-control ulockd-form-fg required colorblack" placeholder="Phone" required="required" data-error="Phone Number is required." type="text">
+											<span id="mobileError" class="error-message colorred"></span>
 											<div class="help-block with-errors"></div>
 										</div>
 									</div>
 									<!-- Subject Field -->
 									<div class="col-md-6">
 										<div class="form-group">
-											<input id="subject" name="subject" class="form-control ulockd-form-fg required" placeholder="Subject" required="required" data-error="Subject is required." type="text">
-											<span id="subjectError" class="error-message"></span>
+											<input id="subject" name="subject" class="form-control ulockd-form-fg required colorblack" placeholder="Subject" required="required" data-error="Subject is required." type="text">
+											<span id="subjectError" class="error-message colorred"></span>
 											<div class="help-block with-errors"></div>
 										</div>
 									</div>
 									<!-- Message Field -->
 									<div class="col-md-12 mesg-cont">
 										<div class="form-group">
-										<textarea id="message" name="message" class="form-control ulockd-form-tb required" rows="6" placeholder="Your message" required="required" data-error="Message is required."></textarea>
+										<textarea id="message" name="message" class="form-control ulockd-form-tb required colorblack" rows="6" placeholder="Your message" required="required" data-error="Message is required."></textarea>
 
-											<div class="help-block with-errors"></div>
+											<div class="help-block with-errors colorred"></div>
 										</div>
 										<!-- Submit Button -->
 										<div class="form-group ulockd-contact-btn">
@@ -165,7 +165,60 @@ include 'header.php'; ?>
 	</section>
 
 <script>
-	document.addEventListener('DOMContentLoaded', function () {
+// 	document.addEventListener('DOMContentLoaded', function () {
+//     const contactForm = document.getElementById('contact_form');
+
+//     contactForm.addEventListener('submit', function (event) {
+//         event.preventDefault(); // Prevent the default form submission
+
+//         let isValid = true;
+
+//         // Loop through each required field and check if it is filled
+//         document.querySelectorAll('.required').forEach(function(input) {
+//             const errorMessage = input.dataset.error || "This field is required.";
+//             if (!input.value.trim()) {
+//                 input.nextElementSibling.textContent = errorMessage; // Display custom error message
+//                 isValid = false;
+//             } else {
+//                 input.nextElementSibling.textContent = ''; // Clear error message if input is valid
+//             }
+//         });
+
+//         if (isValid) {
+//             // Create a FormData object to hold the form data
+//             const formData = new FormData(contactForm);
+
+//             // Send the form data using fetch
+//             fetch('backend/contact.php', {
+//                 method: 'POST',
+//                 body: formData
+//             })
+//             .then(response => response.text()) // Parse the response as text
+//             .then(data => {
+//                 // Handle the success response
+//                 console.log(data);
+// 				header('Location: thankyou.php');
+//                 // alert('Form submitted successfully.');
+//                 contactForm.reset(); // Optionally reset the form after successful submission
+//             })
+//             .catch(error => {
+//                 // Handle any errors
+//                 console.error('Error:', error);
+//                 alert('There was an error submitting the form. Please try again.');
+//             });
+//         } else {
+//             alert('Please fill out all required fields before submitting.');
+//         }
+//     });
+// });
+
+
+
+
+
+
+
+document.addEventListener('DOMContentLoaded', function () {
     const contactForm = document.getElementById('contact_form');
 
     contactForm.addEventListener('submit', function (event) {
@@ -193,12 +246,12 @@ include 'header.php'; ?>
                 method: 'POST',
                 body: formData
             })
-            .then(response => response.text()) // Parse the response as text
-            .then(data => {
-                // Handle the success response
-                console.log(data);
-                alert('Form submitted successfully.');
-                contactForm.reset(); // Optionally reset the form after successful submission
+            .then(response => {
+                if (response.ok) {
+                    window.location.href = 'thankyou.php'; // Redirect to the thank you page
+                } else {
+                    throw new Error('Network response was not ok.');
+                }
             })
             .catch(error => {
                 // Handle any errors
@@ -210,13 +263,6 @@ include 'header.php'; ?>
         }
     });
 });
-
-
-
-
-
-
-
 
 
 
