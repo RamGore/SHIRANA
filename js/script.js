@@ -729,6 +729,13 @@
                 $('.scrollToHome').fadeOut();
             }
         });
+        $(window).scroll(function(){
+            if ($(this).scrollTop() > 600) {
+                $('.float').fadeIn();
+            } else {
+                $('.float').fadeOut();
+            }
+        });
 
         //  Click event to scroll to top
         $('.scrollToHome').on('click',function(){

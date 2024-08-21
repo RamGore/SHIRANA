@@ -67,7 +67,7 @@
 		<div class="row">
 			<div class="col-md-12 cont-cent">
 				<p class="color-white">Copyright © 2024 All right reserved </p>
-				<span class="color-white1">Designed and Developed by <a class="color-white1" href="https://websartech.com/" target="_blank">Websar IT Solutions</a></span>
+				<span class="color-white">Designed and Developed by <a class="color-white" href="https://websartech.com/" target="_blank">Websar IT Solutions</a></span>
 
 			</div>
 		</div>
