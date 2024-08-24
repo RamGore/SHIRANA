@@ -10,9 +10,9 @@ header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Ac
 // define('DB_NAME', 'shirana');
 
 define('DB_HOST', 'localhost');
-define('DB_USER', 'u770425257_shrirana');
-define('DB_PASS', 'Q#O/RV^12');
-define('DB_NAME', 'u770425257_shrirana');
+define('DB_USER', 'u667936270_4VLGtsaR6X18');
+define('DB_PASS', 'Q#0/RV^l2');
+define('DB_NAME', 'u667936270_eqi85fRXnjq4');
 
 function connect()
 {
