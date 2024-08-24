@@ -177,7 +177,7 @@ h1{
 <script>
    setTimeout(function(){
       window.location.href = 'index.php';
-   }, 3000); // Redirects after 5 seconds
+   }, 3000); // Redirects after 3 seconds
 </script>
 
 <?php
