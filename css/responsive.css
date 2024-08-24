@@ -250,9 +250,9 @@
 		font-weight: bold;
 		display: inline;
 	}
-	.text-center .row {
+	/* .text-center .row {
 	    margin-top: 66px !important;
-	}
+	} */
 	.masonry-gallery.grid-four-item .isotope-item {
 		width: 50%;
 		height: auto;

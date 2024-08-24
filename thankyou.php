@@ -32,7 +32,7 @@ include 'header.php';
  margin: 0;
 }
 main{
-        background: #ffb606a6;
+        background:#ffb606;
         height: 100%;
         margin: 0;
         background-repeat: no-repeat;
@@ -47,22 +47,28 @@ a {
   text-decoration: none;
   transition: all 0.30s linear 0s;
 }
+@media(max-width:1200px){
+  main{
+    padding-top: 50px;
+  }
+}
 
 .wrapper-1{
   width:100%;
-  height:100vh;
+  /* height:100vh; */
   display: flex;
 flex-direction: column;
 }
 @media(max-width: 1200px){
   .wrapper-2{
     background-color: #ffb606 !important;
-    margin-top: 55px !important;
+    /* margin-top: 55px !important; */
   }
 }
 .wrapper-2{
   text-align:center;
-  margin-top:20px;
+  /* margin-top:20px; */
+  padding-top: 30px;
 }
 h1{
   font-family: 'Raleway', Arial Black, Sans-Serif;
@@ -85,7 +91,7 @@ h1{
 .go-home{
    background: black;
     border: none;
-    padding: 40px 100px;
+    padding: 20px 50px;
     margin: 30px 0;
     border-radius: 5px;
     cursor: pointer;
@@ -104,12 +110,12 @@ h1{
 .footer-like{
   margin-top: auto; 
   background: white;
-  padding:6px;
+  /* padding:6px; */
   text-align:center;
 }
 .footer-like p{
   margin:0;
-  padding:4px;
+  /* padding:4px; */
   color:#fafafa;
   font-family: 'Raleway', sans-serif;
   letter-spacing:1px;
@@ -126,7 +132,7 @@ h1{
 
 @media (max-width:360px){
   h1{
-    font-size:12.5em;
+    /* font-size:12.5em; */
   }
   .go-home{
     margin-bottom:20px;
@@ -140,6 +146,9 @@ h1{
 }
 
 @media (max-width:600px){
+  main{
+    padding-top:50px;
+  }
   .thankyoucontent{
   max-width:1000px;
   margin:0 auto;
@@ -165,7 +174,11 @@ h1{
 }
 </style>
 
-
+<script>
+   setTimeout(function(){
+      window.location.href = 'index.php';
+   }, 3000); // Redirects after 5 seconds
+</script>
 
 <?php
     include 'footer.php';
