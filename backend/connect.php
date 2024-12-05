@@ -10,9 +10,9 @@ define('DB_PASS', '');
 define('DB_NAME', 'shirana');
 
 // define('DB_HOST', 'localhost');
-// define('DB_USER', 'u770425257_yogeshc');
-// define('DB_PASS', '~9Su&msJ82*z');
-// define('DB_NAME', 'u770425257_yogeshc');
+// define('DB_USER', 'u770425257_shrirana');
+// define('DB_PASS', '9Z!CAN9w+P');
+// define('DB_NAME', 'u770425257_shrirana');
 
 function connect()
 {

@@ -5,7 +5,7 @@
 			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
 				<div class="ulockd-footer-fst-col">
 					<div class="ulockd-welcm-hmddl">
-						<p href="index.html" class="ulockd-main-logo main-logo footer-logo">NAGARI VIKAS<br>
+						<p href="index.html" class="ulockd-main-logo main-logo footer-logo">NAGARI VIKAS
 							SEVABHAVI SANSTHA</p>
 					</div>
 					<!-- <img alt="" src="images/footer-logo.png" class="img-responsive ulockd-footer-log"> -->
@@ -28,23 +28,23 @@
 			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 				<div class="ulockd-footer-contact">
 					<h3 class="text-uppercase">CONTACT <span class="text-thm2">US</span></h3>
-					<p>House no 2 Lane no 12, Pundaliknagar Garkheda, Chh. Sambhajinagar 431001.</p>
-					<div class="ulockd-ftr-phone"><span>Phone </span>: <a href="tel:+91 8308136689" class="ulockd-addrss">+91 8308136689,</a><a href="tel:+91 8668615130" class="ulockd-addrss">+91 8668615130</a>
+					<div class="ulockd-ftr-mail"><span class="fa fa-location footer-icon fs-4">&nbsp; </span>  &nbsp;
+						<p>House no 2 Lane no 12, Pundaliknagar Garkheda, Chh. Sambhajinagar 431001.</p>
 					</div>
-					<div class="ulockd-ftr-mail"><span>Email&nbsp; </span> :&nbsp; 
+					<div class="ulockd-ftr-mail"><span class="fa fa-envelope footer-icon fs-4">&nbsp; </span> &nbsp;
 						<span>
 							<a href="mailto:lalchandrajput1967@gmail.com">lalchandrajput1967@gmail.com</a>,
 							<a href="mailto:sachintatu0009@gmail.com"> sachintatu0009@gmail.com</a>
 						</span>
 					</div>
-					<!-- <div class="ulockd-ftr-mail"><span>Website </span>: <a href="#"> https://envato.com/</a></div>
-					<div class="ulockd-ftr-mail"><span>Website </span>: <a href="#"> https://themeforest.net/</a></div> -->
+					<div class="ulockd-ftr-phone"><span class="fa fa-phone footer-icon fs-4">&nbsp; </span>&nbsp; <span><a href="tel:+91 8308136689" class="ulockd-addrss">+91- 8308136689,</a><a href="tel:+91 8668615130" class="ulockd-addrss">+91- 8668615130</a></span>
+					</div>
+
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 				<div class="ulockd-footer-twitter example1">
 					<h3 class="text-uppercase">FOLLOW <span class="text-thm2">US</span></h3>
-
 
 					<ul class="list-inline ulockd-footer-font-icon">
 						<li><a href="#"><i class="fa-brands fa-facebook-f" style="color: #fff;"></i></a></li>

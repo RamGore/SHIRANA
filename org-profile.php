@@ -19,7 +19,7 @@ include 'header.php';
 		</div>
 	</div>
 
-	
+
 
 
 
@@ -54,12 +54,12 @@ include 'header.php';
                 <td>PAN No.</td>
                 <td>AAAAN6087D</td>
             </tr>
-            
+
         </tbody>
     </table>
 
 
-	
+
 	<?php
 include 'footer.php';
 ?>

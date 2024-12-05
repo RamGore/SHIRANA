@@ -82,8 +82,8 @@
   width: 100%;
   border-radius: 20px;
   padding-left: 1px;
-  min-height: 300px;
-  max-height: 300px;
+  min-height: 320px;
+  max-height: 320px;
   background-image: cover;
 }
 
@@ -133,13 +133,19 @@
 .cont-cent {
   display: flex;
   justify-content: space-between;
+  font-size: 16px;
+}
+.feature-box{
+  padding: 30px;
 }
 
 .ulockd-ftr-mail{
   display: flex;
+  padding-bottom:5px ;
 }
 .ulockd-ftr-mail a{
   color: #fff;
+  font-size: 18px;
 }
 
 
@@ -150,8 +156,9 @@
 
   .cont-cent {
     display: block;
-
+    text-align: center;
   }
+
 
   .navbar-header {
     visibility: visible;
@@ -332,23 +339,25 @@
 /* header-logo */
 .ulockd-welcm-hmddl .header-logo{
   color: #ffb606;
-  text-align: center; 
-  margin: 10px 0; 
+  text-align: center;
+  margin: 10px 0;
   font-size: 24px;
   display: flex;
   line-height: 1.2;
 }
 
 .ulockd-main-logo {
-  font-family: 'Roboto Slab', serif; 
+  font-family: "Open Sans", sans-serif !important;
   font-size: 24px;
-  color: #ffb606;
+  color: red;
   text-decoration: none;
+  max-width: 300px;
   font-weight: bold;
+  text-align: center;
 }
-
 .footer-logo{
   color:#ffb606;
   line-height: 1.2;
   margin: 20px 0px 11px !important;
+  text-align: left;
 }

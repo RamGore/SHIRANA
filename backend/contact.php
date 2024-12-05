@@ -20,33 +20,49 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Execute SQL query
     if ($conn->query($sql) === TRUE) {
-        // Send email
-        $mailto = "gore64643@gmail.com";
-        $subject = "For " . $subject;
-        $email_message = "Full Name: " . $name . "\n"
-            . "Email: " . $email . "\n"
-            . "Mobile No.: " . $mobile . "\n"
-            . "Name of Subject: " . $subject . "\n"
-            . "Message : " . $message;
+
+        // Send email to admin
+        $adminEmail = "gore64643@gmail.com";
+        $adminSubject = "New Enquiry: " . $subject;
+        $adminMessage =
+            "Dear Admin,\n\n" .
+            "We have received a new enquiry through the contact us form on the website. Here are the details:\n\n" .
+            "Full Name: " . $name . "\n" .
+            "Email: " . $email . "\n" .
+            "Mobile No.: " . $mobile . "\n" .
+            "Subject: " . $subject . "\n" .
+            "Message: " . $message . "\n\n" .
+            "Best regards,\n" .
+            $name;
+
         $headers = "From: " . $email;
 
-        $result1 = mail($mailto, $subject, $email_message, $headers);
+        $adminEmailResult = mail($adminEmail, $adminSubject, $adminMessage, $headers);
 
-        if ($result1) {
-            $response = array(
-                'success' => true,
-                'message' => 'Your message has been sent.'
-            );
+        // Send acknowledgment email to the user
+        $userSubject = "Thank you for contacting us";
+        $userMessage =
+            "Dear " . $name . ",\n\n" .
+            "Thank you for reaching out to us. We have received your message and will get back to you shortly.\n\n" .
+            "Best regards,\n" .
+            "NAGARI VIKAS SEVABHAVI SANSTHA";
+
+        $userEmailResult = mail($email, $userSubject, $userMessage, $headers);
+
+        if ($adminEmailResult && $userEmailResult) {
+            header('Location: thankyou.php');
+            exit(); // Ensure no further code is executed after the redirect
         } else {
             $response = array(
                 'success' => false,
-                'message' => 'Error: Message not sent. Please try again later.'
+                'message' => 'Sorry! Message was not sent. Please try again later.'
             );
         }
+
     } else {
         $response = array(
             'success' => false,
-            'message' => "Error: " . $sql . "<br>" . $conn->error
+            'message' => 'Error: Message not sent. Please try again later.'
         );
     }
 
@@ -56,6 +72,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Send JSON response
     echo json_encode($response);
 }
-
-
 ?>

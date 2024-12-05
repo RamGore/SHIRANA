@@ -1,6 +1,36 @@
 <?php
-include 'header.php';
-?>
+include 'header.php'; ?>
+
+
+
+<style>
+     .float {
+            position: fixed;
+            width: 50px;
+            height: 50px;
+            bottom: 60px;
+            left: 20px;
+            background-color: #25d366;
+            color: #FFF;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 20px;
+            z-index: 100;
+        }
+
+        .my-float {
+            margin-top: 16px;
+        }
+
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<a href="https://web.whatsapp.com/send?phone=+919730840590&amp;text=Hello" class="float" target="_blank">
+    <i class="fab fa-whatsapp my-float"></i>
+</a>
+
+
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <div class="wrapper">
@@ -12,7 +42,7 @@ include 'header.php';
 
 
 	<!-- Home Design Inner Pages -->
-	<div class="ulockd-inner-home">
+	<div class="ulockd-inner-home-04">
 		<div class="container text-center">
 			<div class="row">
 				<div class="ulockd-inner-conraimer-details">
@@ -194,93 +224,5 @@ include 'header.php';
 
 
 
-<!-- <script src="./send_email_data.php"></script>
-
-	<script>
-		document.getElementById('inquiryForm').onsubmit = function(event) {
-			// Prevent form submission
-			event.preventDefault();
-
-			// Get form field values
-			var name = document.getElementById('form_name').value.trim();
-			var email = document.getElementById('form_email').value.trim();
-			var mobile = document.getElementById('form_phone').value.trim();
-			var subject = document.getElementById('form_subject').value;
-			var message = document.getElementById('form_message').value.trim();
-
-			// Simple email validation regex
-			var emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-			// Simple mobile number validation regex (10 digits)
-			var mobilePattern = /^\d{10}$/;
-			// Name should not contain numbers
-			var namePattern = /^[A-Za-z\s]+$/;
-
-			// Clear previous error messages
-			document.getElementById('nameError').innerText = '';
-			document.getElementById('emailError').innerText = '';
-			document.getElementById('mobileError').innerText = '';
-			document.getElementById('subjectError').innerText = '';
-			// document.getElementById('messageError').innerText = '';
-
-			// Validation checks
-			var isValid = true;
-
-			if (name === '' || !namePattern.test(name)) {
-				document.getElementById('nameError').innerText = 'Please enter a valid name (letters and spaces only).';
-				isValid = false;
-			}
-			if (email === '' || !emailPattern.test(email)) {
-				document.getElementById('emailError').innerText = 'Please enter a valid email address.';
-				isValid = false;
-			}
-			if (mobile === '' || !mobilePattern.test(mobile)) {
-				document.getElementById('mobileError').innerText = 'Please enter a valid mobile number (10 digits).';
-				isValid = false;
-			}
-			if (subject === '' || subject === '') {
-				document.getElementById('subjectError').innerText = 'Please enter a subject.';
-				isValid = false;
-			}
-			if (message === '') {
-				document.getElementById('messageError').innerText = 'Please enter your message.';
-				isValid = false;
-			}
-
-			// If all validations pass, submit the form
-			if (isValid) {
-				document.getElementById('inquiryForm').submit();
-			}
-		};
-	</script>
-	<a class="scrollToHome" href="#"><i class="fa fa-home"></i></a>
-</div> -->
-
-
-
-
-<?php
-include 'footer.php';
+<?php include 'footer.php';
 ?>
-<!-- Wrapper End -->
-<script type="text/javascript" src="js/jquery-1.12.4.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/bootsnav.js"></script>
-<script type="text/javascript" src="js/parallax.js"></script>
-<script type="text/javascript" src="js/scrollto.js"></script>
-<script type="text/javascript" src="js/jquery-scrolltofixed-min.js"></script>
-<script type="text/javascript" src="js/gallery.js"></script>
-<script type="text/javascript" src="js/wow.min.js"></script>
-<script type="text/javascript" src="js/slider.js"></script>
-<script type="text/javascript" src="js/video-player.js"></script>
-<script type="text/javascript" src="js/timepicker.js"></script>
-<script type="text/javascript" src="js/tweetie.js"></script>
-<!-- Google Map Javascript Codes -->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyABqK-5ngi3F1hrEsk7-mCcBPsjHM5_Gj0"></script>
-<script src="js/googlemaps.js"></script>
-<!-- Custom script for all pages -->
-<script type="text/javascript" src="js/script.js"></script>
-</body>
-
-<!-- Mirrored from unlockdesizn.com/html/nonprofit/be-ahand/page-contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Jul 2024 05:33:53 GMT -->
-
-</html>
